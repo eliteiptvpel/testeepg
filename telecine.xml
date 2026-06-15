@@ -1,185 +1,714 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="DISCOVERY CHANNEL FHD">
-    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0032.jpg" />
+  <channel id="TELECINE ACTION FHD">
+    <display-name lang="pt">TELECINE ACTION FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0164.jpg" />
     <url>http://www.tvinside.com.br</url>
   </channel>
-  <programme start="20260615060000 -0300" stop="20260615062200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  <channel id="TELECINE CULT FHD">
+    <display-name lang="pt">TELECINE CULT FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0168.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN FHD">
+    <display-name lang="pt">TELECINE FUN FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0163.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA FHD">
+    <display-name lang="pt">TELECINE PIPOCA FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0167.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM FHD">
+    <display-name lang="pt">TELECINE PREMIUM FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0165.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH FHD">
+    <display-name lang="pt">TELECINE TOUCH FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0166.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <programme start="20260615054000 -0300" stop="20260615081000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Origem</title>
   </programme>
-  <programme start="20260615062200 -0300" stop="20260615071000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  <programme start="20260615081000 -0300" stop="20260615103500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Divisão</title>
   </programme>
-  <programme start="20260615071000 -0300" stop="20260615085000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260615103500 -0300" stop="20260615121500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Os Portões do Inferno</title>
   </programme>
-  <programme start="20260615085000 -0300" stop="20260615093900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260615121500 -0300" stop="20260615140000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Os Mercenários 2</title>
   </programme>
-  <programme start="20260615093900 -0300" stop="20260615102800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260615140000 -0300" stop="20260615162000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Velozes &amp; Furiosos - Hobbs &amp; Shaw</title>
   </programme>
-  <programme start="20260615102800 -0300" stop="20260615120900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260615162000 -0300" stop="20260615181500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Truque de Mestre</title>
   </programme>
-  <programme start="20260615120900 -0300" stop="20260615135200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Vida Remota</title>
+  <programme start="20260615181500 -0300" stop="20260615201500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Carcereiros - O Filme</title>
   </programme>
-  <programme start="20260615135200 -0300" stop="20260615153300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260615201500 -0300" stop="20260615220000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Grande Muralha</title>
   </programme>
-  <programme start="20260615153300 -0300" stop="20260615162300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260615220000 -0300" stop="20260616002500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Velozes &amp; Furiosos 9</title>
   </programme>
-  <programme start="20260615162300 -0300" stop="20260615171300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260616002500 -0300" stop="20260616022500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Encontro Explosivo</title>
   </programme>
-  <programme start="20260615171300 -0300" stop="20260615185300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260616022500 -0300" stop="20260616041000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Adrenalina</title>
   </programme>
-  <programme start="20260615185300 -0300" stop="20260615203100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260616041000 -0300" stop="20260616060000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Psicopata Americano</title>
   </programme>
-  <programme start="20260615203100 -0300" stop="20260615212000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro</title>
+  <programme start="20260616060000 -0300" stop="20260616075500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Jogo de Poder</title>
   </programme>
-  <programme start="20260615212000 -0300" stop="20260615220900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro - Corredeiras do Alasca</title>
+  <programme start="20260616075500 -0300" stop="20260616095000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Famintos</title>
   </programme>
-  <programme start="20260615220900 -0300" stop="20260615225800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro: Caçadores de Riquezas</title>
+  <programme start="20260616095000 -0300" stop="20260616125000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Fogo Contra Fogo</title>
   </programme>
-  <programme start="20260615225800 -0300" stop="20260615234900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro - Minas Reativadas</title>
+  <programme start="20260616125000 -0300" stop="20260616142500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Stallone - Cobra</title>
   </programme>
-  <programme start="20260615234900 -0300" stop="20260616003800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Tudo por Ouro</title>
+  <programme start="20260616142500 -0300" stop="20260616163000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Tropa de Elite 2 - o Inimigo Agora É Outro</title>
   </programme>
-  <programme start="20260616003800 -0300" stop="20260616012600 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Vale do Diabo - Em Busca do Ouro</title>
+  <programme start="20260616163000 -0300" stop="20260616182000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">O Alvo</title>
   </programme>
-  <programme start="20260616012600 -0300" stop="20260616021400 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Monstros do Rio</title>
+  <programme start="20260616182000 -0300" stop="20260616182500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Filme</title>
   </programme>
-  <programme start="20260616021400 -0300" stop="20260616025800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">No Olho da Tempestade</title>
+  <programme start="20260616182500 -0300" stop="20260616201000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Amado</title>
   </programme>
-  <programme start="20260616025800 -0300" stop="20260616034600 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Instintos da Vida Selvagem</title>
+  <programme start="20260616201000 -0300" stop="20260616220000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">RAMBO III</title>
   </programme>
-  <programme start="20260616034600 -0300" stop="20260616044100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Planeta Azul II</title>
+  <programme start="20260616220000 -0300" stop="20260616234000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">O Código</title>
   </programme>
-  <programme start="20260616044100 -0300" stop="20260616053400 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Predadores</title>
+  <programme start="20260616234000 -0300" stop="20260617012000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Chamada</title>
   </programme>
-  <programme start="20260616053400 -0300" stop="20260616060000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  <programme start="20260617012000 -0300" stop="20260617030000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Perigo na Montanha</title>
   </programme>
-  <programme start="20260616060000 -0300" stop="20260616062200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  <programme start="20260617030000 -0300" stop="20260617044500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Noite Sangrenta</title>
   </programme>
-  <programme start="20260616062200 -0300" stop="20260616071000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  <programme start="20260617044500 -0300" stop="20260617063000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Luz do Demônio</title>
   </programme>
-  <programme start="20260616071000 -0300" stop="20260616085000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260617063000 -0300" stop="20260617083000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Máquina Mortífera</title>
   </programme>
-  <programme start="20260616085000 -0300" stop="20260616093900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260617083000 -0300" stop="20260617100500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">211 - O Grande Assalto</title>
   </programme>
-  <programme start="20260616093900 -0300" stop="20260616103100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260617100500 -0300" stop="20260617121500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Jurassic World - Reino Ameaçado</title>
   </programme>
-  <programme start="20260616103100 -0300" stop="20260616120900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260617121500 -0300" stop="20260617140000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">O Comando</title>
   </programme>
-  <programme start="20260616120900 -0300" stop="20260616135200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Vida Remota</title>
+  <programme start="20260617140000 -0300" stop="20260617155000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Grande Muralha</title>
   </programme>
-  <programme start="20260616135200 -0300" stop="20260616153300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260617155000 -0300" stop="20260617174500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Velozes e Furiosos</title>
   </programme>
-  <programme start="20260616153300 -0300" stop="20260616162300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260617174500 -0300" stop="20260617201000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Velozes &amp; Furiosos 9</title>
   </programme>
-  <programme start="20260616162300 -0300" stop="20260616171300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260617201000 -0300" stop="20260617220000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">O LUTADOR</title>
   </programme>
-  <programme start="20260616171300 -0300" stop="20260616185300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260617220000 -0300" stop="20260617235500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">O Alvo 2</title>
   </programme>
-  <programme start="20260616185300 -0300" stop="20260616203100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260617235500 -0300" stop="20260618014500 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">Os Mercenários 2</title>
   </programme>
-  <programme start="20260616203100 -0300" stop="20260616211700 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Destination X</title>
+  <programme start="20260618014500 -0300" stop="20260618042000 -0300" channel="TELECINE ACTION FHD">
+    <title lang="pt">A Origem</title>
   </programme>
-  <programme start="20260616211700 -0300" stop="20260616225600 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados - Campeões do Mundo</title>
+  <programme start="20260615060000 -0300" stop="20260615075500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Lumière! A Aventura Continua</title>
   </programme>
-  <programme start="20260616225600 -0300" stop="20260617003500 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260615075500 -0300" stop="20260615094500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A Morte Cansada</title>
   </programme>
-  <programme start="20260617003500 -0300" stop="20260617041300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Construções no Alasca</title>
+  <programme start="20260615094500 -0300" stop="20260615112500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Eu Sou o Amor</title>
   </programme>
-  <programme start="20260617041300 -0300" stop="20260617060000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Construções no Alasca</title>
+  <programme start="20260615112500 -0300" stop="20260615131500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Verão de 85</title>
   </programme>
-  <programme start="20260617060000 -0300" stop="20260617062200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  <programme start="20260615131500 -0300" stop="20260615152500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Adorável Vagabundo</title>
   </programme>
-  <programme start="20260617062200 -0300" stop="20260617071000 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  <programme start="20260615152500 -0300" stop="20260615172000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Os Goonies</title>
   </programme>
-  <programme start="20260617071000 -0300" stop="20260617084900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260615172000 -0300" stop="20260615201500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A Semente do Fruto Sagrado</title>
   </programme>
-  <programme start="20260617084900 -0300" stop="20260617093800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260615201500 -0300" stop="20260615220000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Perseguição Mortal</title>
   </programme>
-  <programme start="20260617093800 -0300" stop="20260617102700 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260615220000 -0300" stop="20260615235000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Gigantes Em Luta</title>
   </programme>
-  <programme start="20260617102700 -0300" stop="20260617120900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260615235000 -0300" stop="20260616013000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A História Sem Fim</title>
   </programme>
-  <programme start="20260617120900 -0300" stop="20260617135200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Vida Remota</title>
+  <programme start="20260616013000 -0300" stop="20260616041000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">O TRAIDOR</title>
   </programme>
-  <programme start="20260617135200 -0300" stop="20260617153300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260616041000 -0300" stop="20260616060000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Charro!</title>
   </programme>
-  <programme start="20260617153300 -0300" stop="20260617162300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla</title>
+  <programme start="20260616060000 -0300" stop="20260616074000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Bob Cuspe - Nós Não Gostamos de Gente</title>
   </programme>
-  <programme start="20260617162300 -0300" stop="20260617171300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  <programme start="20260616074000 -0300" stop="20260616093000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A Última Noite</title>
   </programme>
-  <programme start="20260617171300 -0300" stop="20260617185300 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  <programme start="20260616093000 -0300" stop="20260616111500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Avenida Beira-Mar</title>
   </programme>
-  <programme start="20260617185300 -0300" stop="20260617203100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Largados e Pelados</title>
+  <programme start="20260616111500 -0300" stop="20260616130000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A Liberdade é Azul</title>
   </programme>
-  <programme start="20260617203100 -0300" stop="20260617213100 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Operação Guerra Verde</title>
+  <programme start="20260616130000 -0300" stop="20260616150000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Paixão de Bravo</title>
   </programme>
-  <programme start="20260617213100 -0300" stop="20260617222200 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Operação Fronteira - Brasil</title>
+  <programme start="20260616150000 -0300" stop="20260616170000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">O Demolidor</title>
   </programme>
-  <programme start="20260617222200 -0300" stop="20260617230900 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Aeroporto - Área Restrita: Estados Unidos</title>
+  <programme start="20260616170000 -0300" stop="20260616195500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">SCARFACE</title>
   </programme>
-  <programme start="20260617230900 -0300" stop="20260617235800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">As Piores Prisões do Mundo</title>
+  <programme start="20260616195500 -0300" stop="20260616220000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Inocência</title>
   </programme>
-  <programme start="20260617235800 -0300" stop="20260618004700 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Operação FBI</title>
+  <programme start="20260616220000 -0300" stop="20260616235000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Verão de 85</title>
   </programme>
-  <programme start="20260618004700 -0300" stop="20260618034800 -0300" channel="DISCOVERY CHANNEL FHD">
-    <title lang="pt">Aeroporto - Área Restrita</title>
+  <programme start="20260616235000 -0300" stop="20260617022500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">OS INFILTRADOS</title>
+  </programme>
+  <programme start="20260617022500 -0300" stop="20260617040000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Os Sonhos de Pepe</title>
+  </programme>
+  <programme start="20260617040000 -0300" stop="20260617060000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Motel Destino</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617080000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Que Horas ela Volta?</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617094000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">O Homem que Eu Devia Odiar</title>
+  </programme>
+  <programme start="20260617094000 -0300" stop="20260617120500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">As Pontes de Madison</title>
+  </programme>
+  <programme start="20260617120500 -0300" stop="20260617140000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Lumière! A Aventura Continua</title>
+  </programme>
+  <programme start="20260617140000 -0300" stop="20260617162500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Estrada Perdida</title>
+  </programme>
+  <programme start="20260617162500 -0300" stop="20260617181500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Gigantes Em Luta</title>
+  </programme>
+  <programme start="20260617181500 -0300" stop="20260617201000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Nouvelle vague</title>
+  </programme>
+  <programme start="20260617201000 -0300" stop="20260617220000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">CASABLANCA</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260618002000 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Menina de Ouro</title>
+  </programme>
+  <programme start="20260618002000 -0300" stop="20260618023500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">Orgulho e Preconceito</title>
+  </programme>
+  <programme start="20260618023500 -0300" stop="20260618042500 -0300" channel="TELECINE CULT FHD">
+    <title lang="pt">A Última Noite</title>
+  </programme>
+  <programme start="20260615052000 -0300" stop="20260615070000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">As Apimentadas - Mandando Ver</title>
+  </programme>
+  <programme start="20260615070000 -0300" stop="20260615084500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Vai que Cola - O Filme</title>
+  </programme>
+  <programme start="20260615084500 -0300" stop="20260615102500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">A Filha do Rei</title>
+  </programme>
+  <programme start="20260615102500 -0300" stop="20260615120500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Princesa por Acidente</title>
+  </programme>
+  <programme start="20260615120500 -0300" stop="20260615135000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Jogo de Amor Em Las Vegas</title>
+  </programme>
+  <programme start="20260615135000 -0300" stop="20260615152000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">A Fuga das Galinhas</title>
+  </programme>
+  <programme start="20260615152000 -0300" stop="20260615170000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Babe - o Porquinho Atrapalhado na Cidade</title>
+  </programme>
+  <programme start="20260615170000 -0300" stop="20260615184000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Trolls</title>
+  </programme>
+  <programme start="20260615184000 -0300" stop="20260615184500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Filme</title>
+  </programme>
+  <programme start="20260615184500 -0300" stop="20260615202500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Trolls 2</title>
+  </programme>
+  <programme start="20260615202500 -0300" stop="20260615220000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Johnny English</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615233500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Madagascar 2 - A Grande Escapada</title>
+  </programme>
+  <programme start="20260615233500 -0300" stop="20260616011500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Os Inseparáveis</title>
+  </programme>
+  <programme start="20260616011500 -0300" stop="20260616031500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Bem-vinda A Quixeramobim</title>
+  </programme>
+  <programme start="20260616031500 -0300" stop="20260616050000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Não Se Preocupe, Nada Vai Dar Certo!</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616063000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Spirit - O Corcel Indomável</title>
+  </programme>
+  <programme start="20260616063000 -0300" stop="20260616080000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Missão Antena - Uma Aventura Intergaláctica</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616093500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Como Agarrar Meu Ex-namorado</title>
+  </programme>
+  <programme start="20260616093500 -0300" stop="20260616111000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Os Aventureiros - A Origem</title>
+  </programme>
+  <programme start="20260616111000 -0300" stop="20260616130000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Um Time Show de Bola</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616145000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Uma Aventura Lego</title>
+  </programme>
+  <programme start="20260616145000 -0300" stop="20260616164500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">De Volta para o Futuro Ii</title>
+  </programme>
+  <programme start="20260616164500 -0300" stop="20260616184000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Gremlins</title>
+  </programme>
+  <programme start="20260616184000 -0300" stop="20260616203500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Bridget Jones - No Limite da Razão</title>
+  </programme>
+  <programme start="20260616203500 -0300" stop="20260616220000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Quem É Morto Sempre Aparece</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616235000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">O Grinch</title>
+  </programme>
+  <programme start="20260616235000 -0300" stop="20260617013500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+  </programme>
+  <programme start="20260617013500 -0300" stop="20260617031500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">As Apimentadas - Mandando Ver</title>
+  </programme>
+  <programme start="20260617031500 -0300" stop="20260617050500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">A Morte Lhe Cai Bem</title>
+  </programme>
+  <programme start="20260617050500 -0300" stop="20260617070000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Roubo Nas Alturas</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617084000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">As Aventuras de Peabody e Sherman</title>
+  </programme>
+  <programme start="20260617084000 -0300" stop="20260617100500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Vic o Viking e a Espada Mágica</title>
+  </programme>
+  <programme start="20260617100500 -0300" stop="20260617115500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Sorte no Amor</title>
+  </programme>
+  <programme start="20260617115500 -0300" stop="20260617132500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">NUNCA FUI SANTA</title>
+  </programme>
+  <programme start="20260617132500 -0300" stop="20260617150000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Johnny English</title>
+  </programme>
+  <programme start="20260617150000 -0300" stop="20260617164000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Os Inseparáveis</title>
+  </programme>
+  <programme start="20260617164000 -0300" stop="20260617181500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Madagascar 2 - A Grande Escapada</title>
+  </programme>
+  <programme start="20260617181500 -0300" stop="20260617195500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Tire 5 Cartas</title>
+  </programme>
+  <programme start="20260617195500 -0300" stop="20260617220000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Juntos e Misturados</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617233500 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">A Fuga das Galinhas</title>
+  </programme>
+  <programme start="20260617233500 -0300" stop="20260618012000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Dolittle</title>
+  </programme>
+  <programme start="20260618012000 -0300" stop="20260618032000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Uma Ladra Sem Limites</title>
+  </programme>
+  <programme start="20260618032000 -0300" stop="20260618050000 -0300" channel="TELECINE FUN FHD">
+    <title lang="pt">Planeta 51</title>
+  </programme>
+  <programme start="20260615053000 -0300" stop="20260615072000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Auto da Compadecida</title>
+  </programme>
+  <programme start="20260615072000 -0300" stop="20260615074500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Só Mais uma Frase</title>
+  </programme>
+  <programme start="20260615074500 -0300" stop="20260615101000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Grande Gatsby</title>
+  </programme>
+  <programme start="20260615101000 -0300" stop="20260615122500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Jurassic Park: O Parque dos Dinossauros</title>
+  </programme>
+  <programme start="20260615122500 -0300" stop="20260615142500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Rampage - Destruição Total</title>
+  </programme>
+  <programme start="20260615142500 -0300" stop="20260615161000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Vovó... Zona 2</title>
+  </programme>
+  <programme start="20260615161000 -0300" stop="20260615180500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Na Mira do Perigo</title>
+  </programme>
+  <programme start="20260615180500 -0300" stop="20260615194500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Diablo - Caçada Mortal</title>
+  </programme>
+  <programme start="20260615194500 -0300" stop="20260615220000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Guarda-costas</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260616000500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Mad Max - Estrada da Fúria</title>
+  </programme>
+  <programme start="20260616000500 -0300" stop="20260616015500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">A Longa Marcha - Caminhe ou Morra</title>
+  </programme>
+  <programme start="20260616015500 -0300" stop="20260616040000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Cinquenta Tons Mais Escuros</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616060000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Jorge da Capadócia</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616073000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Patrulha Canina - Um Filme Superpoderoso</title>
+  </programme>
+  <programme start="20260616073000 -0300" stop="20260616082500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Miraculous World - Paris, as Aventuras de Shadybug e Claw Noir</title>
+  </programme>
+  <programme start="20260616082500 -0300" stop="20260616102000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">A Filha do Presidente</title>
+  </programme>
+  <programme start="20260616102000 -0300" stop="20260616123000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Velozes e Furiosos 6</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616144500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Truque de Mestre - O 2º Ato</title>
+  </programme>
+  <programme start="20260616144500 -0300" stop="20260616163500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Fúria de Titãs</title>
+  </programme>
+  <programme start="20260616163500 -0300" stop="20260616182500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Amigos Imaginários</title>
+  </programme>
+  <programme start="20260616182500 -0300" stop="20260616200500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Reféns na Ponte</title>
+  </programme>
+  <programme start="20260616200500 -0300" stop="20260616220000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Os Farofeiros 2</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616233500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Mentiroso</title>
+  </programme>
+  <programme start="20260616233500 -0300" stop="20260617012000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Os Mercenários 4</title>
+  </programme>
+  <programme start="20260617012000 -0300" stop="20260617032000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">De Pernas Pro ar 3</title>
+  </programme>
+  <programme start="20260617032000 -0300" stop="20260617052000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">MAMMA MIA!</title>
+  </programme>
+  <programme start="20260617052000 -0300" stop="20260617071500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Red - Aposentados e Perigosos</title>
+  </programme>
+  <programme start="20260617071500 -0300" stop="20260617090000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Vovó... Zona 2</title>
+  </programme>
+  <programme start="20260617090000 -0300" stop="20260617105000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Professor Aloprado 2 - a Família Klump</title>
+  </programme>
+  <programme start="20260617105000 -0300" stop="20260617124000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Audi vs. Lancia - Corrida pela Glória</title>
+  </programme>
+  <programme start="20260617124000 -0300" stop="20260617142500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Batem à Porta</title>
+  </programme>
+  <programme start="20260617142500 -0300" stop="20260617160500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Loucas em Apuros</title>
+  </programme>
+  <programme start="20260617160500 -0300" stop="20260617183000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Nasce uma Estrela</title>
+  </programme>
+  <programme start="20260617183000 -0300" stop="20260617201000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Rambo Ii - a Missão</title>
+  </programme>
+  <programme start="20260617201000 -0300" stop="20260617220000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">A Longa Marcha - Caminhe ou Morra</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617234500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Deixa Acontecer</title>
+  </programme>
+  <programme start="20260617234500 -0300" stop="20260618020000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">O Guarda-costas</title>
+  </programme>
+  <programme start="20260618020000 -0300" stop="20260618033500 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Os Estranhos - Capítulo 1</title>
+  </programme>
+  <programme start="20260618033500 -0300" stop="20260618053000 -0300" channel="TELECINE PIPOCA FHD">
+    <title lang="pt">Tô Ryca</title>
+  </programme>
+  <programme start="20260615051000 -0300" stop="20260615080000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Marighella</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615094000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Pinocchio - O Menino de Madeira</title>
+  </programme>
+  <programme start="20260615094000 -0300" stop="20260615115000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Nosso Sonho</title>
+  </programme>
+  <programme start="20260615115000 -0300" stop="20260615134000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Códigos Ocultos</title>
+  </programme>
+  <programme start="20260615134000 -0300" stop="20260615154000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Sir?t</title>
+  </programme>
+  <programme start="20260615154000 -0300" stop="20260615174000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Eu só Posso Imaginar</title>
+  </programme>
+  <programme start="20260615174000 -0300" stop="20260615201500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes</title>
+  </programme>
+  <programme start="20260615201500 -0300" stop="20260615220000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Deixa Acontecer</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615235500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Truque de Mestre - O 3° Ato</title>
+  </programme>
+  <programme start="20260615235500 -0300" stop="20260616014500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Duro de Casar</title>
+  </programme>
+  <programme start="20260616014500 -0300" stop="20260616031500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Heróis da Máscara Dourada</title>
+  </programme>
+  <programme start="20260616031500 -0300" stop="20260616062000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">O Conde de Monte Cristo</title>
+  </programme>
+  <programme start="20260616062000 -0300" stop="20260616080500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Armadilhas do Passado</title>
+  </programme>
+  <programme start="20260616080500 -0300" stop="20260616102500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Chernobyl: O Filme</title>
+  </programme>
+  <programme start="20260616102500 -0300" stop="20260616123500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Invasão ao Serviço Secreto</title>
+  </programme>
+  <programme start="20260616123500 -0300" stop="20260616144000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Fúria em Alto Mar</title>
+  </programme>
+  <programme start="20260616144000 -0300" stop="20260616163000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Agente das Sombras</title>
+  </programme>
+  <programme start="20260616163000 -0300" stop="20260616183000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Mais que Especiais</title>
+  </programme>
+  <programme start="20260616183000 -0300" stop="20260616201000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Mãe Fora da Caixa</title>
+  </programme>
+  <programme start="20260616201000 -0300" stop="20260616220000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260617005000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">John Wick 4: Baba Yaga</title>
+  </programme>
+  <programme start="20260617005000 -0300" stop="20260617023000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Faster - No Limite da Velocidade</title>
+  </programme>
+  <programme start="20260617023000 -0300" stop="20260617041500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Missão Suicida</title>
+  </programme>
+  <programme start="20260617041500 -0300" stop="20260617053500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Todo Mundo Ainda Tem Problemas Sexuais</title>
+  </programme>
+  <programme start="20260617053500 -0300" stop="20260617074500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Nosso Sonho</title>
+  </programme>
+  <programme start="20260617074500 -0300" stop="20260617093000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Houria - Dançando no Silêncio</title>
+  </programme>
+  <programme start="20260617093000 -0300" stop="20260617110000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Debaixo do Píer</title>
+  </programme>
+  <programme start="20260617110000 -0300" stop="20260617124000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">A Sogra Perfeita</title>
+  </programme>
+  <programme start="20260617124000 -0300" stop="20260617143000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Até o Limite</title>
+  </programme>
+  <programme start="20260617143000 -0300" stop="20260617163000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Eu só Posso Imaginar</title>
+  </programme>
+  <programme start="20260617163000 -0300" stop="20260617182500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Todo Tempo que Temos</title>
+  </programme>
+  <programme start="20260617182500 -0300" stop="20260617201500 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Ingresso para o Paraíso</title>
+  </programme>
+  <programme start="20260617201500 -0300" stop="20260617220000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Rambo - Até o Fim</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260618001000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Os Enforcados</title>
+  </programme>
+  <programme start="20260618001000 -0300" stop="20260618021000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Truque de Mestre - O 3° Ato</title>
+  </programme>
+  <programme start="20260618021000 -0300" stop="20260618050000 -0300" channel="TELECINE PREMIUM FHD">
+    <title lang="pt">Marighella</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615075500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Deus Não está Morto - Uma Luz na Escuridão</title>
+  </programme>
+  <programme start="20260615075500 -0300" stop="20260615093000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">O Homem Cordial</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615111500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">GAROTA MIMADA</title>
+  </programme>
+  <programme start="20260615111500 -0300" stop="20260615130000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Juntos e Enrolados</title>
+  </programme>
+  <programme start="20260615130000 -0300" stop="20260615145500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Nanny Mcphee e as Lições Magicas</title>
+  </programme>
+  <programme start="20260615145500 -0300" stop="20260615164500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">As Apimentadas - Tudo ou Nada</title>
+  </programme>
+  <programme start="20260615164500 -0300" stop="20260615183500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">O Poder e o Impossível</title>
+  </programme>
+  <programme start="20260615183500 -0300" stop="20260615202500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Um Amor para Recordar</title>
+  </programme>
+  <programme start="20260615202500 -0300" stop="20260615220000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Confia - Sonho de Cria</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260616000500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Um Porto Seguro</title>
+  </programme>
+  <programme start="20260616000500 -0300" stop="20260616020500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Intocáveis</title>
+  </programme>
+  <programme start="20260616020500 -0300" stop="20260616035000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Quatro Vidas de um Cachorro</title>
+  </programme>
+  <programme start="20260616035000 -0300" stop="20260616055500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">LINHA DE PASSE</title>
+  </programme>
+  <programme start="20260616055500 -0300" stop="20260616074000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Meu Pai</title>
+  </programme>
+  <programme start="20260616074000 -0300" stop="20260616100500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Infiltrado na Klan</title>
+  </programme>
+  <programme start="20260616100500 -0300" stop="20260616120500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Cidade dos Anjos</title>
+  </programme>
+  <programme start="20260616120500 -0300" stop="20260616134500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">De Volta à Itália</title>
+  </programme>
+  <programme start="20260616134500 -0300" stop="20260616153000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Entrevista com Deus</title>
+  </programme>
+  <programme start="20260616153000 -0300" stop="20260616174000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Podres de Ricos</title>
+  </programme>
+  <programme start="20260616174000 -0300" stop="20260616201000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Tim Maia</title>
+  </programme>
+  <programme start="20260616201000 -0300" stop="20260616220000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Antes do Amanhecer</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616233000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Antes do Pôr-do-Sol</title>
+  </programme>
+  <programme start="20260616233000 -0300" stop="20260617015500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Noé</title>
+  </programme>
+  <programme start="20260617015500 -0300" stop="20260617034000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">O Melhor Amigo</title>
+  </programme>
+  <programme start="20260617034000 -0300" stop="20260617054500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Magic Mike XXL</title>
+  </programme>
+  <programme start="20260617054500 -0300" stop="20260617080000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">DOZE HOMENS E OUTRO SEGREDO</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617100000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Nanny Mcphee e as Lições Magicas</title>
+  </programme>
+  <programme start="20260617100000 -0300" stop="20260617115500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+  </programme>
+  <programme start="20260617115500 -0300" stop="20260617134000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Jardim dos Girassóis</title>
+  </programme>
+  <programme start="20260617134000 -0300" stop="20260617155000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Mensagem para Você</title>
+  </programme>
+  <programme start="20260617155000 -0300" stop="20260617173500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Quatro Vidas de um Cachorro</title>
+  </programme>
+  <programme start="20260617173500 -0300" stop="20260617174000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Filme</title>
+  </programme>
+  <programme start="20260617174000 -0300" stop="20260617195000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">A Paixão de Cristo</title>
+  </programme>
+  <programme start="20260617195000 -0300" stop="20260617220000 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Questão de Tempo</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260618000500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">A Escolha Perfeita 2</title>
+  </programme>
+  <programme start="20260618000500 -0300" stop="20260618020500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Efeito Borboleta</title>
+  </programme>
+  <programme start="20260618020500 -0300" stop="20260618042500 -0300" channel="TELECINE TOUCH FHD">
+    <title lang="pt">Garra de Ferro</title>
   </programme>
 </tv>
