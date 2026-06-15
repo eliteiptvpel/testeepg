@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO FHD">
+    <display-name lang="pt">HBO FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO MUNDI FHD">
+    <display-name lang="pt">HBO MUNDI FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ANIMAL PLANET FHD">
+    <display-name lang="pt">ANIMAL PLANET FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20260615134500 -0300" stop="20260615144000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+  </programme>
+  <programme start="20260615144000 -0300" stop="20260615153000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+  </programme>
+  <programme start="20260615153000 -0300" stop="20260615162000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20260615162000 -0300" stop="20260615171000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20260615171000 -0300" stop="20260615180000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Miami</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615185000 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+  </programme>
+  <programme start="20260615185000 -0300" stop="20260615194000 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+  </programme>
+  <programme start="20260615194000 -0300" stop="20260615203000 -0300" channel="AXN FHD">
+    <title lang="pt">S.W.A.T.</title>
+  </programme>
+  <programme start="20260615203000 -0300" stop="20260615212000 -0300" channel="AXN FHD">
+    <title lang="pt">S.W.A.T.</title>
+  </programme>
+  <programme start="20260615212000 -0300" stop="20260615221000 -0300" channel="AXN FHD">
+    <title lang="pt">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20260615221000 -0300" stop="20260615230000 -0300" channel="AXN FHD">
+    <title lang="pt">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260615235500 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+  </programme>
+  <programme start="20260615235500 -0300" stop="20260616005000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+  </programme>
+  <programme start="20260615134700 -0300" stop="20260615144100 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20260615144100 -0300" stop="20260615153500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Veterinários do Texas</title>
+  </programme>
+  <programme start="20260615153500 -0300" stop="20260615162500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Tubarões Voadores: A Caçada</title>
+  </programme>
+  <programme start="20260615162500 -0300" stop="20260615171500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Tubarão-Mako: Sangue nas Águas</title>
+  </programme>
+  <programme start="20260615171500 -0300" stop="20260615180500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20260615180500 -0300" stop="20260615185500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20260615185500 -0300" stop="20260615194500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260615194500 -0300" stop="20260615203500 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260615203500 -0300" stop="20260615212800 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">A Caçadora de Cobras</title>
+  </programme>
+  <programme start="20260615212800 -0300" stop="20260615221800 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Caçadores de Pítons</title>
+  </programme>
+  <programme start="20260615221800 -0300" stop="20260615230900 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Caçadores de Pítons</title>
+  </programme>
+  <programme start="20260615230900 -0300" stop="20260616000000 -0300" channel="ANIMAL PLANET FHD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+</tv>
