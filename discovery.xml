@@ -1,0 +1,2759 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISCOVERY KIDS FHD">
+    <display-name lang="pt">DISCOVERY KIDS FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0031.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL FHD">
+    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0032.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE FHD">
+    <display-name lang="pt">DISCOVERY SCIENCE FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0199.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER FHD">
+    <display-name lang="pt">DISCOVERY THEATER FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0183.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY TURBO FHD">
+    <display-name lang="pt">DISCOVERY TURBO FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0201.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY WORLD FHD">
+    <display-name lang="pt">DISCOVERY WORLD FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0220.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY ID FHD">
+    <display-name lang="pt">DISCOVERY ID FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0110.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="DISCOVERY HOME&amp;HEALTH">
+    <display-name lang="pt">DISCOVERY HOME&amp;HEALTH FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0054.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="HISTORY CHANANEL FHD">
+    <display-name lang="pt">HISTORY CHANNEL FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0056.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="HGTV FHD">
+    <display-name lang="pt">HGTV FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0257.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615065900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260615065900 -0300" stop="20260615071000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260615071000 -0300" stop="20260615083000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260615083000 -0300" stop="20260615085300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20260615085300 -0300" stop="20260615091600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260615091600 -0300" stop="20260615093900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260615093900 -0300" stop="20260615100400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260615100400 -0300" stop="20260615101800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260615101800 -0300" stop="20260615104000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260615104000 -0300" stop="20260615110400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260615110400 -0300" stop="20260615113700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615113700 -0300" stop="20260615120100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260615120100 -0300" stop="20260615122300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Academia Unicórnio</title>
+  </programme>
+  <programme start="20260615122300 -0300" stop="20260615124500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20260615124500 -0300" stop="20260615130700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20260615130700 -0300" stop="20260615133200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260615133200 -0300" stop="20260615140700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260615140700 -0300" stop="20260615143100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">LEGO DreamZzz - As Provas dos Caçadores de Sonhos</title>
+  </programme>
+  <programme start="20260615143100 -0300" stop="20260615144300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260615144300 -0300" stop="20260615145800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260615145800 -0300" stop="20260615151000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20260615151000 -0300" stop="20260615153200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260615153200 -0300" stop="20260615155700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615155700 -0300" stop="20260615160900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Bubble's Hotel</title>
+  </programme>
+  <programme start="20260615160900 -0300" stop="20260615162300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260615162300 -0300" stop="20260615164800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615164800 -0300" stop="20260615165900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20260615165900 -0300" stop="20260615171000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260615171000 -0300" stop="20260615180300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615180300 -0300" stop="20260615181400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260615181400 -0300" stop="20260615190000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260615190000 -0300" stop="20260615191400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260615191400 -0300" stop="20260615193800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260615193800 -0300" stop="20260615200000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615205000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615205000 -0300" stop="20260615211000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260615211000 -0300" stop="20260615213200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260615213200 -0300" stop="20260615215600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260615215600 -0300" stop="20260615230700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260615230700 -0300" stop="20260615233100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20260615233100 -0300" stop="20260615235700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260615235700 -0300" stop="20260616002200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260616002200 -0300" stop="20260616004500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20260616004500 -0300" stop="20260616010700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">100% Lobo - O Livro de Hath</title>
+  </programme>
+  <programme start="20260616010700 -0300" stop="20260616015100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20260616015100 -0300" stop="20260616022700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260616022700 -0300" stop="20260616024900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260616024900 -0300" stop="20260616031100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260616031100 -0300" stop="20260616033300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260616033300 -0300" stop="20260616035500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20260616035500 -0300" stop="20260616041700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260616041700 -0300" stop="20260616043900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260616043900 -0300" stop="20260616050200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616050200 -0300" stop="20260616052400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260616052400 -0300" stop="20260616060000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616065900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260616065900 -0300" stop="20260616071000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260616071000 -0300" stop="20260616083000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260616083000 -0300" stop="20260616085300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20260616085300 -0300" stop="20260616091600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260616091600 -0300" stop="20260616093900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260616093900 -0300" stop="20260616100400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260616100400 -0300" stop="20260616101800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260616101800 -0300" stop="20260616104000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260616104000 -0300" stop="20260616110400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260616110400 -0300" stop="20260616113700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616113700 -0300" stop="20260616120100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260616120100 -0300" stop="20260616122300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Academia Unicórnio</title>
+  </programme>
+  <programme start="20260616122300 -0300" stop="20260616124500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20260616124500 -0300" stop="20260616130700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20260616130700 -0300" stop="20260616133200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260616133200 -0300" stop="20260616140700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260616140700 -0300" stop="20260616143100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">LEGO DreamZzz - As Provas dos Caçadores de Sonhos</title>
+  </programme>
+  <programme start="20260616143100 -0300" stop="20260616144300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260616144300 -0300" stop="20260616145800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260616145800 -0300" stop="20260616151000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20260616151000 -0300" stop="20260616153200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260616153200 -0300" stop="20260616155700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616155700 -0300" stop="20260616160900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Bubble's Hotel</title>
+  </programme>
+  <programme start="20260616160900 -0300" stop="20260616162300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260616162300 -0300" stop="20260616164800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616164800 -0300" stop="20260616165900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20260616165900 -0300" stop="20260616171000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260616171000 -0300" stop="20260616174000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616174000 -0300" stop="20260616180300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616180300 -0300" stop="20260616181400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260616181400 -0300" stop="20260616190000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616191400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260616191400 -0300" stop="20260616193800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260616193800 -0300" stop="20260616200000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616200500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616200500 -0300" stop="20260616201000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616201000 -0300" stop="20260616201500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616201500 -0300" stop="20260616204000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616204000 -0300" stop="20260616204500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616204500 -0300" stop="20260616205000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616205000 -0300" stop="20260616211000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260616211000 -0300" stop="20260616213200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260616213200 -0300" stop="20260616215600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260616215600 -0300" stop="20260616224200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260616224200 -0300" stop="20260616230700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260616230700 -0300" stop="20260616233100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20260616233100 -0300" stop="20260616235700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260616235700 -0300" stop="20260617002200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260617002200 -0300" stop="20260617004500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20260617004500 -0300" stop="20260617010700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">100% Lobo - O Livro de Hath</title>
+  </programme>
+  <programme start="20260617010700 -0300" stop="20260617015100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20260617015100 -0300" stop="20260617022700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260617022700 -0300" stop="20260617023800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260617023800 -0300" stop="20260617024900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Bada Bean</title>
+  </programme>
+  <programme start="20260617024900 -0300" stop="20260617031100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260617031100 -0300" stop="20260617033300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260617033300 -0300" stop="20260617035500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20260617035500 -0300" stop="20260617041700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260617041700 -0300" stop="20260617043900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260617043900 -0300" stop="20260617050200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617050200 -0300" stop="20260617052400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260617052400 -0300" stop="20260617060000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617062500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617062500 -0300" stop="20260617064800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617065900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260617065900 -0300" stop="20260617071000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260617071000 -0300" stop="20260617083000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260617083000 -0300" stop="20260617085300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+  </programme>
+  <programme start="20260617085300 -0300" stop="20260617091600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260617091600 -0300" stop="20260617093900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260617093900 -0300" stop="20260617100400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260617100400 -0300" stop="20260617101800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260617101800 -0300" stop="20260617104000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260617104000 -0300" stop="20260617110400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260617110400 -0300" stop="20260617111400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617111400 -0300" stop="20260617113700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617113700 -0300" stop="20260617120100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260617120100 -0300" stop="20260617122300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Academia Unicórnio</title>
+  </programme>
+  <programme start="20260617122300 -0300" stop="20260617124500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Shasha &amp; Milo</title>
+  </programme>
+  <programme start="20260617124500 -0300" stop="20260617130700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Três Espiãs Demais</title>
+  </programme>
+  <programme start="20260617130700 -0300" stop="20260617133200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260617133200 -0300" stop="20260617140700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260617140700 -0300" stop="20260617143100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">LEGO DreamZzz - As Provas dos Caçadores de Sonhos</title>
+  </programme>
+  <programme start="20260617143100 -0300" stop="20260617144300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+  </programme>
+  <programme start="20260617144300 -0300" stop="20260617145800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260617145800 -0300" stop="20260617151000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Pinóquio e Seus Amigos</title>
+  </programme>
+  <programme start="20260617151000 -0300" stop="20260617153200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260617153200 -0300" stop="20260617155700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617155700 -0300" stop="20260617160900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Bubble's Hotel</title>
+  </programme>
+  <programme start="20260617160900 -0300" stop="20260617162300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260617162300 -0300" stop="20260617164800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617164800 -0300" stop="20260617165900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Lupi &amp; Baduki</title>
+  </programme>
+  <programme start="20260617165900 -0300" stop="20260617171000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Zouk a Bruxinha</title>
+  </programme>
+  <programme start="20260617171000 -0300" stop="20260617173500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617173500 -0300" stop="20260617174000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617174000 -0300" stop="20260617180300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617180300 -0300" stop="20260617181400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260617181400 -0300" stop="20260617190000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260617190000 -0300" stop="20260617191400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Turma da Mônica</title>
+  </programme>
+  <programme start="20260617191400 -0300" stop="20260617193800 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260617193800 -0300" stop="20260617200000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617201500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617201500 -0300" stop="20260617204000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617204000 -0300" stop="20260617205000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260617205000 -0300" stop="20260617211000 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260617211000 -0300" stop="20260617213200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+  </programme>
+  <programme start="20260617213200 -0300" stop="20260617215600 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+  </programme>
+  <programme start="20260617215600 -0300" stop="20260617230700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa Pig</title>
+  </programme>
+  <programme start="20260617230700 -0300" stop="20260617233100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Super Wish</title>
+  </programme>
+  <programme start="20260617233100 -0300" stop="20260617235700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260617235700 -0300" stop="20260618002200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+  </programme>
+  <programme start="20260618002200 -0300" stop="20260618004500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20260618004500 -0300" stop="20260618010700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">100% Lobo - O Livro de Hath</title>
+  </programme>
+  <programme start="20260618010700 -0300" stop="20260618015100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+  </programme>
+  <programme start="20260618015100 -0300" stop="20260618022700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">44 Gatos</title>
+  </programme>
+  <programme start="20260618022700 -0300" stop="20260618024900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Ba Da Bean</title>
+  </programme>
+  <programme start="20260618024900 -0300" stop="20260618031100 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Topo Gigio</title>
+  </programme>
+  <programme start="20260618031100 -0300" stop="20260618033300 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Underdogs United</title>
+  </programme>
+  <programme start="20260618033300 -0300" stop="20260618035500 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Kung Fu Wa</title>
+  </programme>
+  <programme start="20260618035500 -0300" stop="20260618041700 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Polly Pocket</title>
+  </programme>
+  <programme start="20260618041700 -0300" stop="20260618043900 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">O Show da Luna!</title>
+  </programme>
+  <programme start="20260618043900 -0300" stop="20260618050200 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Peppa</title>
+  </programme>
+  <programme start="20260618050200 -0300" stop="20260618052400 -0300" channel="DISCOVERY KIDS FHD">
+    <title lang="pt">Mundo do Barney</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260615062200 -0300" stop="20260615071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260615071000 -0300" stop="20260615085000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615085000 -0300" stop="20260615093900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260615093900 -0300" stop="20260615102800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260615102800 -0300" stop="20260615120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260615120900 -0300" stop="20260615135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260615135200 -0300" stop="20260615153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615153300 -0300" stop="20260615162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260615162300 -0300" stop="20260615171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260615171300 -0300" stop="20260615185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260615185300 -0300" stop="20260615203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615203100 -0300" stop="20260615212000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260615212000 -0300" stop="20260615220900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Corredeiras do Alasca</title>
+  </programme>
+  <programme start="20260615220900 -0300" stop="20260615225800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro: Caçadores de Riquezas</title>
+  </programme>
+  <programme start="20260615225800 -0300" stop="20260615234900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Minas Reativadas</title>
+  </programme>
+  <programme start="20260615234900 -0300" stop="20260616003800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tudo por Ouro</title>
+  </programme>
+  <programme start="20260616003800 -0300" stop="20260616012600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vale do Diabo - Em Busca do Ouro</title>
+  </programme>
+  <programme start="20260616012600 -0300" stop="20260616021400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20260616021400 -0300" stop="20260616025800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">No Olho da Tempestade</title>
+  </programme>
+  <programme start="20260616025800 -0300" stop="20260616034600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Instintos da Vida Selvagem</title>
+  </programme>
+  <programme start="20260616034600 -0300" stop="20260616044100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Planeta Azul II</title>
+  </programme>
+  <programme start="20260616044100 -0300" stop="20260616053400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Predadores</title>
+  </programme>
+  <programme start="20260616053400 -0300" stop="20260616060000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260616062200 -0300" stop="20260616071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260616071000 -0300" stop="20260616085000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616085000 -0300" stop="20260616093900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260616093900 -0300" stop="20260616103100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260616103100 -0300" stop="20260616120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260616120900 -0300" stop="20260616135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260616135200 -0300" stop="20260616153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616153300 -0300" stop="20260616162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260616162300 -0300" stop="20260616171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260616171300 -0300" stop="20260616185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260616185300 -0300" stop="20260616203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616203100 -0300" stop="20260616211700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Destination X</title>
+  </programme>
+  <programme start="20260616211700 -0300" stop="20260616225600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados - Campeões do Mundo</title>
+  </programme>
+  <programme start="20260616225600 -0300" stop="20260617003500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617003500 -0300" stop="20260617041300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20260617041300 -0300" stop="20260617060000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260617062200 -0300" stop="20260617071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260617071000 -0300" stop="20260617084900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617084900 -0300" stop="20260617093800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260617093800 -0300" stop="20260617102700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260617102700 -0300" stop="20260617120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260617120900 -0300" stop="20260617135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260617135200 -0300" stop="20260617153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617153300 -0300" stop="20260617162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260617162300 -0300" stop="20260617171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260617171300 -0300" stop="20260617185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260617185300 -0300" stop="20260617203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617203100 -0300" stop="20260617213100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação Guerra Verde</title>
+  </programme>
+  <programme start="20260617213100 -0300" stop="20260617222200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação Fronteira - Brasil</title>
+  </programme>
+  <programme start="20260617222200 -0300" stop="20260617230900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto - Área Restrita: Estados Unidos</title>
+  </programme>
+  <programme start="20260617230900 -0300" stop="20260617235800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+  </programme>
+  <programme start="20260617235800 -0300" stop="20260618004700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação FBI</title>
+  </programme>
+  <programme start="20260618004700 -0300" stop="20260618034800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+  </programme>
+  <programme start="20260615053600 -0300" stop="20260615062400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260615062400 -0300" stop="20260615071200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260615071200 -0300" stop="20260615080000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615084800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Olho Crítico</title>
+  </programme>
+  <programme start="20260615084800 -0300" stop="20260615093600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260615093600 -0300" stop="20260615102400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">A Verdade por Trás do Homem na Lua</title>
+  </programme>
+  <programme start="20260615102400 -0300" stop="20260615111200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260615111200 -0300" stop="20260615120000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615124800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260615124800 -0300" stop="20260615133600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260615133600 -0300" stop="20260615142400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260615142400 -0300" stop="20260615151200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260615151200 -0300" stop="20260615160000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desvendando o Passado</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615164800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Explodindo Tudo</title>
+  </programme>
+  <programme start="20260615164800 -0300" stop="20260615173600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260615173600 -0300" stop="20260615182400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">A História do Videogame</title>
+  </programme>
+  <programme start="20260615182400 -0300" stop="20260615191200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260615191200 -0300" stop="20260615200000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Explodindo Tudo</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615204800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260615204800 -0300" stop="20260615213600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260615213600 -0300" stop="20260615222400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260615222400 -0300" stop="20260615231200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260615231200 -0300" stop="20260616000000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616004800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260616004800 -0300" stop="20260616013600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260616013600 -0300" stop="20260616022400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260616022400 -0300" stop="20260616031200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260616031200 -0300" stop="20260616040000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616044800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Explodindo Tudo</title>
+  </programme>
+  <programme start="20260616044800 -0300" stop="20260616053600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260616053600 -0300" stop="20260616062400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260616062400 -0300" stop="20260616071200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260616071200 -0300" stop="20260616080000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616084800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Olho Crítico</title>
+  </programme>
+  <programme start="20260616084800 -0300" stop="20260616093600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260616093600 -0300" stop="20260616102400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">A Verdade por Trás do Homem na Lua</title>
+  </programme>
+  <programme start="20260616102400 -0300" stop="20260616111200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260616111200 -0300" stop="20260616120000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616124800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260616124800 -0300" stop="20260616133600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260616133600 -0300" stop="20260616142400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260616142400 -0300" stop="20260616151200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260616151200 -0300" stop="20260616160000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desvendando o Passado</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616164800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios da Humanidade com Megan Fox</title>
+  </programme>
+  <programme start="20260616164800 -0300" stop="20260616173600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260616173600 -0300" stop="20260616182400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Dubai Futurista</title>
+  </programme>
+  <programme start="20260616182400 -0300" stop="20260616191200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260616191200 -0300" stop="20260616200000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Explodindo Tudo</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616204800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260616204800 -0300" stop="20260616213600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260616213600 -0300" stop="20260616222400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260616222400 -0300" stop="20260616231200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260616231200 -0300" stop="20260617000000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617004800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260617004800 -0300" stop="20260617013600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260617013600 -0300" stop="20260617022400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260617022400 -0300" stop="20260617031200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260617031200 -0300" stop="20260617040000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260617040000 -0300" stop="20260617044800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Explodindo Tudo</title>
+  </programme>
+  <programme start="20260617044800 -0300" stop="20260617053600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260617053600 -0300" stop="20260617062400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260617062400 -0300" stop="20260617071200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260617071200 -0300" stop="20260617080000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617084800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Olho Crítico</title>
+  </programme>
+  <programme start="20260617084800 -0300" stop="20260617093600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260617093600 -0300" stop="20260617102400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">A Verdade por Trás do Homem na Lua</title>
+  </programme>
+  <programme start="20260617102400 -0300" stop="20260617111200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260617111200 -0300" stop="20260617120000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617124800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260617124800 -0300" stop="20260617133600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260617133600 -0300" stop="20260617142400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260617142400 -0300" stop="20260617151200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260617151200 -0300" stop="20260617160000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desvendando o Passado</title>
+  </programme>
+  <programme start="20260617160000 -0300" stop="20260617164800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios da Humanidade com Megan Fox</title>
+  </programme>
+  <programme start="20260617164800 -0300" stop="20260617173600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260617173600 -0300" stop="20260617182400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Treinamento na Lua</title>
+  </programme>
+  <programme start="20260617182400 -0300" stop="20260617191200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260617191200 -0300" stop="20260617200000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios da Humanidade com Megan Fox</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617204800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260617204800 -0300" stop="20260617213600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260617213600 -0300" stop="20260617222400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260617222400 -0300" stop="20260617231200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Desastre</title>
+  </programme>
+  <programme start="20260617231200 -0300" stop="20260618000000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Códigos e Conspirações</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618004800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260618004800 -0300" stop="20260618013600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Rumo ao Desconhecido - Mistérios Paranormais</title>
+  </programme>
+  <programme start="20260618013600 -0300" stop="20260618022400 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260618022400 -0300" stop="20260618031200 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+  </programme>
+  <programme start="20260618031200 -0300" stop="20260618040000 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Planeta Energia</title>
+  </programme>
+  <programme start="20260618040000 -0300" stop="20260618044800 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Mistérios da Humanidade com Megan Fox</title>
+  </programme>
+  <programme start="20260618044800 -0300" stop="20260618053600 -0300" channel="DISCOVERY SCIENCE FHD">
+    <title lang="pt">Um em Um Milhão</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615062400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">A Vingança do Nerd</title>
+  </programme>
+  <programme start="20260615062400 -0300" stop="20260615071200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260615071200 -0300" stop="20260615080000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615093600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260615093600 -0300" stop="20260615102400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20260615102400 -0300" stop="20260615111200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - A Última Fronteira</title>
+  </programme>
+  <programme start="20260615111200 -0300" stop="20260615120000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615124800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260615124800 -0300" stop="20260615142400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20260615142400 -0300" stop="20260615151200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260615151200 -0300" stop="20260615160000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">O Mestre das Espadas</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615164800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Nos Trilhos do Alasca</title>
+  </programme>
+  <programme start="20260615164800 -0300" stop="20260615173600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Rota Perigosa</title>
+  </programme>
+  <programme start="20260615173600 -0300" stop="20260615182400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Destiladores - Mestre Destilador</title>
+  </programme>
+  <programme start="20260615182400 -0300" stop="20260615191200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Histórias Animais</title>
+  </programme>
+  <programme start="20260615191200 -0300" stop="20260615200000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Trabalho Sujo</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615204800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Garimpeiros de Ruínas - Melhores Negócios</title>
+  </programme>
+  <programme start="20260615204800 -0300" stop="20260615213600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20260615213600 -0300" stop="20260615222400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Isto É Ciência - Com Mark Rober</title>
+  </programme>
+  <programme start="20260615222400 -0300" stop="20260616000000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616004800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20260616004800 -0300" stop="20260616013600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Capitães da Lagosta</title>
+  </programme>
+  <programme start="20260616013600 -0300" stop="20260616031200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">No Rastro do Pé-grande</title>
+  </programme>
+  <programme start="20260616031200 -0300" stop="20260616044800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260616044800 -0300" stop="20260616053600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260616053600 -0300" stop="20260616062400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260616062400 -0300" stop="20260616080000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616093600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260616093600 -0300" stop="20260616102400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260616102400 -0300" stop="20260616111200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260616111200 -0300" stop="20260616124800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260616124800 -0300" stop="20260616142400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260616142400 -0300" stop="20260616151200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20260616151200 -0300" stop="20260616160000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - A Última Fronteira</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616164800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260616164800 -0300" stop="20260616173600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260616173600 -0300" stop="20260616182400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Rumo ao Desconhecido</title>
+  </programme>
+  <programme start="20260616182400 -0300" stop="20260616191200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Histórias Animais</title>
+  </programme>
+  <programme start="20260616191200 -0300" stop="20260616200000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616204800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">O Mestre das Espadas</title>
+  </programme>
+  <programme start="20260616204800 -0300" stop="20260616213600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20260616213600 -0300" stop="20260616222400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">No Rastro do Pé-grande</title>
+  </programme>
+  <programme start="20260616222400 -0300" stop="20260617000000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617004800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Ouro Selvagem</title>
+  </programme>
+  <programme start="20260617004800 -0300" stop="20260617013600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">O Misterioso Triângulo do Alasca</title>
+  </programme>
+  <programme start="20260617013600 -0300" stop="20260617022400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - Operação Linhas Aéreas</title>
+  </programme>
+  <programme start="20260617022400 -0300" stop="20260617031200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Isto É Ciência - Com Mark Rober</title>
+  </programme>
+  <programme start="20260617031200 -0300" stop="20260617044800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260617044800 -0300" stop="20260617053600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20260617053600 -0300" stop="20260617062400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Capitães da Lagosta</title>
+  </programme>
+  <programme start="20260617062400 -0300" stop="20260617080000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">No Rastro do Pé-grande</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617093600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260617093600 -0300" stop="20260617102400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Megacargas</title>
+  </programme>
+  <programme start="20260617102400 -0300" stop="20260617111200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Capitães da Lagosta</title>
+  </programme>
+  <programme start="20260617111200 -0300" stop="20260617124800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">No Rastro do Pé-grande</title>
+  </programme>
+  <programme start="20260617124800 -0300" stop="20260617142400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Mistérios no Museu</title>
+  </programme>
+  <programme start="20260617142400 -0300" stop="20260617151200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Segredos e Lendas - Hotéis</title>
+  </programme>
+  <programme start="20260617151200 -0300" stop="20260617160000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Museu Mal-Assombrado</title>
+  </programme>
+  <programme start="20260617160000 -0300" stop="20260617173600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Pesca Mortal</title>
+  </programme>
+  <programme start="20260617173600 -0300" stop="20260617182400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Destiladores</title>
+  </programme>
+  <programme start="20260617182400 -0300" stop="20260617191200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Histórias Animais</title>
+  </programme>
+  <programme start="20260617191200 -0300" stop="20260617200000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617204800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - A Última Fronteira</title>
+  </programme>
+  <programme start="20260617204800 -0300" stop="20260617213600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Tudo por Ouro</title>
+  </programme>
+  <programme start="20260617213600 -0300" stop="20260617222400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Alasca: Perigo no Ar</title>
+  </programme>
+  <programme start="20260617222400 -0300" stop="20260618000000 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Alasca - A Última Fronteira</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618004800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Rota Perigosa</title>
+  </programme>
+  <programme start="20260618004800 -0300" stop="20260618013600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Polônia - A Última Fronteira</title>
+  </programme>
+  <programme start="20260618013600 -0300" stop="20260618022400 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Aventureiros da Montanha</title>
+  </programme>
+  <programme start="20260618022400 -0300" stop="20260618031200 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">No Rastro do Pé-grande</title>
+  </programme>
+  <programme start="20260618031200 -0300" stop="20260618044800 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Monstros da Montanha</title>
+  </programme>
+  <programme start="20260618044800 -0300" stop="20260618053600 -0300" channel="DISCOVERY THEATER FHD">
+    <title lang="pt">Ouro Selvagem</title>
+  </programme>
+  <programme start="20260615033000 -0300" stop="20260615065000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260615065000 -0300" stop="20260615074000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260615074000 -0300" stop="20260615083000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260615083000 -0300" stop="20260615092200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20260615092200 -0300" stop="20260615110600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260615110600 -0300" stop="20260615115800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos e Outros Mecânicos</title>
+  </programme>
+  <programme start="20260615115800 -0300" stop="20260615134200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Irados - Bastidores</title>
+  </programme>
+  <programme start="20260615134200 -0300" stop="20260615161800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260615161800 -0300" stop="20260615171000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Joias Sobre Rodas</title>
+  </programme>
+  <programme start="20260615171000 -0300" stop="20260615180200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos</title>
+  </programme>
+  <programme start="20260615180200 -0300" stop="20260615185400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20260615185400 -0300" stop="20260615194600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Vida Automotiva</title>
+  </programme>
+  <programme start="20260615194600 -0300" stop="20260615203800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260615203800 -0300" stop="20260615213000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260615213000 -0300" stop="20260615222200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260615222200 -0300" stop="20260615231400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20260615231400 -0300" stop="20260616015000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260616015000 -0300" stop="20260616024000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260616024000 -0300" stop="20260616033000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260616033000 -0300" stop="20260616042000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20260616042000 -0300" stop="20260616060000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616065000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Bad Chad - Fora do Padrão</title>
+  </programme>
+  <programme start="20260616065000 -0300" stop="20260616074000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260616074000 -0300" stop="20260616083000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Pequena Grande Oficina</title>
+  </programme>
+  <programme start="20260616083000 -0300" stop="20260616092200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Movidos a Diesel</title>
+  </programme>
+  <programme start="20260616092200 -0300" stop="20260616101400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Únicos</title>
+  </programme>
+  <programme start="20260616101400 -0300" stop="20260616110600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina RMD</title>
+  </programme>
+  <programme start="20260616110600 -0300" stop="20260616115800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260616115800 -0300" stop="20260616125000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260616125000 -0300" stop="20260616134200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260616134200 -0300" stop="20260616143400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal</title>
+  </programme>
+  <programme start="20260616143400 -0300" stop="20260616161800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260616161800 -0300" stop="20260616171000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos e Outros Mecânicos</title>
+  </programme>
+  <programme start="20260616171000 -0300" stop="20260616185400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Irados - Bastidores</title>
+  </programme>
+  <programme start="20260616185400 -0300" stop="20260616194600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Vida Automotiva</title>
+  </programme>
+  <programme start="20260616194600 -0300" stop="20260616203800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos</title>
+  </programme>
+  <programme start="20260616203800 -0300" stop="20260616213000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260616213000 -0300" stop="20260616222200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Pequena Grande Oficina</title>
+  </programme>
+  <programme start="20260616222200 -0300" stop="20260616231400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Movidos a Diesel</title>
+  </programme>
+  <programme start="20260616231400 -0300" stop="20260617000600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Únicos</title>
+  </programme>
+  <programme start="20260617000600 -0300" stop="20260617005800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260617005800 -0300" stop="20260617015000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos</title>
+  </programme>
+  <programme start="20260617015000 -0300" stop="20260617024000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260617024000 -0300" stop="20260617033000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Pequena Grande Oficina</title>
+  </programme>
+  <programme start="20260617033000 -0300" stop="20260617042000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Movidos a Diesel</title>
+  </programme>
+  <programme start="20260617042000 -0300" stop="20260617051000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Únicos</title>
+  </programme>
+  <programme start="20260617051000 -0300" stop="20260617060000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617074000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20260617074000 -0300" stop="20260617083000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260617083000 -0300" stop="20260617092200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260617092200 -0300" stop="20260617110600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+  </programme>
+  <programme start="20260617110600 -0300" stop="20260617115800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Mexicânicos</title>
+  </programme>
+  <programme start="20260617115800 -0300" stop="20260617125000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Pequena Grande Oficina</title>
+  </programme>
+  <programme start="20260617125000 -0300" stop="20260617134200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260617134200 -0300" stop="20260617143400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Movidos a Diesel</title>
+  </programme>
+  <programme start="20260617143400 -0300" stop="20260617152600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Únicos</title>
+  </programme>
+  <programme start="20260617152600 -0300" stop="20260617161800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260617161800 -0300" stop="20260617171000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Oficina do Barulho</title>
+  </programme>
+  <programme start="20260617171000 -0300" stop="20260617180200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260617180200 -0300" stop="20260617185400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Overhaulin': Os Supercarros</title>
+  </programme>
+  <programme start="20260617185400 -0300" stop="20260617194600 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Vida Automotiva</title>
+  </programme>
+  <programme start="20260617194600 -0300" stop="20260617213000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20260617213000 -0300" stop="20260617222200 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260617222200 -0300" stop="20260617231400 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260617231400 -0300" stop="20260618005800 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Máquinas Muito Loucas</title>
+  </programme>
+  <programme start="20260618005800 -0300" stop="20260618024000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Carros Irados</title>
+  </programme>
+  <programme start="20260618024000 -0300" stop="20260618033000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Twin Turbos</title>
+  </programme>
+  <programme start="20260618033000 -0300" stop="20260618042000 -0300" channel="DISCOVERY TURBO FHD">
+    <title lang="pt">Texas Metal - Alto e Bom Som</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615071200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260615071200 -0300" stop="20260615073600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260615073600 -0300" stop="20260615082400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260615082400 -0300" stop="20260615091200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+  </programme>
+  <programme start="20260615091200 -0300" stop="20260615093600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260615093600 -0300" stop="20260615100000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260615100000 -0300" stop="20260615102400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260615102400 -0300" stop="20260615104800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260615104800 -0300" stop="20260615111200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260615111200 -0300" stop="20260615113600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260615113600 -0300" stop="20260615122400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260615122400 -0300" stop="20260615124800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260615124800 -0300" stop="20260615131200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260615131200 -0300" stop="20260615133600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260615133600 -0300" stop="20260615140000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260615140000 -0300" stop="20260615142400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260615142400 -0300" stop="20260615144800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260615144800 -0300" stop="20260615151200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260615151200 -0300" stop="20260615153600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260615153600 -0300" stop="20260615160000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Casa de Praia</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615162400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260615162400 -0300" stop="20260615164800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Alaska</title>
+  </programme>
+  <programme start="20260615164800 -0300" stop="20260615171200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260615171200 -0300" stop="20260615173600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+  </programme>
+  <programme start="20260615173600 -0300" stop="20260615180000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615182400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260615182400 -0300" stop="20260615184800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260615184800 -0300" stop="20260615191200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260615191200 -0300" stop="20260615193600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260615193600 -0300" stop="20260615200000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615204800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260615204800 -0300" stop="20260615211200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260615211200 -0300" stop="20260615220000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615233600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in India</title>
+  </programme>
+  <programme start="20260615233600 -0300" stop="20260616000000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Hawaii</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616002400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260616002400 -0300" stop="20260616004800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260616004800 -0300" stop="20260616011200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616011200 -0300" stop="20260616013600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260616013600 -0300" stop="20260616020000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260616020000 -0300" stop="20260616022400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260616022400 -0300" stop="20260616024800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616024800 -0300" stop="20260616033600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in China</title>
+  </programme>
+  <programme start="20260616033600 -0300" stop="20260616051200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260616051200 -0300" stop="20260616053600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260616053600 -0300" stop="20260616060000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Hawaii</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616071200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260616071200 -0300" stop="20260616073600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616073600 -0300" stop="20260616082400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260616082400 -0300" stop="20260616091200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+  </programme>
+  <programme start="20260616091200 -0300" stop="20260616093600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260616093600 -0300" stop="20260616100000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616102400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260616102400 -0300" stop="20260616104800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616104800 -0300" stop="20260616111200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260616111200 -0300" stop="20260616113600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260616113600 -0300" stop="20260616122400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260616122400 -0300" stop="20260616124800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616124800 -0300" stop="20260616131200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260616131200 -0300" stop="20260616133600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260616133600 -0300" stop="20260616140000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260616142400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260616142400 -0300" stop="20260616144800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260616144800 -0300" stop="20260616151200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260616151200 -0300" stop="20260616153600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260616153600 -0300" stop="20260616160000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Casa de Praia</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616162400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260616162400 -0300" stop="20260616164800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Alaska</title>
+  </programme>
+  <programme start="20260616164800 -0300" stop="20260616171200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260616171200 -0300" stop="20260616173600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+  </programme>
+  <programme start="20260616173600 -0300" stop="20260616180000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616182400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260616182400 -0300" stop="20260616184800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260616184800 -0300" stop="20260616191200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260616191200 -0300" stop="20260616193600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260616193600 -0300" stop="20260616200000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616204800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260616204800 -0300" stop="20260616211200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260616211200 -0300" stop="20260616220000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616233600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in India</title>
+  </programme>
+  <programme start="20260616233600 -0300" stop="20260617000000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Hawaii</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617002400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260617002400 -0300" stop="20260617004800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260617004800 -0300" stop="20260617011200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617011200 -0300" stop="20260617013600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260617013600 -0300" stop="20260617020000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260617020000 -0300" stop="20260617022400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260617022400 -0300" stop="20260617024800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617024800 -0300" stop="20260617033600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in China</title>
+  </programme>
+  <programme start="20260617033600 -0300" stop="20260617051200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260617051200 -0300" stop="20260617053600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260617053600 -0300" stop="20260617060000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Hawaii</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617071200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260617071200 -0300" stop="20260617073600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617073600 -0300" stop="20260617082400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260617082400 -0300" stop="20260617091200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Lugares Secretos para Nadar</title>
+  </programme>
+  <programme start="20260617091200 -0300" stop="20260617093600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260617093600 -0300" stop="20260617100000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260617100000 -0300" stop="20260617102400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260617102400 -0300" stop="20260617104800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617104800 -0300" stop="20260617111200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260617111200 -0300" stop="20260617113600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260617113600 -0300" stop="20260617122400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260617122400 -0300" stop="20260617124800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617124800 -0300" stop="20260617131200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260617131200 -0300" stop="20260617133600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260617133600 -0300" stop="20260617140000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260617140000 -0300" stop="20260617142400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Fast Food Mania</title>
+  </programme>
+  <programme start="20260617142400 -0300" stop="20260617144800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida na Praia</title>
+  </programme>
+  <programme start="20260617144800 -0300" stop="20260617151200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260617151200 -0300" stop="20260617153600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260617153600 -0300" stop="20260617160000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Casa de Praia</title>
+  </programme>
+  <programme start="20260617160000 -0300" stop="20260617162400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Sabores da América: Bacon</title>
+  </programme>
+  <programme start="20260617162400 -0300" stop="20260617164800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Alaska</title>
+  </programme>
+  <programme start="20260617164800 -0300" stop="20260617171200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260617171200 -0300" stop="20260617173600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Minha Casa nas Montanhas</title>
+  </programme>
+  <programme start="20260617173600 -0300" stop="20260617180000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617182400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260617182400 -0300" stop="20260617184800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260617184800 -0300" stop="20260617191200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Segredos das Ilhas</title>
+  </programme>
+  <programme start="20260617191200 -0300" stop="20260617193600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260617193600 -0300" stop="20260617200000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617204800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260617204800 -0300" stop="20260617211200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260617211200 -0300" stop="20260617220000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617233600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in India</title>
+  </programme>
+  <programme start="20260617233600 -0300" stop="20260618000000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Buying Hawaii</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618002400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260618002400 -0300" stop="20260618004800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260618004800 -0300" stop="20260618011200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260618011200 -0300" stop="20260618013600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Hotel Ideal</title>
+  </programme>
+  <programme start="20260618013600 -0300" stop="20260618020000 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vida Nova em um Novo País</title>
+  </programme>
+  <programme start="20260618020000 -0300" stop="20260618022400 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Paraísos pelo Mundo - Praias</title>
+  </programme>
+  <programme start="20260618022400 -0300" stop="20260618024800 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Vende-se Pântano</title>
+  </programme>
+  <programme start="20260618024800 -0300" stop="20260618033600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">Italianos Made in China</title>
+  </programme>
+  <programme start="20260618033600 -0300" stop="20260618051200 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer</title>
+  </programme>
+  <programme start="20260618051200 -0300" stop="20260618053600 -0300" channel="DISCOVERY WORLD FHD">
+    <title lang="pt">O Poder dos Alimentos</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">DNA Criminoso</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615073600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Lobo em Pele de Cordeiro</title>
+  </programme>
+  <programme start="20260615073600 -0300" stop="20260615082500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20260615082500 -0300" stop="20260615091400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vidas Destruídas</title>
+  </programme>
+  <programme start="20260615091400 -0300" stop="20260615100300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinatos em Família</title>
+  </programme>
+  <programme start="20260615100300 -0300" stop="20260615105200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo - Sombras da Morte</title>
+  </programme>
+  <programme start="20260615105200 -0300" stop="20260615114100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Irmãs Perversas</title>
+  </programme>
+  <programme start="20260615114100 -0300" stop="20260615122900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Falsidade.com</title>
+  </programme>
+  <programme start="20260615122900 -0300" stop="20260615131700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Emboscada</title>
+  </programme>
+  <programme start="20260615131700 -0300" stop="20260615140500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+  </programme>
+  <programme start="20260615140500 -0300" stop="20260615145300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Amor Assassino</title>
+  </programme>
+  <programme start="20260615145300 -0300" stop="20260615154100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Pecados Mortais</title>
+  </programme>
+  <programme start="20260615154100 -0300" stop="20260615162900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Paixões Perigosas</title>
+  </programme>
+  <programme start="20260615162900 -0300" stop="20260615171700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Análise de um Crime</title>
+  </programme>
+  <programme start="20260615171700 -0300" stop="20260615180500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
+  </programme>
+  <programme start="20260615180500 -0300" stop="20260615185800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Olhos Da Lei</title>
+  </programme>
+  <programme start="20260615185800 -0300" stop="20260615194700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Bodycam - Registros Criminosos</title>
+  </programme>
+  <programme start="20260615194700 -0300" stop="20260615203600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Crimes que Viralizaram</title>
+  </programme>
+  <programme start="20260615203600 -0300" stop="20260615212000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20260615212000 -0300" stop="20260615220900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Lobo em Pele de Cordeiro</title>
+  </programme>
+  <programme start="20260615220900 -0300" stop="20260615225300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Corpos no Porão</title>
+  </programme>
+  <programme start="20260615225300 -0300" stop="20260615234400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinato de uma Sexta à Noite</title>
+  </programme>
+  <programme start="20260615234400 -0300" stop="20260616003300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Sinais de um Psicopata</title>
+  </programme>
+  <programme start="20260616003300 -0300" stop="20260616012100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Férias Mortais</title>
+  </programme>
+  <programme start="20260616012100 -0300" stop="20260616020900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+  </programme>
+  <programme start="20260616020900 -0300" stop="20260616025300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Mentiras Criminosas</title>
+  </programme>
+  <programme start="20260616025300 -0300" stop="20260616034000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+  </programme>
+  <programme start="20260616034000 -0300" stop="20260616042400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinato de uma Sexta à Noite</title>
+  </programme>
+  <programme start="20260616042400 -0300" stop="20260616051200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Ainda um Mistério</title>
+  </programme>
+  <programme start="20260616051200 -0300" stop="20260616060000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Câmera Crime</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">DNA Criminoso</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616073600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Lobo em Pele de Cordeiro</title>
+  </programme>
+  <programme start="20260616073600 -0300" stop="20260616082500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20260616082500 -0300" stop="20260616091400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vidas Destruídas</title>
+  </programme>
+  <programme start="20260616091400 -0300" stop="20260616100300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinatos em Família</title>
+  </programme>
+  <programme start="20260616100300 -0300" stop="20260616105200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo - Sombras da Morte</title>
+  </programme>
+  <programme start="20260616105200 -0300" stop="20260616114100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Irmãs Perversas</title>
+  </programme>
+  <programme start="20260616114100 -0300" stop="20260616122900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Falsidade.com</title>
+  </programme>
+  <programme start="20260616122900 -0300" stop="20260616131700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Emboscada</title>
+  </programme>
+  <programme start="20260616131700 -0300" stop="20260616140500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+  </programme>
+  <programme start="20260616140500 -0300" stop="20260616145300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Amor Assassino</title>
+  </programme>
+  <programme start="20260616145300 -0300" stop="20260616154100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Pecados Mortais</title>
+  </programme>
+  <programme start="20260616154100 -0300" stop="20260616162900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Paixões Perigosas</title>
+  </programme>
+  <programme start="20260616162900 -0300" stop="20260616171700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Análise de um Crime</title>
+  </programme>
+  <programme start="20260616171700 -0300" stop="20260616180500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
+  </programme>
+  <programme start="20260616180500 -0300" stop="20260616185800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Olhos Da Lei</title>
+  </programme>
+  <programme start="20260616185800 -0300" stop="20260616194700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Bodycam - Registros Criminosos</title>
+  </programme>
+  <programme start="20260616194700 -0300" stop="20260616203600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Crimes que Viralizaram</title>
+  </programme>
+  <programme start="20260616203600 -0300" stop="20260616212000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Irmandade Ariana: Terror nos Estados Unidos</title>
+  </programme>
+  <programme start="20260616212000 -0300" stop="20260616220900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Bodycam - Registros Criminosos</title>
+  </programme>
+  <programme start="20260616220900 -0300" stop="20260616225300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Na Mira dos Sequestradores</title>
+  </programme>
+  <programme start="20260616225300 -0300" stop="20260616234400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Pelados e Condenados</title>
+  </programme>
+  <programme start="20260616234400 -0300" stop="20260617003300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Fúria no Trânsito</title>
+  </programme>
+  <programme start="20260617003300 -0300" stop="20260617012100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Crimes que Viralizaram</title>
+  </programme>
+  <programme start="20260617012100 -0300" stop="20260617020900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+  </programme>
+  <programme start="20260617020900 -0300" stop="20260617025300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Mentiras Criminosas</title>
+  </programme>
+  <programme start="20260617025300 -0300" stop="20260617034000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+  </programme>
+  <programme start="20260617034000 -0300" stop="20260617042400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinato de uma Sexta à Noite</title>
+  </programme>
+  <programme start="20260617042400 -0300" stop="20260617051200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Ainda um Mistério</title>
+  </programme>
+  <programme start="20260617051200 -0300" stop="20260617060000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Câmera Crime</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">DNA Criminoso</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617073600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Lobo em Pele de Cordeiro</title>
+  </programme>
+  <programme start="20260617073600 -0300" stop="20260617082500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo</title>
+  </programme>
+  <programme start="20260617082500 -0300" stop="20260617091400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vidas Destruídas</title>
+  </programme>
+  <programme start="20260617091400 -0300" stop="20260617100300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinatos em Família</title>
+  </programme>
+  <programme start="20260617100300 -0300" stop="20260617105200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Vivendo com o Inimigo - Sombras da Morte</title>
+  </programme>
+  <programme start="20260617105200 -0300" stop="20260617114100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Irmãs Perversas</title>
+  </programme>
+  <programme start="20260617114100 -0300" stop="20260617122900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Falsidade.com</title>
+  </programme>
+  <programme start="20260617122900 -0300" stop="20260617131700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Emboscada</title>
+  </programme>
+  <programme start="20260617131700 -0300" stop="20260617140500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Diabólicos - A Face Oculta do Amor</title>
+  </programme>
+  <programme start="20260617140500 -0300" stop="20260617145300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Amor Assassino</title>
+  </programme>
+  <programme start="20260617145300 -0300" stop="20260617154100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Pecados Mortais</title>
+  </programme>
+  <programme start="20260617154100 -0300" stop="20260617162900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Paixões Perigosas</title>
+  </programme>
+  <programme start="20260617162900 -0300" stop="20260617171700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Análise de um Crime</title>
+  </programme>
+  <programme start="20260617171700 -0300" stop="20260617180500 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
+  </programme>
+  <programme start="20260617180500 -0300" stop="20260617185800 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Olhos Da Lei</title>
+  </programme>
+  <programme start="20260617185800 -0300" stop="20260617194700 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Bodycam - Registros Criminosos</title>
+  </programme>
+  <programme start="20260617194700 -0300" stop="20260617203600 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Crimes que Viralizaram</title>
+  </programme>
+  <programme start="20260617203600 -0300" stop="20260617220900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Detetive Americano com Joe Kenda</title>
+  </programme>
+  <programme start="20260617220900 -0300" stop="20260617225300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+  </programme>
+  <programme start="20260617225300 -0300" stop="20260617234400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Caçada por Desaparecidos - Chicago</title>
+  </programme>
+  <programme start="20260617234400 -0300" stop="20260618003300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Como</title>
+  </programme>
+  <programme start="20260618003300 -0300" stop="20260618012100 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">À Procura de Andrea</title>
+  </programme>
+  <programme start="20260618012100 -0300" stop="20260618020900 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Seu Pior Pesadelo</title>
+  </programme>
+  <programme start="20260618020900 -0300" stop="20260618025300 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Mentiras Criminosas</title>
+  </programme>
+  <programme start="20260618025300 -0300" stop="20260618034000 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">People Magazine - Além da Notícia</title>
+  </programme>
+  <programme start="20260618034000 -0300" stop="20260618042400 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Assassinato de uma Sexta à Noite</title>
+  </programme>
+  <programme start="20260618042400 -0300" stop="20260618051200 -0300" channel="DISCOVERY ID FHD">
+    <title lang="pt">Ainda um Mistério</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Keith &amp; Evan - Reformando com o Coração</title>
+  </programme>
+  <programme start="20260615064900 -0300" stop="20260615073800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+  </programme>
+  <programme start="20260615073800 -0300" stop="20260615082600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">S.O.S. Restaurante</title>
+  </programme>
+  <programme start="20260615082600 -0300" stop="20260615091500 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Guerra dos Bolos</title>
+  </programme>
+  <programme start="20260615091500 -0300" stop="20260615110200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias para Casar - Antes dos 90 Dias</title>
+  </programme>
+  <programme start="20260615110200 -0300" stop="20260615124900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20260615124900 -0300" stop="20260615143200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+  </programme>
+  <programme start="20260615143200 -0300" stop="20260615152600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Do Velho ao Novo</title>
+  </programme>
+  <programme start="20260615152600 -0300" stop="20260615162000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Os Pequenos Johnstons</title>
+  </programme>
+  <programme start="20260615162000 -0300" stop="20260615171200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Mama June - Vida Nova</title>
+  </programme>
+  <programme start="20260615171200 -0300" stop="20260615190900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Masterchef</title>
+  </programme>
+  <programme start="20260615190900 -0300" stop="20260615221900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Pesadelo na Cozinha</title>
+  </programme>
+  <programme start="20260615221900 -0300" stop="20260615230800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Pesadelo na Cozinha com Gordon Ramsay</title>
+  </programme>
+  <programme start="20260615230800 -0300" stop="20260615235800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">O Sócio</title>
+  </programme>
+  <programme start="20260615235800 -0300" stop="20260616004700 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">S.O.S. Restaurante</title>
+  </programme>
+  <programme start="20260616004700 -0300" stop="20260616013800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Duelo com Bobby Flay</title>
+  </programme>
+  <programme start="20260616013800 -0300" stop="20260616022600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias na Cama - A Última Chance</title>
+  </programme>
+  <programme start="20260616022600 -0300" stop="20260616040100 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Pesadelo na Cozinha</title>
+  </programme>
+  <programme start="20260616040100 -0300" stop="20260616053800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260616053800 -0300" stop="20260616060000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Reforma dos Sonhos</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Nate e Jeremiah - Bem-Vindo ao Lar!</title>
+  </programme>
+  <programme start="20260616064900 -0300" stop="20260616073800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20260616073800 -0300" stop="20260616082600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">S.O.S. Restaurante</title>
+  </programme>
+  <programme start="20260616082600 -0300" stop="20260616091500 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Guerra dos Bolos</title>
+  </programme>
+  <programme start="20260616091500 -0300" stop="20260616110200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias para Casar - Antes dos 90 Dias</title>
+  </programme>
+  <programme start="20260616110200 -0300" stop="20260616124900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20260616124900 -0300" stop="20260616143200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+  </programme>
+  <programme start="20260616143200 -0300" stop="20260616152600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Do Velho ao Novo</title>
+  </programme>
+  <programme start="20260616152600 -0300" stop="20260616162000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Os Pequenos Johnstons</title>
+  </programme>
+  <programme start="20260616162000 -0300" stop="20260616171200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Mama June - Vida Nova</title>
+  </programme>
+  <programme start="20260616171200 -0300" stop="20260616203300 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260616203300 -0300" stop="20260616212900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais Brasil</title>
+  </programme>
+  <programme start="20260616212900 -0300" stop="20260616221800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Dr. Pimple Popper: Breaking Out</title>
+  </programme>
+  <programme start="20260616221800 -0300" stop="20260616230700 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Dra. Sandra Lee - Casos Explosivos</title>
+  </programme>
+  <programme start="20260616230700 -0300" stop="20260617014400 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260617014400 -0300" stop="20260617022800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias na Cama - Tô na Caça!</title>
+  </programme>
+  <programme start="20260617022800 -0300" stop="20260617040000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Pesadelo na Cozinha</title>
+  </programme>
+  <programme start="20260617040000 -0300" stop="20260617042700 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Sobre Essa Pele</title>
+  </programme>
+  <programme start="20260617042700 -0300" stop="20260617060000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Keith &amp; Evan - Reformando com o Coração</title>
+  </programme>
+  <programme start="20260617064900 -0300" stop="20260617073800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+  </programme>
+  <programme start="20260617073800 -0300" stop="20260617082600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">S.O.S. Restaurante</title>
+  </programme>
+  <programme start="20260617082600 -0300" stop="20260617091500 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Guerra dos Bolos</title>
+  </programme>
+  <programme start="20260617091500 -0300" stop="20260617110200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias para Casar - Antes dos 90 Dias</title>
+  </programme>
+  <programme start="20260617110200 -0300" stop="20260617124900 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20260617124900 -0300" stop="20260617143200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+  </programme>
+  <programme start="20260617143200 -0300" stop="20260617152600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Do Velho ao Novo</title>
+  </programme>
+  <programme start="20260617152600 -0300" stop="20260617162000 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Os Pequenos Johnstons</title>
+  </programme>
+  <programme start="20260617162000 -0300" stop="20260617171200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Mama June - Vida Nova</title>
+  </programme>
+  <programme start="20260617171200 -0300" stop="20260617185500 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260617185500 -0300" stop="20260617203300 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+  </programme>
+  <programme start="20260617203300 -0300" stop="20260617212200 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Irmãos à Obra - Lar Sempre Lar</title>
+  </programme>
+  <programme start="20260617212200 -0300" stop="20260617221100 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Te Devo Essa! Reforma das Estrelas</title>
+  </programme>
+  <programme start="20260617221100 -0300" stop="20260617230600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Menos É Demais</title>
+  </programme>
+  <programme start="20260617230600 -0300" stop="20260617235600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">De Casa Nova</title>
+  </programme>
+  <programme start="20260617235600 -0300" stop="20260618013600 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260618013600 -0300" stop="20260618022400 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">90 Dias na Cama - Tô na Caça!</title>
+  </programme>
+  <programme start="20260618022400 -0300" stop="20260618035800 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Pesadelo na Cozinha</title>
+  </programme>
+  <programme start="20260618035800 -0300" stop="20260618053400 -0300" channel="DISCOVERY HOME&amp;HEALTH">
+    <title lang="pt">Quilos Mortais</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615073000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Maravilhas Sagradas com Dennis Quaid</title>
+  </programme>
+  <programme start="20260615073000 -0300" stop="20260615082000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">O Melhor de Trato Feito</title>
+  </programme>
+  <programme start="20260615082000 -0300" stop="20260615091000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Trato Feito</title>
+  </programme>
+  <programme start="20260615091000 -0300" stop="20260615100000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260615100000 -0300" stop="20260615105000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inacreditável com Dan Aykroyd</title>
+  </programme>
+  <programme start="20260615105000 -0300" stop="20260615114000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20260615114000 -0300" stop="20260615123000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inexplicável - Com William Shatner</title>
+  </programme>
+  <programme start="20260615123000 -0300" stop="20260615132000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+  </programme>
+  <programme start="20260615132000 -0300" stop="20260615164000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">O Melhor de Trato Feito</title>
+  </programme>
+  <programme start="20260615164000 -0300" stop="20260615173000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">O Melhor de Trato Feito</title>
+  </programme>
+  <programme start="20260615173000 -0300" stop="20260615182000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Trato Feito</title>
+  </programme>
+  <programme start="20260615182000 -0300" stop="20260615191000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Aberto para Compras</title>
+  </programme>
+  <programme start="20260615191000 -0300" stop="20260615194000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Parados na Fronteira Chile</title>
+  </programme>
+  <programme start="20260615194000 -0300" stop="20260615221000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Trato Feito</title>
+  </programme>
+  <programme start="20260615221000 -0300" stop="20260615234500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Segunda Guerra Mundial com Tom Hanks</title>
+  </programme>
+  <programme start="20260615234500 -0300" stop="20260616003500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Segredos de Guerra</title>
+  </programme>
+  <programme start="20260616003500 -0300" stop="20260616025000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Roubos da História com Pierce Brosnan</title>
+  </programme>
+  <programme start="20260616025000 -0300" stop="20260616060000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Fugas com Morgan Freeman</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616073000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Maravilhas Sagradas com Dennis Quaid</title>
+  </programme>
+  <programme start="20260616073000 -0300" stop="20260616082000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">O Melhor de Trato Feito</title>
+  </programme>
+  <programme start="20260616082000 -0300" stop="20260616091000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Trato Feito</title>
+  </programme>
+  <programme start="20260616091000 -0300" stop="20260616100000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616105000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inacreditável com Dan Aykroyd</title>
+  </programme>
+  <programme start="20260616105000 -0300" stop="20260616114000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20260616114000 -0300" stop="20260616123000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inexplicável - Com William Shatner</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616132000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+  </programme>
+  <programme start="20260616132000 -0300" stop="20260616164000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260616164000 -0300" stop="20260616182000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260616182000 -0300" stop="20260616191000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Aberto para Compras</title>
+  </programme>
+  <programme start="20260616191000 -0300" stop="20260616194000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Parados na Fronteira Chile</title>
+  </programme>
+  <programme start="20260616194000 -0300" stop="20260616225500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260616225500 -0300" stop="20260616234500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">As Megamarcas que Mudaram o Mundo</title>
+  </programme>
+  <programme start="20260616234500 -0300" stop="20260617003500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260617003500 -0300" stop="20260617025000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inexplicável - Com William Shatner</title>
+  </programme>
+  <programme start="20260617025000 -0300" stop="20260617031500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Eu Estava Lá</title>
+  </programme>
+  <programme start="20260617031500 -0300" stop="20260617060000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617073000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Maravilhas Sagradas com Dennis Quaid</title>
+  </programme>
+  <programme start="20260617073000 -0300" stop="20260617082000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">O Melhor de Trato Feito</title>
+  </programme>
+  <programme start="20260617082000 -0300" stop="20260617091000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Trato Feito</title>
+  </programme>
+  <programme start="20260617091000 -0300" stop="20260617100000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">CAÇADORES DE RELÍQUIAS</title>
+  </programme>
+  <programme start="20260617100000 -0300" stop="20260617105000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inacreditável com Dan Aykroyd</title>
+  </programme>
+  <programme start="20260617105000 -0300" stop="20260617114000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Mistérios Revelados</title>
+  </programme>
+  <programme start="20260617114000 -0300" stop="20260617123000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Inexplicável - Com William Shatner</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617132000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+  </programme>
+  <programme start="20260617132000 -0300" stop="20260617155000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Roubos da História com Pierce Brosnan</title>
+  </programme>
+  <programme start="20260617155000 -0300" stop="20260617182000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+  </programme>
+  <programme start="20260617182000 -0300" stop="20260617191000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Aberto para Compras</title>
+  </programme>
+  <programme start="20260617191000 -0300" stop="20260617194000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">Parados na Fronteira</title>
+  </programme>
+  <programme start="20260617194000 -0300" stop="20260617225500 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">ALIENÍGENAS DO PASSADO</title>
+  </programme>
+  <programme start="20260617225500 -0300" stop="20260618021000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">ALIENÍGENAS DO PASSADO</title>
+  </programme>
+  <programme start="20260618021000 -0300" stop="20260618051000 -0300" channel="HISTORY CHANANEL FHD">
+    <title lang="pt">ALIENÍGENAS DO PASSADO</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615073600 -0300" stop="20260615082400 -0300" channel="HGTV FHD">
+    <title lang="pt">Celebridades em Casa</title>
+  </programme>
+  <programme start="20260615082400 -0300" stop="20260615091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Fechado com Jason Abrams</title>
+  </programme>
+  <programme start="20260615091200 -0300" stop="20260615095600 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260615095600 -0300" stop="20260615104800 -0300" channel="HGTV FHD">
+    <title lang="pt">Tô Chegando! Na Casa dos Famosos</title>
+  </programme>
+  <programme start="20260615104800 -0300" stop="20260615113600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vidas Alteradas, Casas Renovadas</title>
+  </programme>
+  <programme start="20260615113600 -0300" stop="20260615120000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615122200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260615122200 -0300" stop="20260615131000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260615131000 -0300" stop="20260615135600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615135600 -0300" stop="20260615141800 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+  </programme>
+  <programme start="20260615141800 -0300" stop="20260615144000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260615144000 -0300" stop="20260615150400 -0300" channel="HGTV FHD">
+    <title lang="pt">House Hunters</title>
+  </programme>
+  <programme start="20260615150400 -0300" stop="20260615152800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260615152800 -0300" stop="20260615161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260615161200 -0300" stop="20260615165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260615165800 -0300" stop="20260615181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260615181000 -0300" stop="20260615190200 -0300" channel="HGTV FHD">
+    <title lang="pt">Tô Chegando! Na Casa dos Famosos</title>
+  </programme>
+  <programme start="20260615190200 -0300" stop="20260615195000 -0300" channel="HGTV FHD">
+    <title lang="pt">John e Anthony - Reformando Cozinhas</title>
+  </programme>
+  <programme start="20260615195000 -0300" stop="20260615201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260615201400 -0300" stop="20260615203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260615203800 -0300" stop="20260615212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260615212400 -0300" stop="20260615221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615221000 -0300" stop="20260615225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260615225800 -0300" stop="20260615234500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260615234500 -0300" stop="20260616003400 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616003400 -0300" stop="20260616012000 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260616012000 -0300" stop="20260616022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616022800 -0300" stop="20260616025000 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Caribe</title>
+  </programme>
+  <programme start="20260616025000 -0300" stop="20260616033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260616033600 -0300" stop="20260616044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260616044800 -0300" stop="20260616060000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616073600 -0300" stop="20260616080000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616082400 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260616082400 -0300" stop="20260616084800 -0300" channel="HGTV FHD">
+    <title lang="pt">House Hunters</title>
+  </programme>
+  <programme start="20260616084800 -0300" stop="20260616091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260616091200 -0300" stop="20260616095500 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616095500 -0300" stop="20260616104700 -0300" channel="HGTV FHD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+  </programme>
+  <programme start="20260616104700 -0300" stop="20260616113500 -0300" channel="HGTV FHD">
+    <title lang="pt">John e Anthony - Reformando Cozinhas</title>
+  </programme>
+  <programme start="20260616113500 -0300" stop="20260616115900 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260616115900 -0300" stop="20260616122100 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260616122100 -0300" stop="20260616130900 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260616130900 -0300" stop="20260616135500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616135500 -0300" stop="20260616143900 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260616143900 -0300" stop="20260616152500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260616152500 -0300" stop="20260616161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616161200 -0300" stop="20260616165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260616165800 -0300" stop="20260616181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616181000 -0300" stop="20260616190200 -0300" channel="HGTV FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260616190200 -0300" stop="20260616195000 -0300" channel="HGTV FHD">
+    <title lang="pt">O Novo Vintage</title>
+  </programme>
+  <programme start="20260616195000 -0300" stop="20260616201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260616201400 -0300" stop="20260616203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260616203800 -0300" stop="20260616212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260616212400 -0300" stop="20260616221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616221000 -0300" stop="20260616225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Imobiliário com Brittany</title>
+  </programme>
+  <programme start="20260616225800 -0300" stop="20260616234600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma com R Maiúsculo</title>
+  </programme>
+  <programme start="20260616234600 -0300" stop="20260617003200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617003200 -0300" stop="20260617011800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260617011800 -0300" stop="20260617022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617022800 -0300" stop="20260617033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260617033600 -0300" stop="20260617044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260617044800 -0300" stop="20260617060000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617073600 -0300" stop="20260617082400 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260617082400 -0300" stop="20260617091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260617091200 -0300" stop="20260617095600 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617095600 -0300" stop="20260617104800 -0300" channel="HGTV FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260617104800 -0300" stop="20260617113600 -0300" channel="HGTV FHD">
+    <title lang="pt">O Novo Vintage</title>
+  </programme>
+  <programme start="20260617113600 -0300" stop="20260617120000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617122200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260617122200 -0300" stop="20260617131000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260617131000 -0300" stop="20260617135600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617135600 -0300" stop="20260617144000 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Imobiliário com Brittany</title>
+  </programme>
+  <programme start="20260617144000 -0300" stop="20260617152800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma com R Maiúsculo</title>
+  </programme>
+  <programme start="20260617152800 -0300" stop="20260617161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617161200 -0300" stop="20260617165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260617165800 -0300" stop="20260617181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617181000 -0300" stop="20260617190200 -0300" channel="HGTV FHD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+  </programme>
+  <programme start="20260617190200 -0300" stop="20260617195000 -0300" channel="HGTV FHD">
+    <title lang="pt">Renovação Selvagem</title>
+  </programme>
+  <programme start="20260617195000 -0300" stop="20260617201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617201400 -0300" stop="20260617203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260617203800 -0300" stop="20260617212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260617212400 -0300" stop="20260617221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617221000 -0300" stop="20260617225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617225800 -0300" stop="20260617234600 -0300" channel="HGTV FHD">
+    <title lang="pt">Davina &amp; Kristin - Casas com Potencial</title>
+  </programme>
+  <programme start="20260617234600 -0300" stop="20260618003200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260618003200 -0300" stop="20260618011800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+  </programme>
+  <programme start="20260618011800 -0300" stop="20260618022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260618022800 -0300" stop="20260618033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260618033600 -0300" stop="20260618044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+</tv>
