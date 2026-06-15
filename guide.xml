@@ -16,6 +16,10 @@
     <display-name lang="pt">ANIMAL PLANET FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="CANAIS | FILMES E SERIES">
+    <display-name lang="pt">SONY CHANNEL FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20260615134500 -0300" stop="20260615144000 -0300" channel="AXN FHD">
     <title lang="pt">Criminal Minds</title>
   </programme>
@@ -90,5 +94,32 @@
   </programme>
   <programme start="20260615230900 -0300" stop="20260616000000 -0300" channel="ANIMAL PLANET FHD">
     <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20260615141000 -0300" stop="20260615144000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20260615144000 -0300" stop="20260615151000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20260615151000 -0300" stop="20260615154000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20260615154000 -0300" stop="20260615161000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Eu, A Patroa e as Crianças</title>
+  </programme>
+  <programme start="20260615161000 -0300" stop="20260615181500 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">S.W.A.T. - Comando Especial</title>
+  </programme>
+  <programme start="20260615181500 -0300" stop="20260615200000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Rápida Vingança</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615220400 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Esquadrão Suicida</title>
+  </programme>
+  <programme start="20260615220400 -0300" stop="20260615234000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Zumbilândia</title>
+  </programme>
+  <programme start="20260615234000 -0300" stop="20260616014000 -0300" channel="CANAIS | FILMES E SERIES">
+    <title lang="pt">Albatroz</title>
   </programme>
 </tv>
