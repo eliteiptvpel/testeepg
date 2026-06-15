@@ -8,10 +8,6 @@
     <display-name lang="pt">TV BRASIL FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="TV CÂMARA FHD">
-    <display-name lang="pt">TV CÂMARA FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="TV CULTURA FHD">
     <display-name lang="pt">TV CULTURA FHD</display-name>
     <url>http://www.meuguia.tv</url>
@@ -40,20 +36,12 @@
     <display-name lang="pt">CANAL RURAL FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="TERRAVIVA FHD">
-    <display-name lang="pt">TERRAVIVA FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="REDE TV!">
     <display-name lang="pt">REDE TV!</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV FUTURA FHD">
     <display-name lang="pt">TV FUTURA FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CANÇÃO NOVA FHD">
-    <display-name lang="pt">CANÇÃO NOVA FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="REDE VIDA FHD">
@@ -80,188 +68,6 @@
     <display-name lang="pt">LIFETIME FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="MEGAPIX FHD">
-    <display-name lang="pt">MEGAPIX FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SONY CHANNEL FHD">
-    <display-name lang="pt">SONY CHANNEL FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="SPACE FHD">
-    <display-name lang="pt">SPACE FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="STUDIO UNIVERSAL FHD">
-    <display-name lang="pt">STUDIO UNIVERSAL FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TCM FHD">
-    <display-name lang="pt">TCM FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT FHD">
-    <display-name lang="pt">TNT FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TNT SÉRIES FHD">
-    <display-name lang="pt">TNT SÉRIES FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="WARNER CHANNEL FHD">
-    <display-name lang="pt">WARNER CHANNEL FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO 2 FHD">
-    <display-name lang="pt">HBO 2 FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO FAMILY FHD">
-    <display-name lang="pt">HBO FAMILY FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO FHD">
-    <display-name lang="pt">HBO FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO PLUS FHD">
-    <display-name lang="pt">HBO PLUS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="HBO SIGNATURE FHD">
-    <display-name lang="pt">HBO SIGNATURE FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BAND NEWS FHD">
-    <display-name lang="pt">BAND NEWS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BBC NEWS FHD">
-    <display-name lang="pt">BBC NEWS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BLOOMBERG FHD">
-    <display-name lang="pt">BLOOMBERG FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CNN FHD">
-    <display-name lang="pt">CNN FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GLOBO NEWS FHD">
-    <display-name lang="pt">GLOBO NEWS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="RECORD NEWS FHD">
-    <display-name lang="pt">RECORD NEWS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ANIMAL PLANET FHD">
-    <display-name lang="pt">ANIMAL PLANET FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="DISCOVERY CHANNEL FHD">
-    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="DISCOVERY SCIENCE FHD">
-    <display-name lang="pt">DISCOVERY SCIENCE FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="DISCOVERY THEATER FHD">
-    <display-name lang="pt">DISCOVERY THEATER FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="DISCOVERY TURBO FHD">
-    <display-name lang="pt">DISCOVERY TURBO FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="DISCOVERY WORLD HD FHD">
-    <display-name lang="pt">DISCOVERY WORLD HD FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CARTOON NETWORK FHD">
-    <display-name lang="pt">CARTOON NETWORK FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GLOOB FHD">
-    <display-name lang="pt">GLOOB FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TOONCAST FHD">
-    <display-name lang="pt">TOONCAST FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TV RÁ TIM BUM FHD">
-    <display-name lang="pt">TV RÁ TIM BUM FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE ACTION FHD">
-    <display-name lang="pt">TELECINE ACTION FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE CULT FHD">
-    <display-name lang="pt">TELECINE CULT FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE FUN FHD">
-    <display-name lang="pt">TELECINE FUN FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE PIPOCA FHD">
-    <display-name lang="pt">TELECINE PIPOCA FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE PREMIUM FHD">
-    <display-name lang="pt">TELECINE PREMIUM FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="TELECINE TOUCH FHD">
-    <display-name lang="pt">TELECINE TOUCH FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="COMBATE FHD">
-    <display-name lang="pt">COMBATE FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="ARTE 1 FHD">
-    <display-name lang="pt">ARTE 1 FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CANAL E! FHD">
-    <display-name lang="pt">CANAL E! FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="CANAL OFF FHDD">
-    <display-name lang="pt">CANAL OFF FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GLOBOPLAY NOVELAS FHD">
-    <display-name lang="pt">GLOBOPLAY NOVELAS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="GNT FHD">
-    <display-name lang="pt">GNT FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="MULTISHOW FHD">
-    <display-name lang="pt">MULTISHOW FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="WOOHOO FHD">
-    <display-name lang="pt">WOOHOO FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BIS FHD">
-    <display-name lang="pt">BIS FHD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <programme start="20260615164000 -0300" stop="20260615181900 -0300" channel="CANAL BRASIL FHD">
-    <title lang="pt">A Febre</title>
-  </programme>
-  <programme start="20260615181900 -0300" stop="20260615183000 -0300" channel="CANAL BRASIL FHD">
-    <title lang="pt">Noturnas</title>
-  </programme>
   <programme start="20260615183000 -0300" stop="20260615192200 -0300" channel="CANAL BRASIL FHD">
     <title lang="pt">Paloma - A Série</title>
   </programme>
@@ -723,12 +529,6 @@
   </programme>
   <programme start="20260621232500 -0300" stop="20260622011000 -0300" channel="CANAL BRASIL FHD">
     <title lang="pt">Mostra Dia Do Orgulho Lgbtqiapn+: 13 Sentimentos</title>
-  </programme>
-  <programme start="20260615160000 -0300" stop="20260615180000 -0300" channel="TV BRASIL FHD">
-    <title lang="pt">Sem Censura</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615190000 -0300" channel="TV BRASIL FHD">
-    <title lang="pt">Trio de Ataque - Ao Vivo</title>
   </programme>
   <programme start="20260615190000 -0300" stop="20260615200000 -0300" channel="TV BRASIL FHD">
     <title lang="pt">Repórter Brasil</title>
@@ -1590,18 +1390,6 @@
   </programme>
   <programme start="20260621231500 -0300" stop="20260622004500 -0300" channel="TV BRASIL FHD">
     <title lang="pt">Sessão de Cinema: Mãe e Filha</title>
-  </programme>
-  <programme start="20260615171500 -0300" stop="20260615173000 -0300" channel="TV CULTURA FHD">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20260615173000 -0300" stop="20260615180000 -0300" channel="TV CULTURA FHD">
-    <title lang="pt">Mundo da Lua</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="TV CULTURA FHD">
-    <title lang="pt">O Mundo de Beakman</title>
-  </programme>
-  <programme start="20260615183000 -0300" stop="20260615190000 -0300" channel="TV CULTURA FHD">
-    <title lang="pt">Shaun, o Carneiro</title>
   </programme>
   <programme start="20260615190000 -0300" stop="20260615200000 -0300" channel="TV CULTURA FHD">
     <title lang="pt">Antimatéria</title>
@@ -2725,15 +2513,6 @@
   <programme start="20260621233000 -0300" stop="20260622003000 -0300" channel="TV CULTURA FHD">
     <title lang="pt">Entrelinhas</title>
   </programme>
-  <programme start="20260615160000 -0300" stop="20260615180000 -0300" channel="TV JUSTIÇA FHD">
-    <title lang="pt">Justiça Agora</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="TV JUSTIÇA FHD">
-    <title lang="pt">Documentário Variado: República</title>
-  </programme>
-  <programme start="20260615183000 -0300" stop="20260615190000 -0300" channel="TV JUSTIÇA FHD">
-    <title lang="pt">Jornal da Justiça</title>
-  </programme>
   <programme start="20260615190000 -0300" stop="20260615193000 -0300" channel="TV JUSTIÇA FHD">
     <title lang="pt">Academia</title>
   </programme>
@@ -3205,12 +2984,6 @@
   <programme start="20260621230000 -0300" stop="20260622000000 -0300" channel="TV JUSTIÇA FHD">
     <title lang="pt">Noturno</title>
   </programme>
-  <programme start="20260615170000 -0300" stop="20260615183000 -0300" channel="SBT FHD">
-    <title lang="pt">Sortilégio</title>
-  </programme>
-  <programme start="20260615183000 -0300" stop="20260615190000 -0300" channel="SBT FHD">
-    <title lang="pt">Copa do Mundo 2026: Vem pro Jogo - Ao Vivo</title>
-  </programme>
   <programme start="20260615190000 -0300" stop="20260615210000 -0300" channel="SBT FHD">
     <title lang="pt">Arábia Saudita x Uruguai - Ao Vivo</title>
   </programme>
@@ -3501,18 +3274,6 @@
   </programme>
   <programme start="20260621190000 -0300" stop="20260622000000 -0300" channel="SBT FHD">
     <title lang="pt">Programa Silvio Santos com Patrícia Abravanel</title>
-  </programme>
-  <programme start="20260615163000 -0300" stop="20260615174000 -0300" channel="RECORD SP SÃO PAULO FHD">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260615174000 -0300" stop="20260615174500 -0300" channel="RECORD SP SÃO PAULO FHD">
-    <title lang="pt">Jornal da Record 24h</title>
-  </programme>
-  <programme start="20260615174500 -0300" stop="20260615180000 -0300" channel="RECORD SP SÃO PAULO FHD">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615185000 -0300" channel="RECORD SP SÃO PAULO FHD">
-    <title lang="pt">Cidade Alerta</title>
   </programme>
   <programme start="20260615185000 -0300" stop="20260615195500 -0300" channel="RECORD SP SÃO PAULO FHD">
     <title lang="pt">Cidade Alerta</title>
@@ -3919,15 +3680,6 @@
   <programme start="20260621231500 -0300" stop="20260622001500 -0300" channel="RECORD SP SÃO PAULO FHD">
     <title lang="pt">Esporte Record</title>
   </programme>
-  <programme start="20260615153000 -0300" stop="20260615181000 -0300" channel="GLOBO SP SÃO PAULO FHD">
-    <title lang="pt">Bélgica x Egito - Ao Vivo</title>
-  </programme>
-  <programme start="20260615181000 -0300" stop="20260615184000 -0300" channel="GLOBO SP SÃO PAULO FHD">
-    <title lang="pt">A Nobreza do Amor</title>
-  </programme>
-  <programme start="20260615184000 -0300" stop="20260615184500 -0300" channel="GLOBO SP SÃO PAULO FHD">
-    <title lang="pt">RJ2</title>
-  </programme>
   <programme start="20260615184500 -0300" stop="20260615211000 -0300" channel="GLOBO SP SÃO PAULO FHD">
     <title lang="pt">Arábia Saudita x Uruguai - Ao Vivo</title>
   </programme>
@@ -4320,9 +4072,6 @@
   </programme>
   <programme start="20260621224500 -0300" stop="20260622011000 -0300" channel="GLOBO SP SÃO PAULO FHD">
     <title lang="pt">Programação Globo</title>
-  </programme>
-  <programme start="20260615165000 -0300" stop="20260615191000 -0300" channel="CANAL DO BOI FHD">
-    <title lang="pt">Mais Pecuária</title>
   </programme>
   <programme start="20260615191000 -0300" stop="20260615192000 -0300" channel="CANAL DO BOI FHD">
     <title lang="pt">Leilões Em Destaque</title>
@@ -4927,18 +4676,6 @@
   <programme start="20260621233000 -0300" stop="20260622000000 -0300" channel="CANAL DO BOI FHD">
     <title lang="pt">Genética BR</title>
   </programme>
-  <programme start="20260615170000 -0300" stop="20260615173000 -0300" channel="CANAL RURAL FHD">
-    <title lang="pt">Mercado &amp; Quadros</title>
-  </programme>
-  <programme start="20260615173000 -0300" stop="20260615174500 -0300" channel="CANAL RURAL FHD">
-    <title lang="pt">Agro Pelo Brasil</title>
-  </programme>
-  <programme start="20260615174500 -0300" stop="20260615180000 -0300" channel="CANAL RURAL FHD">
-    <title lang="pt">No Trecho</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="CANAL RURAL FHD">
-    <title lang="pt">A Protagonista</title>
-  </programme>
   <programme start="20260615183000 -0300" stop="20260615194500 -0300" channel="CANAL RURAL FHD">
     <title lang="pt">Rural Notícias / Interligados</title>
   </programme>
@@ -5452,12 +5189,6 @@
   <programme start="20260621200000 -0300" stop="20260622000000 -0300" channel="CANAL RURAL FHD">
     <title lang="pt">Leilão</title>
   </programme>
-  <programme start="20260615170000 -0300" stop="20260615180000 -0300" channel="REDE TV!">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="REDE TV!">
-    <title lang="pt">RedeTV! Notícias - 2ª Edição</title>
-  </programme>
   <programme start="20260615183000 -0300" stop="20260615194500 -0300" channel="REDE TV!">
     <title lang="pt">Brasil Do Povo</title>
   </programme>
@@ -5826,21 +5557,6 @@
   </programme>
   <programme start="20260621233000 -0300" stop="20260622003000 -0300" channel="REDE TV!">
     <title lang="pt">Mega Sonho</title>
-  </programme>
-  <programme start="20260615171500 -0300" stop="20260615173000 -0300" channel="TV FUTURA FHD">
-    <title lang="pt">Giro Universidades</title>
-  </programme>
-  <programme start="20260615173000 -0300" stop="20260615180000 -0300" channel="TV FUTURA FHD">
-    <title lang="pt">Sabores Da Floresta</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="TV FUTURA FHD">
-    <title lang="pt">Conexão</title>
-  </programme>
-  <programme start="20260615183000 -0300" stop="20260615190000 -0300" channel="TV FUTURA FHD">
-    <title lang="pt">Canal Da Quebrada</title>
-  </programme>
-  <programme start="20260615190000 -0300" stop="20260615191000 -0300" channel="TV FUTURA FHD">
-    <title lang="pt">Amazônia: Novas Histórias</title>
   </programme>
   <programme start="20260615191000 -0300" stop="20260615193000 -0300" channel="TV FUTURA FHD">
     <title lang="pt">Conversas Que Inspiram</title>
@@ -7051,24 +6767,6 @@
   <programme start="20260621220000 -0300" stop="20260622002000 -0300" channel="TV FUTURA FHD">
     <title lang="pt">Adeus, Lenin!</title>
   </programme>
-  <programme start="20260615170000 -0300" stop="20260615173000 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">Novena dos Filhos e Filhas de São José</title>
-  </programme>
-  <programme start="20260615173000 -0300" stop="20260615174500 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">Encontro Com Cristo</title>
-  </programme>
-  <programme start="20260615174500 -0300" stop="20260615180000 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">Terço Bizantino</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">O Santo Terço</title>
-  </programme>
-  <programme start="20260615183000 -0300" stop="20260615185500 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">JCTV</title>
-  </programme>
-  <programme start="20260615185500 -0300" stop="20260615190000 -0300" channel="REDE VIDA FHD">
-    <title lang="pt">Orando Com a Redevida</title>
-  </programme>
   <programme start="20260615190000 -0300" stop="20260615195500 -0300" channel="REDE VIDA FHD">
     <title lang="pt">Missa do Santuário da Vida</title>
   </programme>
@@ -7861,18 +7559,6 @@
   <programme start="20260621235500 -0300" stop="20260622000000 -0300" channel="REDE VIDA FHD">
     <title lang="pt">Terço Bizantino</title>
   </programme>
-  <programme start="20260615164500 -0300" stop="20260615175000 -0300" channel="TV APARECIDA FHD">
-    <title lang="pt">TJ Aparecida</title>
-  </programme>
-  <programme start="20260615175000 -0300" stop="20260615175500 -0300" channel="TV APARECIDA FHD">
-    <title lang="pt">Escola de Maria</title>
-  </programme>
-  <programme start="20260615175500 -0300" stop="20260615180000 -0300" channel="TV APARECIDA FHD">
-    <title lang="pt">Mensagem de Fé</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615190000 -0300" channel="TV APARECIDA FHD">
-    <title lang="pt">Missa de Aparecida - Basílica Histórica</title>
-  </programme>
   <programme start="20260615190000 -0300" stop="20260615193000 -0300" channel="TV APARECIDA FHD">
     <title lang="pt">Terço de Aparecida - Pe. Antônio Maria</title>
   </programme>
@@ -8431,9 +8117,6 @@
   <programme start="20260621233000 -0300" stop="20260622030000 -0300" channel="TV APARECIDA FHD">
     <title lang="pt">Medalhão.com</title>
   </programme>
-  <programme start="20260615160000 -0300" stop="20260615180000 -0300" channel="AMC FHD">
-    <title lang="pt">Audi Vs. Lancia: Corrida Pela Glória</title>
-  </programme>
   <programme start="20260615180000 -0300" stop="20260615195000 -0300" channel="AMC FHD">
     <title lang="pt">Mugunzá</title>
   </programme>
@@ -8775,12 +8458,6 @@
   </programme>
   <programme start="20260621235000 -0300" stop="20260622015000 -0300" channel="AMC FHD">
     <title lang="pt">Machete</title>
-  </programme>
-  <programme start="20260615171000 -0300" stop="20260615180000 -0300" channel="AXN FHD">
-    <title lang="pt">C.S.I. Miami</title>
-  </programme>
-  <programme start="20260615180000 -0300" stop="20260615185000 -0300" channel="AXN FHD">
-    <title lang="pt">Hawaii Five-0</title>
   </programme>
   <programme start="20260615185000 -0300" stop="20260615194000 -0300" channel="AXN FHD">
     <title lang="pt">Hawaii Five-0</title>
@@ -9298,12 +8975,6 @@
   <programme start="20260621225000 -0300" stop="20260622003000 -0300" channel="AXN FHD">
     <title lang="pt">Loop</title>
   </programme>
-  <programme start="20260615155500 -0300" stop="20260615172500 -0300" channel="CINEMAX FHD">
-    <title lang="pt">Zumbilândia</title>
-  </programme>
-  <programme start="20260615172500 -0300" stop="20260615185200 -0300" channel="CINEMAX FHD">
-    <title lang="pt">Mandando Bala</title>
-  </programme>
   <programme start="20260615185200 -0300" stop="20260615204300 -0300" channel="CINEMAX FHD">
     <title lang="pt">Sucker Punch - Mundo Surreal</title>
   </programme>
@@ -9555,12 +9226,6 @@
   </programme>
   <programme start="20260621223000 -0300" stop="20260622011200 -0300" channel="CINEMAX FHD">
     <title lang="pt">Harry Potter e a Câmara Secreta</title>
-  </programme>
-  <programme start="20260615163300 -0300" stop="20260615180800 -0300" channel="LIFETIME FHD">
-    <title lang="pt">Meu Presente de Natal</title>
-  </programme>
-  <programme start="20260615180800 -0300" stop="20260615185900 -0300" channel="LIFETIME FHD">
-    <title lang="pt">Passaporte Feminino</title>
   </programme>
   <programme start="20260615185900 -0300" stop="20260615203400 -0300" channel="LIFETIME FHD">
     <title lang="pt">O Presente De Natal</title>
