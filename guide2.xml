@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DISCOVERY CHANNEL FHD">
+    <display-name lang="pt">DISCOVERY CHANNEL FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0032.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <programme start="20260615060000 -0300" stop="20260615062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260615062200 -0300" stop="20260615071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260615071000 -0300" stop="20260615085000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615085000 -0300" stop="20260615093900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260615093900 -0300" stop="20260615102800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260615102800 -0300" stop="20260615120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260615120900 -0300" stop="20260615135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260615135200 -0300" stop="20260615153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615153300 -0300" stop="20260615162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260615162300 -0300" stop="20260615171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260615171300 -0300" stop="20260615185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260615185300 -0300" stop="20260615203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260615203100 -0300" stop="20260615212000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro</title>
+  </programme>
+  <programme start="20260615212000 -0300" stop="20260615220900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Corredeiras do Alasca</title>
+  </programme>
+  <programme start="20260615220900 -0300" stop="20260615225800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro: Caçadores de Riquezas</title>
+  </programme>
+  <programme start="20260615225800 -0300" stop="20260615234900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Minas Reativadas</title>
+  </programme>
+  <programme start="20260615234900 -0300" stop="20260616003800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Tudo por Ouro</title>
+  </programme>
+  <programme start="20260616003800 -0300" stop="20260616012600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vale do Diabo - Em Busca do Ouro</title>
+  </programme>
+  <programme start="20260616012600 -0300" stop="20260616021400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Monstros do Rio</title>
+  </programme>
+  <programme start="20260616021400 -0300" stop="20260616025800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">No Olho da Tempestade</title>
+  </programme>
+  <programme start="20260616025800 -0300" stop="20260616034600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Instintos da Vida Selvagem</title>
+  </programme>
+  <programme start="20260616034600 -0300" stop="20260616044100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Planeta Azul II</title>
+  </programme>
+  <programme start="20260616044100 -0300" stop="20260616053400 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Predadores</title>
+  </programme>
+  <programme start="20260616053400 -0300" stop="20260616060000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260616062200 -0300" stop="20260616071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260616071000 -0300" stop="20260616085000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616085000 -0300" stop="20260616093900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260616093900 -0300" stop="20260616103100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260616103100 -0300" stop="20260616120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260616120900 -0300" stop="20260616135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260616135200 -0300" stop="20260616153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616153300 -0300" stop="20260616162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260616162300 -0300" stop="20260616171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260616171300 -0300" stop="20260616185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260616185300 -0300" stop="20260616203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260616203100 -0300" stop="20260616211700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Destination X</title>
+  </programme>
+  <programme start="20260616211700 -0300" stop="20260616225600 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados - Campeões do Mundo</title>
+  </programme>
+  <programme start="20260616225600 -0300" stop="20260617003500 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617003500 -0300" stop="20260617041300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20260617041300 -0300" stop="20260617060000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções no Alasca</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617062200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
+  </programme>
+  <programme start="20260617062200 -0300" stop="20260617071000 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Febre do Ouro - Freddy Dodge ao Resgate</title>
+  </programme>
+  <programme start="20260617071000 -0300" stop="20260617084900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617084900 -0300" stop="20260617093800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260617093800 -0300" stop="20260617102700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260617102700 -0300" stop="20260617120900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260617120900 -0300" stop="20260617135200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Vida Remota</title>
+  </programme>
+  <programme start="20260617135200 -0300" stop="20260617153300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617153300 -0300" stop="20260617162300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla</title>
+  </programme>
+  <programme start="20260617162300 -0300" stop="20260617171300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Desafio em Dose Dupla - Brasil</title>
+  </programme>
+  <programme start="20260617171300 -0300" stop="20260617185300 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Ed Stafford, o Sobrevivente</title>
+  </programme>
+  <programme start="20260617185300 -0300" stop="20260617203100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Largados e Pelados</title>
+  </programme>
+  <programme start="20260617203100 -0300" stop="20260617213100 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação Guerra Verde</title>
+  </programme>
+  <programme start="20260617213100 -0300" stop="20260617222200 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação Fronteira - Brasil</title>
+  </programme>
+  <programme start="20260617222200 -0300" stop="20260617230900 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto - Área Restrita: Estados Unidos</title>
+  </programme>
+  <programme start="20260617230900 -0300" stop="20260617235800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">As Piores Prisões do Mundo</title>
+  </programme>
+  <programme start="20260617235800 -0300" stop="20260618004700 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Operação FBI</title>
+  </programme>
+  <programme start="20260618004700 -0300" stop="20260618034800 -0300" channel="DISCOVERY CHANNEL FHD">
+    <title lang="pt">Aeroporto - Área Restrita</title>
+  </programme>
+</tv>
