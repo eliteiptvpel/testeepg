@@ -15,8 +15,8 @@
     <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0051.jpg" />
     <url>http://www.tvinside.com.br</url>
   </channel>
-  <channel id="TMT FHD">
-    <display-name lang="pt">TMT FHD</display-name>
+  <channel id="TCM FHD">
+    <display-name lang="pt">TCN FHD</display-name>
     <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0129.jpg" />
     <url>http://www.tvinside.com.br</url>
   </channel>
@@ -394,124 +394,124 @@
   <programme start="20260618025500 -0300" stop="20260618045000 -0300" channel="STUDIO UNIVERSAL FHD">
     <title lang="pt">O Marido Perdido</title>
   </programme>
-  <programme start="20260615053500 -0300" stop="20260615065500 -0300" channel="TMT FHD">
+  <programme start="20260615053500 -0300" stop="20260615065500 -0300" channel="TCM FHD">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
   </programme>
-  <programme start="20260615065500 -0300" stop="20260615083500 -0300" channel="TMT FHD">
+  <programme start="20260615065500 -0300" stop="20260615083500 -0300" channel="TCM FHD">
     <title lang="pt">Agentes Selvagens</title>
   </programme>
-  <programme start="20260615083500 -0300" stop="20260615103600 -0300" channel="TMT FHD">
+  <programme start="20260615083500 -0300" stop="20260615103600 -0300" channel="TCM FHD">
     <title lang="pt">Assim Estava Escrito</title>
   </programme>
-  <programme start="20260615103600 -0300" stop="20260615122100 -0300" channel="TMT FHD">
+  <programme start="20260615103600 -0300" stop="20260615122100 -0300" channel="TCM FHD">
     <title lang="pt">As Garçonetes de Harvey</title>
   </programme>
-  <programme start="20260615122100 -0300" stop="20260615144200 -0300" channel="TMT FHD">
+  <programme start="20260615122100 -0300" stop="20260615144200 -0300" channel="TCM FHD">
     <title lang="pt">Prenda-me Se For Capaz</title>
   </programme>
-  <programme start="20260615144200 -0300" stop="20260615164700 -0300" channel="TMT FHD">
+  <programme start="20260615144200 -0300" stop="20260615164700 -0300" channel="TCM FHD">
     <title lang="pt">Quatro Destinos</title>
   </programme>
-  <programme start="20260615164700 -0300" stop="20260615183900 -0300" channel="TMT FHD">
+  <programme start="20260615164700 -0300" stop="20260615183900 -0300" channel="TCM FHD">
     <title lang="pt">Cidade Sem Lei</title>
   </programme>
-  <programme start="20260615183900 -0300" stop="20260615201900 -0300" channel="TMT FHD">
+  <programme start="20260615183900 -0300" stop="20260615201900 -0300" channel="TCM FHD">
     <title lang="pt">Convidado Vitalício</title>
   </programme>
-  <programme start="20260615201900 -0300" stop="20260615220000 -0300" channel="TMT FHD">
+  <programme start="20260615201900 -0300" stop="20260615220000 -0300" channel="TCM FHD">
     <title lang="pt">Procura-se</title>
   </programme>
-  <programme start="20260615220000 -0300" stop="20260615234200 -0300" channel="TMT FHD">
+  <programme start="20260615220000 -0300" stop="20260615234200 -0300" channel="TCM FHD">
     <title lang="pt">Natalia, Natalia</title>
   </programme>
-  <programme start="20260615234200 -0300" stop="20260616014400 -0300" channel="TMT FHD">
+  <programme start="20260615234200 -0300" stop="20260616014400 -0300" channel="TCM FHD">
     <title lang="pt">Cidadão Kane</title>
   </programme>
-  <programme start="20260616014400 -0300" stop="20260616031100 -0300" channel="TMT FHD">
+  <programme start="20260616014400 -0300" stop="20260616031100 -0300" channel="TCM FHD">
     <title lang="pt">Jogos Mortais VI</title>
   </programme>
-  <programme start="20260616031100 -0300" stop="20260616044200 -0300" channel="TMT FHD">
+  <programme start="20260616031100 -0300" stop="20260616044200 -0300" channel="TCM FHD">
     <title lang="pt">Em um Relacionamento Sério</title>
   </programme>
-  <programme start="20260616044200 -0300" stop="20260616053200 -0300" channel="TMT FHD">
+  <programme start="20260616044200 -0300" stop="20260616053200 -0300" channel="TCM FHD">
     <title lang="pt">Falling Skies</title>
   </programme>
-  <programme start="20260616053200 -0300" stop="20260616073400 -0300" channel="TMT FHD">
+  <programme start="20260616053200 -0300" stop="20260616073400 -0300" channel="TCM FHD">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
   </programme>
-  <programme start="20260616073400 -0300" stop="20260616094000 -0300" channel="TMT FHD">
+  <programme start="20260616073400 -0300" stop="20260616094000 -0300" channel="TCM FHD">
     <title lang="pt">Quatro Destinos</title>
   </programme>
-  <programme start="20260616094000 -0300" stop="20260616113200 -0300" channel="TMT FHD">
+  <programme start="20260616094000 -0300" stop="20260616113200 -0300" channel="TCM FHD">
     <title lang="pt">Cidade Sem Lei</title>
   </programme>
-  <programme start="20260616113200 -0300" stop="20260616131100 -0300" channel="TMT FHD">
+  <programme start="20260616113200 -0300" stop="20260616131100 -0300" channel="TCM FHD">
     <title lang="pt">Convidado Vitalício</title>
   </programme>
-  <programme start="20260616131100 -0300" stop="20260616145500 -0300" channel="TMT FHD">
+  <programme start="20260616131100 -0300" stop="20260616145500 -0300" channel="TCM FHD">
     <title lang="pt">O Abraço Partido</title>
   </programme>
-  <programme start="20260616145500 -0300" stop="20260616163600 -0300" channel="TMT FHD">
+  <programme start="20260616145500 -0300" stop="20260616163600 -0300" channel="TCM FHD">
     <title lang="pt">Comando Final 3: Paradoxo</title>
   </programme>
-  <programme start="20260616163600 -0300" stop="20260616183400 -0300" channel="TMT FHD">
+  <programme start="20260616163600 -0300" stop="20260616183400 -0300" channel="TCM FHD">
     <title lang="pt">SCARAMOUCHE</title>
   </programme>
-  <programme start="20260616183400 -0300" stop="20260616201600 -0300" channel="TMT FHD">
+  <programme start="20260616183400 -0300" stop="20260616201600 -0300" channel="TCM FHD">
     <title lang="pt">Procura-se</title>
   </programme>
-  <programme start="20260616201600 -0300" stop="20260616220000 -0300" channel="TMT FHD">
+  <programme start="20260616201600 -0300" stop="20260616220000 -0300" channel="TCM FHD">
     <title lang="pt">O Falcão Maltês</title>
   </programme>
-  <programme start="20260616220000 -0300" stop="20260617000200 -0300" channel="TMT FHD">
+  <programme start="20260616220000 -0300" stop="20260617000200 -0300" channel="TCM FHD">
     <title lang="pt">Cidadão Kane</title>
   </programme>
-  <programme start="20260617000200 -0300" stop="20260617033100 -0300" channel="TMT FHD">
+  <programme start="20260617000200 -0300" stop="20260617033100 -0300" channel="TCM FHD">
     <title lang="pt">O Cidadão Ilustre</title>
   </programme>
-  <programme start="20260617033100 -0300" stop="20260617055400 -0300" channel="TMT FHD">
+  <programme start="20260617033100 -0300" stop="20260617055400 -0300" channel="TCM FHD">
     <title lang="pt">Rio Bravo</title>
   </programme>
-  <programme start="20260617055400 -0300" stop="20260617080400 -0300" channel="TMT FHD">
+  <programme start="20260617055400 -0300" stop="20260617080400 -0300" channel="TCM FHD">
     <title lang="pt">HOLLYWOOD ONE ON ONE</title>
   </programme>
-  <programme start="20260617080400 -0300" stop="20260617094400 -0300" channel="TMT FHD">
+  <programme start="20260617080400 -0300" stop="20260617094400 -0300" channel="TCM FHD">
     <title lang="pt">Comando Final 3: Paradoxo</title>
   </programme>
-  <programme start="20260617094400 -0300" stop="20260617114300 -0300" channel="TMT FHD">
+  <programme start="20260617094400 -0300" stop="20260617114300 -0300" channel="TCM FHD">
     <title lang="pt">SCARAMOUCHE</title>
   </programme>
-  <programme start="20260617114300 -0300" stop="20260617131900 -0300" channel="TMT FHD">
+  <programme start="20260617114300 -0300" stop="20260617131900 -0300" channel="TCM FHD">
     <title lang="pt">The Racer</title>
   </programme>
-  <programme start="20260617131900 -0300" stop="20260617150300 -0300" channel="TMT FHD">
+  <programme start="20260617131900 -0300" stop="20260617150300 -0300" channel="TCM FHD">
     <title lang="pt">O Falcão Maltês</title>
   </programme>
-  <programme start="20260617150300 -0300" stop="20260617164900 -0300" channel="TMT FHD">
+  <programme start="20260617150300 -0300" stop="20260617164900 -0300" channel="TCM FHD">
     <title lang="pt">AS MINAS DO REI SALOMÃO</title>
   </programme>
-  <programme start="20260617164900 -0300" stop="20260617183000 -0300" channel="TMT FHD">
+  <programme start="20260617164900 -0300" stop="20260617183000 -0300" channel="TCM FHD">
     <title lang="pt">Alguém Avisa?</title>
   </programme>
-  <programme start="20260617183000 -0300" stop="20260617200700 -0300" channel="TMT FHD">
+  <programme start="20260617183000 -0300" stop="20260617200700 -0300" channel="TCM FHD">
     <title lang="pt">As Leis de Família</title>
   </programme>
-  <programme start="20260617200700 -0300" stop="20260617220000 -0300" channel="TMT FHD">
+  <programme start="20260617200700 -0300" stop="20260617220000 -0300" channel="TCM FHD">
     <title lang="pt">Saudosa Maloca</title>
   </programme>
-  <programme start="20260617220000 -0300" stop="20260617235700 -0300" channel="TMT FHD">
+  <programme start="20260617220000 -0300" stop="20260617235700 -0300" channel="TCM FHD">
     <title lang="pt">O Cidadão Ilustre</title>
   </programme>
-  <programme start="20260617235700 -0300" stop="20260618005200 -0300" channel="TMT FHD">
+  <programme start="20260617235700 -0300" stop="20260618005200 -0300" channel="TCM FHD">
     <title lang="pt">Queer You Are</title>
   </programme>
-  <programme start="20260618005200 -0300" stop="20260618031500 -0300" channel="TMT FHD">
+  <programme start="20260618005200 -0300" stop="20260618031500 -0300" channel="TCM FHD">
     <title lang="pt">Rio Bravo</title>
   </programme>
-  <programme start="20260618031500 -0300" stop="20260618050300 -0300" channel="TMT FHD">
+  <programme start="20260618031500 -0300" stop="20260618050300 -0300" channel="TCM FHD">
     <title lang="pt">A Galeria dos Corações Partidos</title>
   </programme>
-  <programme start="20260618050300 -0300" stop="20260618055300 -0300" channel="TMT FHD">
+  <programme start="20260618050300 -0300" stop="20260618055300 -0300" channel="TCM FHD">
     <title lang="pt">Falling Skies</title>
   </programme>
   <programme start="20260615060000 -0300" stop="20260615073900 -0300" channel="TNT FHD">
