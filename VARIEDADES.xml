@@ -1,0 +1,2676 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ARTE 1 FHD">
+    <display-name lang="pt">ARTE 1 FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0241.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="CANAL OFF FHD">
+    <display-name lang="pt">CANAL OFF FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0211.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="CANAL CURTA FHD">
+    <display-name lang="pt">CANAL CURTA FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0230.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0194.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="HGTV FHD">
+    <display-name lang="pt">HGTV FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0257.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="MULTISHOW FHD">
+    <display-name lang="pt">MULTISHOW FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0187.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="NHK WORLD JAPAN FHD">
+    <display-name lang="pt">NHK WORLD JAPAN FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0208.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="TLC FHD">
+    <display-name lang="pt">TLC FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0111.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="WOOHOO FHD">
+    <display-name lang="pt">WOOHOO FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0142.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <programme start="20260615060000 -0300" stop="20260615061500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte Makers</title>
+  </programme>
+  <programme start="20260615061500 -0300" stop="20260615093000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Doutor Jivago</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615103000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260615103000 -0300" stop="20260615131500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Anna Karenina</title>
+  </programme>
+  <programme start="20260615131500 -0300" stop="20260615141500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Teatro Sérgio Cardoso - 40 Anos</title>
+  </programme>
+  <programme start="20260615141500 -0300" stop="20260615144500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+  </programme>
+  <programme start="20260615144500 -0300" stop="20260615180000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Doutor Jivago</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615190000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arquitetura Hoje!</title>
+  </programme>
+  <programme start="20260615190000 -0300" stop="20260615201500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Brazilian Beats</title>
+  </programme>
+  <programme start="20260615201500 -0300" stop="20260615203000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte Makers</title>
+  </programme>
+  <programme start="20260615203000 -0300" stop="20260615210000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sentidos do Fio</title>
+  </programme>
+  <programme start="20260615210000 -0300" stop="20260615213000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+  </programme>
+  <programme start="20260615213000 -0300" stop="20260615220000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Compondo Futuros</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615230000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Christian de Portzamparc</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260616011500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Também Fomos Felizes</title>
+  </programme>
+  <programme start="20260616011500 -0300" stop="20260616021500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260616021500 -0300" stop="20260616024500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Fé na Batida</title>
+  </programme>
+  <programme start="20260616024500 -0300" stop="20260616031500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sentidos do Fio</title>
+  </programme>
+  <programme start="20260616031500 -0300" stop="20260616033000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte Makers</title>
+  </programme>
+  <programme start="20260616033000 -0300" stop="20260616043000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Teatro Sérgio Cardoso - 40 Anos</title>
+  </programme>
+  <programme start="20260616043000 -0300" stop="20260616071500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Anna Karenina</title>
+  </programme>
+  <programme start="20260616071500 -0300" stop="20260616093000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Também Fomos Felizes</title>
+  </programme>
+  <programme start="20260616093000 -0300" stop="20260616103000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260616103000 -0300" stop="20260616110000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte 1 Em Movimento</title>
+  </programme>
+  <programme start="20260616110000 -0300" stop="20260616113000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Estilo Arte 1 + Sabor &amp; Arte</title>
+  </programme>
+  <programme start="20260616113000 -0300" stop="20260616120000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616123000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sentidos do Fio</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616130000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616141500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Brazilian Beats</title>
+  </programme>
+  <programme start="20260616141500 -0300" stop="20260616144500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Um.artista</title>
+  </programme>
+  <programme start="20260616144500 -0300" stop="20260616170000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Também Fomos Felizes</title>
+  </programme>
+  <programme start="20260616170000 -0300" stop="20260616180000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616190000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Outras Vanguardas</title>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616193000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+  </programme>
+  <programme start="20260616193000 -0300" stop="20260616203000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Música e Poesia</title>
+  </programme>
+  <programme start="20260616203000 -0300" stop="20260616210000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+  </programme>
+  <programme start="20260616210000 -0300" stop="20260616213000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20260616213000 -0300" stop="20260616223000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Invenções da Alma</title>
+  </programme>
+  <programme start="20260616223000 -0300" stop="20260616230000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Fé na Batida</title>
+  </programme>
+  <programme start="20260616230000 -0300" stop="20260617003000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Grain: A Volta da Fotografia Analógica</title>
+  </programme>
+  <programme start="20260617003000 -0300" stop="20260617013000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260617013000 -0300" stop="20260617020000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20260617020000 -0300" stop="20260617023000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sem Palavras - A Arte de Ilustrar</title>
+  </programme>
+  <programme start="20260617023000 -0300" stop="20260617034500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Brazilian Beats</title>
+  </programme>
+  <programme start="20260617034500 -0300" stop="20260617044500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Invenções da Alma</title>
+  </programme>
+  <programme start="20260617044500 -0300" stop="20260617051500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Compondo Futuros</title>
+  </programme>
+  <programme start="20260617051500 -0300" stop="20260617053000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Poétika</title>
+  </programme>
+  <programme start="20260617053000 -0300" stop="20260617063000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">China on Stage</title>
+  </programme>
+  <programme start="20260617063000 -0300" stop="20260617070000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte 1 Em Movimento</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617080000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Christian de Portzamparc</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617093000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Grain: A Volta da Fotografia Analógica</title>
+  </programme>
+  <programme start="20260617093000 -0300" stop="20260617103000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Anna Karenina</title>
+  </programme>
+  <programme start="20260617103000 -0300" stop="20260617113000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Outras Vanguardas</title>
+  </programme>
+  <programme start="20260617113000 -0300" stop="20260617120000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Descobrindo os Tesouros do Brasil</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617130000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Invenções da Alma</title>
+  </programme>
+  <programme start="20260617130000 -0300" stop="20260617133000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Compondo Futuros</title>
+  </programme>
+  <programme start="20260617133000 -0300" stop="20260617143000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Música e Poesia</title>
+  </programme>
+  <programme start="20260617143000 -0300" stop="20260617150000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Especial Arte 1</title>
+  </programme>
+  <programme start="20260617150000 -0300" stop="20260617163000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Grain: A Volta da Fotografia Analógica</title>
+  </programme>
+  <programme start="20260617163000 -0300" stop="20260617170000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Fé na Batida</title>
+  </programme>
+  <programme start="20260617170000 -0300" stop="20260617180000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Anna Karenina</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617191500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Brazilian Beats</title>
+  </programme>
+  <programme start="20260617191500 -0300" stop="20260617193000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arte Makers</title>
+  </programme>
+  <programme start="20260617193000 -0300" stop="20260617200000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Um.artista</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617203000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Estilo Arte 1 + Sabor &amp; Arte</title>
+  </programme>
+  <programme start="20260617203000 -0300" stop="20260617213000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Teatro Sérgio Cardoso - 40 Anos</title>
+  </programme>
+  <programme start="20260617213000 -0300" stop="20260617223000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Paris</title>
+  </programme>
+  <programme start="20260617223000 -0300" stop="20260617230000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Sentidos do Fio</title>
+  </programme>
+  <programme start="20260617230000 -0300" stop="20260618004500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">É Apenas o Fim do Mundo</title>
+  </programme>
+  <programme start="20260618004500 -0300" stop="20260618014500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Anna Karenina</title>
+  </programme>
+  <programme start="20260618014500 -0300" stop="20260618024500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Arquitetura Hoje!</title>
+  </programme>
+  <programme start="20260618024500 -0300" stop="20260618034500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Música e Poesia</title>
+  </programme>
+  <programme start="20260618034500 -0300" stop="20260618041500 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Estilo Arte 1 + Sabor &amp; Arte</title>
+  </programme>
+  <programme start="20260618041500 -0300" stop="20260618043000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Poétika</title>
+  </programme>
+  <programme start="20260618043000 -0300" stop="20260618053000 -0300" channel="ARTE 1 FHD">
+    <title lang="pt">Outras Vanguardas</title>
+  </programme>
+  <programme start="20260615051300 -0300" stop="20260615060600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260615060600 -0300" stop="20260615063300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">#respiraeseinspiranooff</title>
+  </programme>
+  <programme start="20260615063300 -0300" stop="20260615070000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Yoga em Todo Lugar</title>
+  </programme>
+  <programme start="20260615070000 -0300" stop="20260615072500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Voo De Cinema</title>
+  </programme>
+  <programme start="20260615072500 -0300" stop="20260615075000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Peixe Frito</title>
+  </programme>
+  <programme start="20260615075000 -0300" stop="20260615084200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">The Great Way</title>
+  </programme>
+  <programme start="20260615084200 -0300" stop="20260615092400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">#respiraeseinspiranooff</title>
+  </programme>
+  <programme start="20260615092400 -0300" stop="20260615095200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Mar de Dentro - O Outro Lado de Italo Ferreira</title>
+  </programme>
+  <programme start="20260615095200 -0300" stop="20260615102100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Labirinto do Ártico</title>
+  </programme>
+  <programme start="20260615102100 -0300" stop="20260615111300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Domke's Show</title>
+  </programme>
+  <programme start="20260615111300 -0300" stop="20260615120900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Enciclopédia Off</title>
+  </programme>
+  <programme start="20260615120900 -0300" stop="20260615123800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Te Encontro no Topo!</title>
+  </programme>
+  <programme start="20260615123800 -0300" stop="20260615130800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Guató - Uma Remada no Tempo</title>
+  </programme>
+  <programme start="20260615130800 -0300" stop="20260615140200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Nalu e Zay pelo Mundo</title>
+  </programme>
+  <programme start="20260615140200 -0300" stop="20260615142800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Todas as Cores do Brasil</title>
+  </programme>
+  <programme start="20260615142800 -0300" stop="20260615145400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Peixe Frito</title>
+  </programme>
+  <programme start="20260615145400 -0300" stop="20260615161000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Euceano</title>
+  </programme>
+  <programme start="20260615161000 -0300" stop="20260615162400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">La Familia Muniz</title>
+  </programme>
+  <programme start="20260615162400 -0300" stop="20260615171800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260615171800 -0300" stop="20260615174600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Caminhos de Orgulho</title>
+  </programme>
+  <programme start="20260615174600 -0300" stop="20260615181200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">África 360°</title>
+  </programme>
+  <programme start="20260615181200 -0300" stop="20260615190500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260615190500 -0300" stop="20260615193200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Guató - Uma Remada no Tempo</title>
+  </programme>
+  <programme start="20260615193200 -0300" stop="20260615200000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Yoga em Todo Lugar</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615205000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Skate The World</title>
+  </programme>
+  <programme start="20260615205000 -0300" stop="20260615210500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Sobre elas</title>
+  </programme>
+  <programme start="20260615210500 -0300" stop="20260615213500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260615213500 -0300" stop="20260615220200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260615220200 -0300" stop="20260615223000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Manual do Skate com Christian Hosoi</title>
+  </programme>
+  <programme start="20260615223000 -0300" stop="20260615230000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Visão de Rua</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260615235800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Califorfun</title>
+  </programme>
+  <programme start="20260615235800 -0300" stop="20260616005200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Domke's Show</title>
+  </programme>
+  <programme start="20260616005200 -0300" stop="20260616014100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Skate The World</title>
+  </programme>
+  <programme start="20260616014100 -0300" stop="20260616021100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260616021100 -0300" stop="20260616023700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260616023700 -0300" stop="20260616030300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Manual do Skate com Christian Hosoi</title>
+  </programme>
+  <programme start="20260616030300 -0300" stop="20260616033100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Visão de Rua</title>
+  </programme>
+  <programme start="20260616033100 -0300" stop="20260616042500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Califorfun</title>
+  </programme>
+  <programme start="20260616042500 -0300" stop="20260616051700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260616051700 -0300" stop="20260616054300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Todas as Cores do Brasil</title>
+  </programme>
+  <programme start="20260616054300 -0300" stop="20260616061000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Yoga em Todo Lugar</title>
+  </programme>
+  <programme start="20260616061000 -0300" stop="20260616061800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bike Under The Lights</title>
+  </programme>
+  <programme start="20260616061800 -0300" stop="20260616063400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">#respiraeseinspiranooff</title>
+  </programme>
+  <programme start="20260616063400 -0300" stop="20260616070000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Guató - Uma Remada no Tempo</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616075300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Nalu e Zay pelo Mundo</title>
+  </programme>
+  <programme start="20260616075300 -0300" stop="20260616084600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260616084600 -0300" stop="20260616093500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Skate The World</title>
+  </programme>
+  <programme start="20260616093500 -0300" stop="20260616100500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260616100500 -0300" stop="20260616103100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260616103100 -0300" stop="20260616104400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Praia de Concreto</title>
+  </programme>
+  <programme start="20260616104400 -0300" stop="20260616111200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Caminhos de Orgulho</title>
+  </programme>
+  <programme start="20260616111200 -0300" stop="20260616114900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Euceano</title>
+  </programme>
+  <programme start="20260616114900 -0300" stop="20260616121600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260616121600 -0300" stop="20260616124100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">África 360°</title>
+  </programme>
+  <programme start="20260616124100 -0300" stop="20260616134200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Aventura em Foco</title>
+  </programme>
+  <programme start="20260616134200 -0300" stop="20260616143400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">The Great Way</title>
+  </programme>
+  <programme start="20260616143400 -0300" stop="20260616150100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Mar de Dentro - O Outro Lado de Italo Ferreira</title>
+  </programme>
+  <programme start="20260616150100 -0300" stop="20260616153000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Labirinto do Ártico</title>
+  </programme>
+  <programme start="20260616153000 -0300" stop="20260616155600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Manual do Skate com Christian Hosoi</title>
+  </programme>
+  <programme start="20260616155600 -0300" stop="20260616162500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Visão de Rua</title>
+  </programme>
+  <programme start="20260616162500 -0300" stop="20260616171700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260616171700 -0300" stop="20260616174500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Califorfun</title>
+  </programme>
+  <programme start="20260616174500 -0300" stop="20260616175300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bike Under The Lights</title>
+  </programme>
+  <programme start="20260616175300 -0300" stop="20260616182100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Califorfun</title>
+  </programme>
+  <programme start="20260616182100 -0300" stop="20260616191400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Nalu e Zay pelo Mundo</title>
+  </programme>
+  <programme start="20260616191400 -0300" stop="20260616194000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Todas as Cores do Brasil</title>
+  </programme>
+  <programme start="20260616194000 -0300" stop="20260616200600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Peixe Frito</title>
+  </programme>
+  <programme start="20260616200600 -0300" stop="20260616210400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260616210400 -0300" stop="20260616213300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Te Encontro no Topo!</title>
+  </programme>
+  <programme start="20260616213300 -0300" stop="20260616220100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Voo De Cinema</title>
+  </programme>
+  <programme start="20260616220100 -0300" stop="20260616230000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Aventura em Foco</title>
+  </programme>
+  <programme start="20260616230000 -0300" stop="20260617000100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Contos de Nazaré</title>
+  </programme>
+  <programme start="20260617000100 -0300" stop="20260617002900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Biomas</title>
+  </programme>
+  <programme start="20260617002900 -0300" stop="20260617005600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Naufrágios</title>
+  </programme>
+  <programme start="20260617005600 -0300" stop="20260617014900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260617014900 -0300" stop="20260617021600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Te Encontro no Topo!</title>
+  </programme>
+  <programme start="20260617021600 -0300" stop="20260617024200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Voo De Cinema</title>
+  </programme>
+  <programme start="20260617024200 -0300" stop="20260617033900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Aventura em Foco</title>
+  </programme>
+  <programme start="20260617033900 -0300" stop="20260617040600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Biomas</title>
+  </programme>
+  <programme start="20260617040600 -0300" stop="20260617043200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Naufrágios</title>
+  </programme>
+  <programme start="20260617043200 -0300" stop="20260617050100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260617050100 -0300" stop="20260617053200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">#respiraeseinspiranooff</title>
+  </programme>
+  <programme start="20260617053200 -0300" stop="20260617055700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260617055700 -0300" stop="20260617063500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Euceano</title>
+  </programme>
+  <programme start="20260617063500 -0300" stop="20260617070000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Peixe Frito</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617072800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Labirinto do Ártico</title>
+  </programme>
+  <programme start="20260617072800 -0300" stop="20260617082100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Nalu e Zay pelo Mundo</title>
+  </programme>
+  <programme start="20260617082100 -0300" stop="20260617082900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bike Under The Lights</title>
+  </programme>
+  <programme start="20260617082900 -0300" stop="20260617092300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260617092300 -0300" stop="20260617102000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Aventura em Foco</title>
+  </programme>
+  <programme start="20260617102000 -0300" stop="20260617104700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Naufrágios</title>
+  </programme>
+  <programme start="20260617104700 -0300" stop="20260617111500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Yoga em Todo Lugar</title>
+  </programme>
+  <programme start="20260617111500 -0300" stop="20260617112800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">7 Lições do Japão</title>
+  </programme>
+  <programme start="20260617112800 -0300" stop="20260617115500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Te Encontro no Topo!</title>
+  </programme>
+  <programme start="20260617115500 -0300" stop="20260617122100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Manual do Skate com Christian Hosoi</title>
+  </programme>
+  <programme start="20260617122100 -0300" stop="20260617124800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Biomas</title>
+  </programme>
+  <programme start="20260617124800 -0300" stop="20260617131600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Visão de Rua</title>
+  </programme>
+  <programme start="20260617131600 -0300" stop="20260617140400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Skate The World</title>
+  </programme>
+  <programme start="20260617140400 -0300" stop="20260617143300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260617143300 -0300" stop="20260617145900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260617145900 -0300" stop="20260617151100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bico branco</title>
+  </programme>
+  <programme start="20260617151100 -0300" stop="20260617160900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Aventura em Foco</title>
+  </programme>
+  <programme start="20260617160900 -0300" stop="20260617170200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Nalu e Zay pelo Mundo</title>
+  </programme>
+  <programme start="20260617170200 -0300" stop="20260617180300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Contos de Nazaré</title>
+  </programme>
+  <programme start="20260617180300 -0300" stop="20260617185600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">The Great Way</title>
+  </programme>
+  <programme start="20260617185600 -0300" stop="20260617192300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Mar de Dentro - O Outro Lado de Italo Ferreira</title>
+  </programme>
+  <programme start="20260617192300 -0300" stop="20260617193700 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">La Familia Muniz</title>
+  </programme>
+  <programme start="20260617193700 -0300" stop="20260617200600 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Labirinto do Ártico</title>
+  </programme>
+  <programme start="20260617200600 -0300" stop="20260617210200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260617210200 -0300" stop="20260617220400 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Guató - Uma Remada no Tempo</title>
+  </programme>
+  <programme start="20260617220400 -0300" stop="20260617230000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Domke's Show</title>
+  </programme>
+  <programme start="20260617230000 -0300" stop="20260617232800 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bono, o Cão Surfista</title>
+  </programme>
+  <programme start="20260617232800 -0300" stop="20260617235500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">África 360°</title>
+  </programme>
+  <programme start="20260617235500 -0300" stop="20260618002100 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Faz Teu Corre</title>
+  </programme>
+  <programme start="20260618002100 -0300" stop="20260618005000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">O Skate Mudou Minha Vida</title>
+  </programme>
+  <programme start="20260618005000 -0300" stop="20260618014200 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Lendas em Fiji</title>
+  </programme>
+  <programme start="20260618014200 -0300" stop="20260618023900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Guató - Uma Remada no Tempo</title>
+  </programme>
+  <programme start="20260618023900 -0300" stop="20260618033300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Domke's Show</title>
+  </programme>
+  <programme start="20260618033300 -0300" stop="20260618035900 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Bono, o Cão Surfista</title>
+  </programme>
+  <programme start="20260618035900 -0300" stop="20260618042500 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">África 360°</title>
+  </programme>
+  <programme start="20260618042500 -0300" stop="20260618051300 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Skate The World</title>
+  </programme>
+  <programme start="20260618051300 -0300" stop="20260618054000 -0300" channel="CANAL OFF FHD">
+    <title lang="pt">Ameaçados</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615070000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Israel, uma Terra Duplamente Prometida</title>
+  </programme>
+  <programme start="20260615070000 -0300" stop="20260615073000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Os Ímpares</title>
+  </programme>
+  <programme start="20260615073000 -0300" stop="20260615080000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Agbara Dudu - Narrativas Negras</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615090000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Fronteiras do Pensamento</title>
+  </programme>
+  <programme start="20260615090000 -0300" stop="20260615093000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Incertezas Críticas</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615103500 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Em Busca de Simone de Beauvoir</title>
+  </programme>
+  <programme start="20260615103500 -0300" stop="20260615120000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">A Escrita Delas</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615140000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Orí</title>
+  </programme>
+  <programme start="20260615140000 -0300" stop="20260615143000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Histórias da Gente Brasileira</title>
+  </programme>
+  <programme start="20260615143000 -0300" stop="20260615150000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Explodindo o Passado - Reflexões no Presente</title>
+  </programme>
+  <programme start="20260615150000 -0300" stop="20260615160000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Guerra Fria: O Poder da Animação</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615173000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Utopias Peregrinas - Dom Hélder Câmara</title>
+  </programme>
+  <programme start="20260615173000 -0300" stop="20260615180000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Mistérios do Arquivo</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615190000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">História do Anarquismo - Sem Deuses, sem Mestres</title>
+  </programme>
+  <programme start="20260615190000 -0300" stop="20260615200000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Malcolm X - Por Qualquer Meio Necessário</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615204000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">101 Canções que Tocaram o Brasil</title>
+  </programme>
+  <programme start="20260615204000 -0300" stop="20260615212000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Balanço Black</title>
+  </programme>
+  <programme start="20260615212000 -0300" stop="20260615215000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Os Ímpares</title>
+  </programme>
+  <programme start="20260615215000 -0300" stop="20260615234000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Carmen Miranda: Bananas is My Business</title>
+  </programme>
+  <programme start="20260615234000 -0300" stop="20260616000000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sérgio Ricardo Aka João Lutfi</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616004000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">101 Canções que Tocaram o Brasil</title>
+  </programme>
+  <programme start="20260616004000 -0300" stop="20260616012000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Balanço Black</title>
+  </programme>
+  <programme start="20260616012000 -0300" stop="20260616015000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Os Ímpares</title>
+  </programme>
+  <programme start="20260616015000 -0300" stop="20260616034000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Carmen Miranda: Bananas is My Business</title>
+  </programme>
+  <programme start="20260616034000 -0300" stop="20260616040000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sérgio Ricardo Aka João Lutfi</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616050000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">História do Anarquismo - Sem Deuses, sem Mestres</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616060000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Malcolm X - Por Qualquer Meio Necessário</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616080000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Orí</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616083000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Histórias da Gente Brasileira</title>
+  </programme>
+  <programme start="20260616083000 -0300" stop="20260616090000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Explodindo o Passado - Reflexões no Presente</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616100000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Guerra Fria: O Poder da Animação</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616113000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Utopias Peregrinas - Dom Hélder Câmara</title>
+  </programme>
+  <programme start="20260616113000 -0300" stop="20260616120000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Mistérios do Arquivo</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616130000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">História do Anarquismo - Sem Deuses, sem Mestres</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616140000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Malcolm X - Por Qualquer Meio Necessário</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260616144000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">101 Canções que Tocaram o Brasil</title>
+  </programme>
+  <programme start="20260616144000 -0300" stop="20260616152000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Balanço Black</title>
+  </programme>
+  <programme start="20260616152000 -0300" stop="20260616155000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Os Ímpares</title>
+  </programme>
+  <programme start="20260616155000 -0300" stop="20260616174000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Carmen Miranda: Bananas is My Business</title>
+  </programme>
+  <programme start="20260616174000 -0300" stop="20260616180000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sérgio Ricardo Aka João Lutfi</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616183000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Raiz - Arte Afro-Brasileira Contemporânea</title>
+  </programme>
+  <programme start="20260616183000 -0300" stop="20260616190000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Fluxo Azul</title>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616200000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Jogos Perigosos - Roblox e o Metaverso</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616204000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Matizes do Brasil</title>
+  </programme>
+  <programme start="20260616204000 -0300" stop="20260616214000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Onde Nascem as Ideias</title>
+  </programme>
+  <programme start="20260616214000 -0300" stop="20260616233000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Arte da Diplomacia</title>
+  </programme>
+  <programme start="20260616233000 -0300" stop="20260617004000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Matizes do Brasil</title>
+  </programme>
+  <programme start="20260617004000 -0300" stop="20260617014000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Onde Nascem as Ideias</title>
+  </programme>
+  <programme start="20260617014000 -0300" stop="20260617033000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Arte da Diplomacia</title>
+  </programme>
+  <programme start="20260617033000 -0300" stop="20260617040000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Matizes do Brasil</title>
+  </programme>
+  <programme start="20260617040000 -0300" stop="20260617043000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Raiz - Arte Afro-Brasileira Contemporânea</title>
+  </programme>
+  <programme start="20260617043000 -0300" stop="20260617050000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Fluxo Azul</title>
+  </programme>
+  <programme start="20260617050000 -0300" stop="20260617060000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Jogos Perigosos - Roblox e o Metaverso</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617070000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">História do Anarquismo - Sem Deuses, sem Mestres</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617080000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Malcolm X - Por Qualquer Meio Necessário</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617084000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">101 Canções que Tocaram o Brasil</title>
+  </programme>
+  <programme start="20260617084000 -0300" stop="20260617092000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Balanço Black</title>
+  </programme>
+  <programme start="20260617092000 -0300" stop="20260617095000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Os Ímpares</title>
+  </programme>
+  <programme start="20260617095000 -0300" stop="20260617114000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Carmen Miranda: Bananas is My Business</title>
+  </programme>
+  <programme start="20260617114000 -0300" stop="20260617120000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sérgio Ricardo Aka João Lutfi</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617123000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Raiz - Arte Afro-Brasileira Contemporânea</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617130000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Fluxo Azul</title>
+  </programme>
+  <programme start="20260617130000 -0300" stop="20260617140000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Jogos Perigosos - Roblox e o Metaverso</title>
+  </programme>
+  <programme start="20260617140000 -0300" stop="20260617144000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Matizes do Brasil</title>
+  </programme>
+  <programme start="20260617144000 -0300" stop="20260617154000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Onde Nascem as Ideias</title>
+  </programme>
+  <programme start="20260617154000 -0300" stop="20260617173000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Arte da Diplomacia</title>
+  </programme>
+  <programme start="20260617173000 -0300" stop="20260617180000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Matizes do Brasil</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617193000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sem Vergonha</title>
+  </programme>
+  <programme start="20260617193000 -0300" stop="20260617200000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Grandes Mitos - A Ilíada</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617203000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Cinéticas</title>
+  </programme>
+  <programme start="20260617203000 -0300" stop="20260617210000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Na Trilha do Cinema</title>
+  </programme>
+  <programme start="20260617210000 -0300" stop="20260617213000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Grandes Cenas</title>
+  </programme>
+  <programme start="20260617213000 -0300" stop="20260617222000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Cineastas</title>
+  </programme>
+  <programme start="20260617222000 -0300" stop="20260617232000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">O Cinema de Godard</title>
+  </programme>
+  <programme start="20260617232000 -0300" stop="20260618000000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Diretores de Arte</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618003000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Cinéticas</title>
+  </programme>
+  <programme start="20260618003000 -0300" stop="20260618010000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Na Trilha do Cinema</title>
+  </programme>
+  <programme start="20260618010000 -0300" stop="20260618013000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Grandes Cenas</title>
+  </programme>
+  <programme start="20260618013000 -0300" stop="20260618022000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Cineastas</title>
+  </programme>
+  <programme start="20260618022000 -0300" stop="20260618032000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">O Cinema de Godard</title>
+  </programme>
+  <programme start="20260618032000 -0300" stop="20260618040000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Diretores de Arte</title>
+  </programme>
+  <programme start="20260618040000 -0300" stop="20260618053000 -0300" channel="CANAL CURTA FHD">
+    <title lang="pt">Sem Vergonha</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064100 -0300" channel="GNT FHD">
+    <title lang="pt">Dani-se</title>
+  </programme>
+  <programme start="20260615064100 -0300" stop="20260615074000 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260615074000 -0300" stop="20260615083500 -0300" channel="GNT FHD">
+    <title lang="pt">Santa Ajuda</title>
+  </programme>
+  <programme start="20260615083500 -0300" stop="20260615093200 -0300" channel="GNT FHD">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20260615093200 -0300" stop="20260615102500 -0300" channel="GNT FHD">
+    <title lang="pt">Mais Cor, por Favor</title>
+  </programme>
+  <programme start="20260615102500 -0300" stop="20260615105500 -0300" channel="GNT FHD">
+    <title lang="pt">Lar - Vida Interior</title>
+  </programme>
+  <programme start="20260615105500 -0300" stop="20260615112300 -0300" channel="GNT FHD">
+    <title lang="pt">Superbonita</title>
+  </programme>
+  <programme start="20260615112300 -0300" stop="20260615121500 -0300" channel="GNT FHD">
+    <title lang="pt">Food Truck - A Batalha</title>
+  </programme>
+  <programme start="20260615121500 -0300" stop="20260615130100 -0300" channel="GNT FHD">
+    <title lang="pt">Alma de Cozinheira</title>
+  </programme>
+  <programme start="20260615130100 -0300" stop="20260615151600 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260615151600 -0300" stop="20260615160200 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260615160200 -0300" stop="20260615163200 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! - Delivery</title>
+  </programme>
+  <programme start="20260615163200 -0300" stop="20260615173300 -0300" channel="GNT FHD">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20260615173300 -0300" stop="20260615181700 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! minha Primeira Vez na Cozinha</title>
+  </programme>
+  <programme start="20260615181700 -0300" stop="20260615194300 -0300" channel="GNT FHD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+  </programme>
+  <programme start="20260615194300 -0300" stop="20260615214500 -0300" channel="GNT FHD">
+    <title lang="pt">Que Seja Doce</title>
+  </programme>
+  <programme start="20260615214500 -0300" stop="20260615223000 -0300" channel="GNT FHD">
+    <title lang="pt">No Fogo com Bronze</title>
+  </programme>
+  <programme start="20260615223000 -0300" stop="20260615234800 -0300" channel="GNT FHD">
+    <title lang="pt">Papo de Segunda</title>
+  </programme>
+  <programme start="20260615234800 -0300" stop="20260616004800 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260616004800 -0300" stop="20260616022900 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260616022900 -0300" stop="20260616031400 -0300" channel="GNT FHD">
+    <title lang="pt">Geladeiras em Ação</title>
+  </programme>
+  <programme start="20260616031400 -0300" stop="20260616041400 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260616041400 -0300" stop="20260616051100 -0300" channel="GNT FHD">
+    <title lang="pt">Santa Ajuda</title>
+  </programme>
+  <programme start="20260616051100 -0300" stop="20260616060300 -0300" channel="GNT FHD">
+    <title lang="pt">Food Truck - A Batalha</title>
+  </programme>
+  <programme start="20260616060300 -0300" stop="20260616064900 -0300" channel="GNT FHD">
+    <title lang="pt">Sábia Ignorância</title>
+  </programme>
+  <programme start="20260616064900 -0300" stop="20260616070300 -0300" channel="GNT FHD">
+    <title lang="pt">Pode Entrar</title>
+  </programme>
+  <programme start="20260616070300 -0300" stop="20260616080600 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260616080600 -0300" stop="20260616090300 -0300" channel="GNT FHD">
+    <title lang="pt">Santa Ajuda</title>
+  </programme>
+  <programme start="20260616090300 -0300" stop="20260616100500 -0300" channel="GNT FHD">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20260616100500 -0300" stop="20260616105900 -0300" channel="GNT FHD">
+    <title lang="pt">Mais Cor, por Favor</title>
+  </programme>
+  <programme start="20260616105900 -0300" stop="20260616112800 -0300" channel="GNT FHD">
+    <title lang="pt">Morar</title>
+  </programme>
+  <programme start="20260616112800 -0300" stop="20260616122300 -0300" channel="GNT FHD">
+    <title lang="pt">Food Truck - A Batalha</title>
+  </programme>
+  <programme start="20260616122300 -0300" stop="20260616130600 -0300" channel="GNT FHD">
+    <title lang="pt">No Fogo com Bronze</title>
+  </programme>
+  <programme start="20260616130600 -0300" stop="20260616133400 -0300" channel="GNT FHD">
+    <title lang="pt">Chegadas e Partidas</title>
+  </programme>
+  <programme start="20260616133400 -0300" stop="20260616140400 -0300" channel="GNT FHD">
+    <title lang="pt">Em Família com Eliana - Pode Entrar</title>
+  </programme>
+  <programme start="20260616140400 -0300" stop="20260616150900 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260616150900 -0300" stop="20260616155800 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260616155800 -0300" stop="20260616163900 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! minha Primeira Vez na Cozinha</title>
+  </programme>
+  <programme start="20260616163900 -0300" stop="20260616173400 -0300" channel="GNT FHD">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20260616173400 -0300" stop="20260616182000 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! Chato Pra Comer</title>
+  </programme>
+  <programme start="20260616182000 -0300" stop="20260616194100 -0300" channel="GNT FHD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+  </programme>
+  <programme start="20260616194100 -0300" stop="20260616214500 -0300" channel="GNT FHD">
+    <title lang="pt">Que Seja Doce</title>
+  </programme>
+  <programme start="20260616214500 -0300" stop="20260616225200 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260616225200 -0300" stop="20260616232100 -0300" channel="GNT FHD">
+    <title lang="pt">Em Família com Eliana - Pode Entrar</title>
+  </programme>
+  <programme start="20260616232100 -0300" stop="20260617002800 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260617002800 -0300" stop="20260617011600 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260617011600 -0300" stop="20260617015900 -0300" channel="GNT FHD">
+    <title lang="pt">Infiltrado na Cozinha</title>
+  </programme>
+  <programme start="20260617015900 -0300" stop="20260617024100 -0300" channel="GNT FHD">
+    <title lang="pt">No Fogo com Bronze</title>
+  </programme>
+  <programme start="20260617024100 -0300" stop="20260617031000 -0300" channel="GNT FHD">
+    <title lang="pt">Chegadas e Partidas</title>
+  </programme>
+  <programme start="20260617031000 -0300" stop="20260617041200 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260617041200 -0300" stop="20260617050700 -0300" channel="GNT FHD">
+    <title lang="pt">Santa Ajuda</title>
+  </programme>
+  <programme start="20260617050700 -0300" stop="20260617060000 -0300" channel="GNT FHD">
+    <title lang="pt">Food Truck - A Batalha</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064100 -0300" channel="GNT FHD">
+    <title lang="pt">Dani-se</title>
+  </programme>
+  <programme start="20260617064100 -0300" stop="20260617074300 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260617074300 -0300" stop="20260617083700 -0300" channel="GNT FHD">
+    <title lang="pt">Santa Ajuda</title>
+  </programme>
+  <programme start="20260617083700 -0300" stop="20260617093700 -0300" channel="GNT FHD">
+    <title lang="pt">Decora</title>
+  </programme>
+  <programme start="20260617093700 -0300" stop="20260617102800 -0300" channel="GNT FHD">
+    <title lang="pt">Mais Cor, por Favor</title>
+  </programme>
+  <programme start="20260617102800 -0300" stop="20260617105600 -0300" channel="GNT FHD">
+    <title lang="pt">Lar - Vida Interior</title>
+  </programme>
+  <programme start="20260617105600 -0300" stop="20260617112300 -0300" channel="GNT FHD">
+    <title lang="pt">Em Família com Eliana - Pode Entrar</title>
+  </programme>
+  <programme start="20260617112300 -0300" stop="20260617121700 -0300" channel="GNT FHD">
+    <title lang="pt">Food Truck - A Batalha</title>
+  </programme>
+  <programme start="20260617121700 -0300" stop="20260617130100 -0300" channel="GNT FHD">
+    <title lang="pt">Alma de Cozinheira</title>
+  </programme>
+  <programme start="20260617130100 -0300" stop="20260617135600 -0300" channel="GNT FHD">
+    <title lang="pt">Bem Juntinhos</title>
+  </programme>
+  <programme start="20260617135600 -0300" stop="20260617145900 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260617145900 -0300" stop="20260617154400 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260617154400 -0300" stop="20260617163000 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! Chato Pra Comer</title>
+  </programme>
+  <programme start="20260617163000 -0300" stop="20260617173100 -0300" channel="GNT FHD">
+    <title lang="pt">Tempero de Família</title>
+  </programme>
+  <programme start="20260617173100 -0300" stop="20260617183100 -0300" channel="GNT FHD">
+    <title lang="pt">Que Marravilha! Aula de Cozinha</title>
+  </programme>
+  <programme start="20260617183100 -0300" stop="20260617194400 -0300" channel="GNT FHD">
+    <title lang="pt">Cozinha Prática com Rita Lobo</title>
+  </programme>
+  <programme start="20260617194400 -0300" stop="20260617214600 -0300" channel="GNT FHD">
+    <title lang="pt">Que Seja Doce</title>
+  </programme>
+  <programme start="20260617214600 -0300" stop="20260617223000 -0300" channel="GNT FHD">
+    <title lang="pt">No Fogo com Bronze</title>
+  </programme>
+  <programme start="20260617223000 -0300" stop="20260617233800 -0300" channel="GNT FHD">
+    <title lang="pt">Saia Justa</title>
+  </programme>
+  <programme start="20260617233800 -0300" stop="20260618004300 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260618004300 -0300" stop="20260618012600 -0300" channel="GNT FHD">
+    <title lang="pt">Avisa lá que eu Vou</title>
+  </programme>
+  <programme start="20260618012600 -0300" stop="20260618024100 -0300" channel="GNT FHD">
+    <title lang="pt">Papo de Segunda</title>
+  </programme>
+  <programme start="20260618024100 -0300" stop="20260618034600 -0300" channel="GNT FHD">
+    <title lang="pt">Que História é Essa, Porchat?</title>
+  </programme>
+  <programme start="20260618034600 -0300" stop="20260618045000 -0300" channel="GNT FHD">
+    <title lang="pt">Fazendo a Festa</title>
+  </programme>
+  <programme start="20260618045000 -0300" stop="20260618050500 -0300" channel="GNT FHD">
+    <title lang="pt">Pode Entrar</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615073600 -0300" stop="20260615082400 -0300" channel="HGTV FHD">
+    <title lang="pt">Celebridades em Casa</title>
+  </programme>
+  <programme start="20260615082400 -0300" stop="20260615091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Fechado com Jason Abrams</title>
+  </programme>
+  <programme start="20260615091200 -0300" stop="20260615095600 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260615095600 -0300" stop="20260615104800 -0300" channel="HGTV FHD">
+    <title lang="pt">Tô Chegando! Na Casa dos Famosos</title>
+  </programme>
+  <programme start="20260615104800 -0300" stop="20260615113600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vidas Alteradas, Casas Renovadas</title>
+  </programme>
+  <programme start="20260615113600 -0300" stop="20260615120000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615122200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260615122200 -0300" stop="20260615131000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260615131000 -0300" stop="20260615135600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615135600 -0300" stop="20260615141800 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+  </programme>
+  <programme start="20260615141800 -0300" stop="20260615144000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260615144000 -0300" stop="20260615150400 -0300" channel="HGTV FHD">
+    <title lang="pt">House Hunters</title>
+  </programme>
+  <programme start="20260615150400 -0300" stop="20260615152800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260615152800 -0300" stop="20260615161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260615161200 -0300" stop="20260615165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260615165800 -0300" stop="20260615181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260615181000 -0300" stop="20260615190200 -0300" channel="HGTV FHD">
+    <title lang="pt">Tô Chegando! Na Casa dos Famosos</title>
+  </programme>
+  <programme start="20260615190200 -0300" stop="20260615195000 -0300" channel="HGTV FHD">
+    <title lang="pt">John e Anthony - Reformando Cozinhas</title>
+  </programme>
+  <programme start="20260615195000 -0300" stop="20260615201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260615201400 -0300" stop="20260615203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260615203800 -0300" stop="20260615212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260615212400 -0300" stop="20260615221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260615221000 -0300" stop="20260615225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260615225800 -0300" stop="20260615234500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260615234500 -0300" stop="20260616003400 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616003400 -0300" stop="20260616012000 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260616012000 -0300" stop="20260616022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616022800 -0300" stop="20260616025000 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Caribe</title>
+  </programme>
+  <programme start="20260616025000 -0300" stop="20260616033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260616033600 -0300" stop="20260616044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260616044800 -0300" stop="20260616060000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616073600 -0300" stop="20260616080000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa de Praia</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616082400 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260616082400 -0300" stop="20260616084800 -0300" channel="HGTV FHD">
+    <title lang="pt">House Hunters</title>
+  </programme>
+  <programme start="20260616084800 -0300" stop="20260616091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260616091200 -0300" stop="20260616095500 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616095500 -0300" stop="20260616104700 -0300" channel="HGTV FHD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+  </programme>
+  <programme start="20260616104700 -0300" stop="20260616113500 -0300" channel="HGTV FHD">
+    <title lang="pt">John e Anthony - Reformando Cozinhas</title>
+  </programme>
+  <programme start="20260616113500 -0300" stop="20260616115900 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260616115900 -0300" stop="20260616122100 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260616122100 -0300" stop="20260616130900 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260616130900 -0300" stop="20260616135500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616135500 -0300" stop="20260616143900 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260616143900 -0300" stop="20260616152500 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260616152500 -0300" stop="20260616161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260616161200 -0300" stop="20260616165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260616165800 -0300" stop="20260616181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260616181000 -0300" stop="20260616190200 -0300" channel="HGTV FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260616190200 -0300" stop="20260616195000 -0300" channel="HGTV FHD">
+    <title lang="pt">O Novo Vintage</title>
+  </programme>
+  <programme start="20260616195000 -0300" stop="20260616201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260616201400 -0300" stop="20260616203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260616203800 -0300" stop="20260616212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260616212400 -0300" stop="20260616221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260616221000 -0300" stop="20260616225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Imobiliário com Brittany</title>
+  </programme>
+  <programme start="20260616225800 -0300" stop="20260616234600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma com R Maiúsculo</title>
+  </programme>
+  <programme start="20260616234600 -0300" stop="20260617003200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617003200 -0300" stop="20260617011800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260617011800 -0300" stop="20260617022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617022800 -0300" stop="20260617033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260617033600 -0300" stop="20260617044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260617044800 -0300" stop="20260617060000 -0300" channel="HGTV FHD">
+    <title lang="pt">A Sonhada Casa do Lago</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064800 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617073600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617073600 -0300" stop="20260617082400 -0300" channel="HGTV FHD">
+    <title lang="pt">Comprar ou Construir?</title>
+  </programme>
+  <programme start="20260617082400 -0300" stop="20260617091200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma Relâmpago: Jardins</title>
+  </programme>
+  <programme start="20260617091200 -0300" stop="20260617095600 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617095600 -0300" stop="20260617104800 -0300" channel="HGTV FHD">
+    <title lang="pt">Você Renova</title>
+  </programme>
+  <programme start="20260617104800 -0300" stop="20260617113600 -0300" channel="HGTV FHD">
+    <title lang="pt">O Novo Vintage</title>
+  </programme>
+  <programme start="20260617113600 -0300" stop="20260617120000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617122200 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260617122200 -0300" stop="20260617131000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260617131000 -0300" stop="20260617135600 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617135600 -0300" stop="20260617144000 -0300" channel="HGTV FHD">
+    <title lang="pt">Negócio Imobiliário com Brittany</title>
+  </programme>
+  <programme start="20260617144000 -0300" stop="20260617152800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma com R Maiúsculo</title>
+  </programme>
+  <programme start="20260617152800 -0300" stop="20260617161200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260617161200 -0300" stop="20260617165800 -0300" channel="HGTV FHD">
+    <title lang="pt">Restaurando Fachadas ao Extremo</title>
+  </programme>
+  <programme start="20260617165800 -0300" stop="20260617181000 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260617181000 -0300" stop="20260617190200 -0300" channel="HGTV FHD">
+    <title lang="pt">24 Horas Pra Redecorar</title>
+  </programme>
+  <programme start="20260617190200 -0300" stop="20260617195000 -0300" channel="HGTV FHD">
+    <title lang="pt">Renovação Selvagem</title>
+  </programme>
+  <programme start="20260617195000 -0300" stop="20260617201400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617201400 -0300" stop="20260617203800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reforma à Venda - Atlanta</title>
+  </programme>
+  <programme start="20260617203800 -0300" stop="20260617212400 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas Incríveis</title>
+  </programme>
+  <programme start="20260617212400 -0300" stop="20260617221000 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Casas, Transformando Vidas</title>
+  </programme>
+  <programme start="20260617221000 -0300" stop="20260617225800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformas a Todo Vapor</title>
+  </programme>
+  <programme start="20260617225800 -0300" stop="20260617234600 -0300" channel="HGTV FHD">
+    <title lang="pt">Davina &amp; Kristin - Casas com Potencial</title>
+  </programme>
+  <programme start="20260617234600 -0300" stop="20260618003200 -0300" channel="HGTV FHD">
+    <title lang="pt">Piscinas Incríveis</title>
+  </programme>
+  <programme start="20260618003200 -0300" stop="20260618011800 -0300" channel="HGTV FHD">
+    <title lang="pt">Reformando Quintais com Chris Lambton</title>
+  </programme>
+  <programme start="20260618011800 -0300" stop="20260618022800 -0300" channel="HGTV FHD">
+    <title lang="pt">Desafio da Renovação</title>
+  </programme>
+  <programme start="20260618022800 -0300" stop="20260618033600 -0300" channel="HGTV FHD">
+    <title lang="pt">Vida no Paraíso - Bahamas</title>
+  </programme>
+  <programme start="20260618033600 -0300" stop="20260618044800 -0300" channel="HGTV FHD">
+    <title lang="pt">Em Busca da Casa Perfeita</title>
+  </programme>
+  <programme start="20260615054500 -0300" stop="20260615061000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260615061000 -0300" stop="20260615063400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260615063400 -0300" stop="20260615072500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260615072500 -0300" stop="20260615075300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260615075300 -0300" stop="20260615080000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Bar do Gogó</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615083000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260615083000 -0300" stop="20260615091400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260615091400 -0300" stop="20260615094400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20260615094400 -0300" stop="20260615110800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260615110800 -0300" stop="20260615113300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260615113300 -0300" stop="20260615120300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260615120300 -0300" stop="20260615125500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260615125500 -0300" stop="20260615133800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260615133800 -0300" stop="20260615141700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260615141700 -0300" stop="20260615154700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260615154700 -0300" stop="20260615164000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260615164000 -0300" stop="20260615180000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260615183000 -0300" stop="20260615184900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260615184900 -0300" stop="20260615192500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260615192500 -0300" stop="20260615200300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260615200300 -0300" stop="20260615214500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260615214500 -0300" stop="20260615223000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260615223000 -0300" stop="20260615233000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260615233000 -0300" stop="20260616001400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260616001400 -0300" stop="20260616013400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260616013400 -0300" stop="20260616021300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260616021300 -0300" stop="20260616030500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260616030500 -0300" stop="20260616033500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260616033500 -0300" stop="20260616040100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260616040100 -0300" stop="20260616043000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260616043000 -0300" stop="20260616050000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616060000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616070000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">O Dono do Lar</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616072500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260616072500 -0300" stop="20260616075500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260616075500 -0300" stop="20260616080100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">O Dono do Lar</title>
+  </programme>
+  <programme start="20260616080100 -0300" stop="20260616083100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260616083100 -0300" stop="20260616090100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260616090100 -0300" stop="20260616094400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260616094400 -0300" stop="20260616110400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260616110400 -0300" stop="20260616112600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260616112600 -0300" stop="20260616115200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260616115200 -0300" stop="20260616124100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260616124100 -0300" stop="20260616141200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260616141200 -0300" stop="20260616144900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260616144900 -0300" stop="20260616154900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260616154900 -0300" stop="20260616164100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260616164100 -0300" stop="20260616180000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616183000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260616183000 -0300" stop="20260616185100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260616185100 -0300" stop="20260616192200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260616192200 -0300" stop="20260616200600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260616200600 -0300" stop="20260616214700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260616214700 -0300" stop="20260616223000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260616223000 -0300" stop="20260616230000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">E.T. Edu e Tatá</title>
+  </programme>
+  <programme start="20260616230000 -0300" stop="20260616232800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Stories da Mansão - O Retiro</title>
+  </programme>
+  <programme start="20260616232800 -0300" stop="20260616235800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Stories da Mansão</title>
+  </programme>
+  <programme start="20260616235800 -0300" stop="20260617003200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260617003200 -0300" stop="20260617010500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Hellfest 2022: Sepultura</title>
+  </programme>
+  <programme start="20260617010500 -0300" stop="20260617014800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260617014800 -0300" stop="20260617023900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260617023900 -0300" stop="20260617030500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260617030500 -0300" stop="20260617033000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260617033000 -0300" stop="20260617035800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260617035800 -0300" stop="20260617042700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">E.T. Edu e Tatá</title>
+  </programme>
+  <programme start="20260617042700 -0300" stop="20260617045700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260617045700 -0300" stop="20260617055700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260617055700 -0300" stop="20260617062700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Reclame</title>
+  </programme>
+  <programme start="20260617062700 -0300" stop="20260617070000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Hellfest 2022: Sepultura</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617072600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260617072600 -0300" stop="20260617075200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260617075200 -0300" stop="20260617080000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Crush Animal</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617083000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tvz</title>
+  </programme>
+  <programme start="20260617083000 -0300" stop="20260617090300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Hellfest 2022: Sepultura</title>
+  </programme>
+  <programme start="20260617090300 -0300" stop="20260617093300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260617093300 -0300" stop="20260617105200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260617105200 -0300" stop="20260617111800 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260617111800 -0300" stop="20260617114000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260617114000 -0300" stop="20260617122600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260617122600 -0300" stop="20260617135300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A VIla</title>
+  </programme>
+  <programme start="20260617135300 -0300" stop="20260617143600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260617143600 -0300" stop="20260617150600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260617150600 -0300" stop="20260617152700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260617152700 -0300" stop="20260617155400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Stories da Mansão - O Retiro</title>
+  </programme>
+  <programme start="20260617155400 -0300" stop="20260617164300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260617164300 -0300" stop="20260617180000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617183000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Top Tvz</title>
+  </programme>
+  <programme start="20260617183000 -0300" stop="20260617190100 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">O Dono do Lar</title>
+  </programme>
+  <programme start="20260617190100 -0300" stop="20260617195600 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+  </programme>
+  <programme start="20260617195600 -0300" stop="20260617214400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260617214400 -0300" stop="20260617223300 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260617223300 -0300" stop="20260617233500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tô de Graça</title>
+  </programme>
+  <programme start="20260617233500 -0300" stop="20260618004000 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">A Grande Família</title>
+  </programme>
+  <programme start="20260618004000 -0300" stop="20260618011500 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Tapas &amp; Beijos</title>
+  </programme>
+  <programme start="20260618011500 -0300" stop="20260618013400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Vai Que Cola</title>
+  </programme>
+  <programme start="20260618013400 -0300" stop="20260618022400 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260618022400 -0300" stop="20260618024700 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260618024700 -0300" stop="20260618031200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chaves</title>
+  </programme>
+  <programme start="20260618031200 -0300" stop="20260618034200 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Chapolin</title>
+  </programme>
+  <programme start="20260618034200 -0300" stop="20260618040900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Stories da Mansão - O Retiro</title>
+  </programme>
+  <programme start="20260618040900 -0300" stop="20260618043900 -0300" channel="MULTISHOW FHD">
+    <title lang="pt">Top Tvz</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615090000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20260615090000 -0300" stop="20260615123000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">NHK Special</title>
+  </programme>
+  <programme start="20260615123000 -0300" stop="20260615174500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">World Weather</title>
+  </programme>
+  <programme start="20260615174500 -0300" stop="20260615200000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Cooking For Beginners</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260616000000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Drama Serial Mampuku</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616001000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Science For Everyone</title>
+  </programme>
+  <programme start="20260616001000 -0300" stop="20260616002000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News &amp; Weather</title>
+  </programme>
+  <programme start="20260616002000 -0300" stop="20260616003000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Live From Places in Season!</title>
+  </programme>
+  <programme start="20260616003000 -0300" stop="20260616004500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Fun With Okinawa Dialects</title>
+  </programme>
+  <programme start="20260616004500 -0300" stop="20260616005000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Drama Serial Mampuku</title>
+  </programme>
+  <programme start="20260616005000 -0300" stop="20260616010000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Historical Anecdote</title>
+  </programme>
+  <programme start="20260616010000 -0300" stop="20260616012000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Afternoon Live</title>
+  </programme>
+  <programme start="20260616012000 -0300" stop="20260616013000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Points At Issue</title>
+  </programme>
+  <programme start="20260616013000 -0300" stop="20260616014500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Fun With Okinawa Dialects</title>
+  </programme>
+  <programme start="20260616014500 -0300" stop="20260616020000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">World Weather</title>
+  </programme>
+  <programme start="20260616020000 -0300" stop="20260616020500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News &amp; Weather</title>
+  </programme>
+  <programme start="20260616020500 -0300" stop="20260616021000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Afternoon Live</title>
+  </programme>
+  <programme start="20260616021000 -0300" stop="20260616032000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Points At Issue</title>
+  </programme>
+  <programme start="20260616032000 -0300" stop="20260616032800 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News &amp; Weather</title>
+  </programme>
+  <programme start="20260616032800 -0300" stop="20260616040000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Afternoon Live</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616040500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20260616040500 -0300" stop="20260616060000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Grand Sumo Spring Tournament</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616061100 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20260616061100 -0300" stop="20260616062100 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Fun With Japanese</title>
+  </programme>
+  <programme start="20260616062100 -0300" stop="20260616063600 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Peek-a-boo</title>
+  </programme>
+  <programme start="20260616063600 -0300" stop="20260616070000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">With Mother</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616080000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">NHK News 7</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616090000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">NHK Special Dear 20 Year Old me</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616100000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News Watch 9</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616104500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Today's Close-up Plus</title>
+  </programme>
+  <programme start="20260616104500 -0300" stop="20260616105000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Fudoki</title>
+  </programme>
+  <programme start="20260616105000 -0300" stop="20260616114000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">World Weather</title>
+  </programme>
+  <programme start="20260616114000 -0300" stop="20260616122000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">International News Report 2019</title>
+  </programme>
+  <programme start="20260616122000 -0300" stop="20260616123000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">March 11: Under The Starry Sky</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616123500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Child-rearing Hints &amp; Tips</title>
+  </programme>
+  <programme start="20260616123500 -0300" stop="20260616130000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Gretel's Magical Oven</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616135500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Science Zero</title>
+  </programme>
+  <programme start="20260616135500 -0300" stop="20260616140000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Self-centered Commentary</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260616143500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Testimonies of The Great East Japan Earthquake</title>
+  </programme>
+  <programme start="20260616143500 -0300" stop="20260616144500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News Commentary</title>
+  </programme>
+  <programme start="20260616144500 -0300" stop="20260616151000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Tanka Poetry</title>
+  </programme>
+  <programme start="20260616151000 -0300" stop="20260616152500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Health For Today</title>
+  </programme>
+  <programme start="20260616152500 -0300" stop="20260616155500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Today's Menu</title>
+  </programme>
+  <programme start="20260616155500 -0300" stop="20260616160000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Everyday Tips</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616163000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Kid's Discovery</title>
+  </programme>
+  <programme start="20260616163000 -0300" stop="20260616163500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Design Ah!</title>
+  </programme>
+  <programme start="20260616163500 -0300" stop="20260616170000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Fukushima Time/lapse</title>
+  </programme>
+  <programme start="20260616170000 -0300" stop="20260616172400 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">With Mother</title>
+  </programme>
+  <programme start="20260616172400 -0300" stop="20260616173900 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Kid's Discovery</title>
+  </programme>
+  <programme start="20260616173900 -0300" stop="20260616174500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Chatty Jay's Sundry Shop</title>
+  </programme>
+  <programme start="20260616174500 -0300" stop="20260616174900 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Cooking For Beginners</title>
+  </programme>
+  <programme start="20260616174900 -0300" stop="20260616175900 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Go! Go! Cook R'N</title>
+  </programme>
+  <programme start="20260616175900 -0300" stop="20260616180000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">World Weather</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616200000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News: Good Morning Japan</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260617000000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Drama Serial Mampuku</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617005500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Asaichi</title>
+  </programme>
+  <programme start="20260617005500 -0300" stop="20260617030000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Pop Music Club</title>
+  </programme>
+  <programme start="20260617030000 -0300" stop="20260617070000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Let's Enjoy English With Orton</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617073000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Classic Books</title>
+  </programme>
+  <programme start="20260617073000 -0300" stop="20260617090000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News</title>
+  </programme>
+  <programme start="20260617090000 -0300" stop="20260617123000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">News Watch 9</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260618000000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">World Weather</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618002500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Song Concert</title>
+  </programme>
+  <programme start="20260618002500 -0300" stop="20260618013500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Rubble e Sua Turma</title>
+  </programme>
+  <programme start="20260618013500 -0300" stop="20260618030500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">As Aventuras de Paddington</title>
+  </programme>
+  <programme start="20260618030500 -0300" stop="20260618035500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Barbapapa e Família</title>
+  </programme>
+  <programme start="20260618035500 -0300" stop="20260618041500 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Barbapapa - Uma Grande Família</title>
+  </programme>
+  <programme start="20260618041500 -0300" stop="20260618043000 -0300" channel="NHK WORLD JAPAN FHD">
+    <title lang="pt">Barbapapa e Família</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615064800 -0300" channel="TLC FHD">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20260615064800 -0300" stop="20260615082500 -0300" channel="TLC FHD">
+    <title lang="pt">Amy e Tammy - Irmãs Contra o Peso</title>
+  </programme>
+  <programme start="20260615082500 -0300" stop="20260615100300 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260615100300 -0300" stop="20260615105200 -0300" channel="TLC FHD">
+    <title lang="pt">Casas Exuberantes</title>
+  </programme>
+  <programme start="20260615105200 -0300" stop="20260615114000 -0300" channel="TLC FHD">
+    <title lang="pt">Casas Muito Loucas</title>
+  </programme>
+  <programme start="20260615114000 -0300" stop="20260615131400 -0300" channel="TLC FHD">
+    <title lang="pt">O Vestido Ideal</title>
+  </programme>
+  <programme start="20260615131400 -0300" stop="20260615145200 -0300" channel="TLC FHD">
+    <title lang="pt">Amor Fora das Grades</title>
+  </programme>
+  <programme start="20260615145200 -0300" stop="20260615163000 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260615163000 -0300" stop="20260615180800 -0300" channel="TLC FHD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+  </programme>
+  <programme start="20260615180800 -0300" stop="20260615194200 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260615194200 -0300" stop="20260615211600 -0300" channel="TLC FHD">
+    <title lang="pt">Bem-vindo À Família Plath</title>
+  </programme>
+  <programme start="20260615211600 -0300" stop="20260615220600 -0300" channel="TLC FHD">
+    <title lang="pt">Alta Infidelidade</title>
+  </programme>
+  <programme start="20260615220600 -0300" stop="20260615234600 -0300" channel="TLC FHD">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+  </programme>
+  <programme start="20260615234600 -0300" stop="20260616003500 -0300" channel="TLC FHD">
+    <title lang="pt">O Vestido Ideal</title>
+  </programme>
+  <programme start="20260616003500 -0300" stop="20260616025500 -0300" channel="TLC FHD">
+    <title lang="pt">Amor Fora das Grades - Como Eles Estão Agora?</title>
+  </programme>
+  <programme start="20260616025500 -0300" stop="20260616042900 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260616042900 -0300" stop="20260616051400 -0300" channel="TLC FHD">
+    <title lang="pt">Cupom Mania</title>
+  </programme>
+  <programme start="20260616051400 -0300" stop="20260616060000 -0300" channel="TLC FHD">
+    <title lang="pt">Eu Não Sabia que Estava Grávida</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616064800 -0300" channel="TLC FHD">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20260616064800 -0300" stop="20260616082500 -0300" channel="TLC FHD">
+    <title lang="pt">Amy e Tammy - Irmãs Contra o Peso</title>
+  </programme>
+  <programme start="20260616082500 -0300" stop="20260616100300 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260616100300 -0300" stop="20260616105200 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Família de Peso</title>
+  </programme>
+  <programme start="20260616105200 -0300" stop="20260616114000 -0300" channel="TLC FHD">
+    <title lang="pt">Amy e Tammy - Irmãs Contra o Peso</title>
+  </programme>
+  <programme start="20260616114000 -0300" stop="20260616123000 -0300" channel="TLC FHD">
+    <title lang="pt">Segredos do Meu Corpo</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616131400 -0300" channel="TLC FHD">
+    <title lang="pt">Além das Aparências</title>
+  </programme>
+  <programme start="20260616131400 -0300" stop="20260616145200 -0300" channel="TLC FHD">
+    <title lang="pt">Amor Fora das Grades</title>
+  </programme>
+  <programme start="20260616145200 -0300" stop="20260616163000 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260616163000 -0300" stop="20260616180800 -0300" channel="TLC FHD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+  </programme>
+  <programme start="20260616180800 -0300" stop="20260616194200 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260616194200 -0300" stop="20260616203200 -0300" channel="TLC FHD">
+    <title lang="pt">Bem-vindo À Família Plath</title>
+  </programme>
+  <programme start="20260616203200 -0300" stop="20260616220600 -0300" channel="TLC FHD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20260616220600 -0300" stop="20260616225600 -0300" channel="TLC FHD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+  </programme>
+  <programme start="20260616225600 -0300" stop="20260616232900 -0300" channel="TLC FHD">
+    <title lang="pt">Mapa do Pop</title>
+  </programme>
+  <programme start="20260616232900 -0300" stop="20260617000000 -0300" channel="TLC FHD">
+    <title lang="pt">Passeio Completo</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617004900 -0300" channel="TLC FHD">
+    <title lang="pt">O Vestido Ideal</title>
+  </programme>
+  <programme start="20260617004900 -0300" stop="20260617031100 -0300" channel="TLC FHD">
+    <title lang="pt">A Vida de Jazz</title>
+  </programme>
+  <programme start="20260617031100 -0300" stop="20260617044700 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260617044700 -0300" stop="20260617053500 -0300" channel="TLC FHD">
+    <title lang="pt">Cupom Mania</title>
+  </programme>
+  <programme start="20260617053500 -0300" stop="20260617060000 -0300" channel="TLC FHD">
+    <title lang="pt">Eu Não Sabia que Estava Grávida</title>
+  </programme>
+  <programme start="20260617060000 -0300" stop="20260617064800 -0300" channel="TLC FHD">
+    <title lang="pt">Cake Boss</title>
+  </programme>
+  <programme start="20260617064800 -0300" stop="20260617082500 -0300" channel="TLC FHD">
+    <title lang="pt">Amy e Tammy - Irmãs Contra o Peso</title>
+  </programme>
+  <programme start="20260617082500 -0300" stop="20260617100300 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260617100300 -0300" stop="20260617105200 -0300" channel="TLC FHD">
+    <title lang="pt">Chegou Honey Boo Boo!</title>
+  </programme>
+  <programme start="20260617105200 -0300" stop="20260617123000 -0300" channel="TLC FHD">
+    <title lang="pt">Os Busbys + 5</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617131400 -0300" channel="TLC FHD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+  </programme>
+  <programme start="20260617131400 -0300" stop="20260617145200 -0300" channel="TLC FHD">
+    <title lang="pt">Amor Fora das Grades</title>
+  </programme>
+  <programme start="20260617145200 -0300" stop="20260617163000 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260617163000 -0300" stop="20260617180800 -0300" channel="TLC FHD">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+  </programme>
+  <programme start="20260617180800 -0300" stop="20260617194200 -0300" channel="TLC FHD">
+    <title lang="pt">De Volta ao Mundo Amish</title>
+  </programme>
+  <programme start="20260617194200 -0300" stop="20260617203200 -0300" channel="TLC FHD">
+    <title lang="pt">Bem-vindo À Família Plath</title>
+  </programme>
+  <programme start="20260617203200 -0300" stop="20260617231900 -0300" channel="TLC FHD">
+    <title lang="pt">Amor Fora das Grades - Como Eles Estão Agora?</title>
+  </programme>
+  <programme start="20260617231900 -0300" stop="20260618003300 -0300" channel="TLC FHD">
+    <title lang="pt">O Vestido Ideal</title>
+  </programme>
+  <programme start="20260618003300 -0300" stop="20260618025300 -0300" channel="TLC FHD">
+    <title lang="pt">A Pequena Grande Família</title>
+  </programme>
+  <programme start="20260618025300 -0300" stop="20260618042700 -0300" channel="TLC FHD">
+    <title lang="pt">Uma Mulher de Peso</title>
+  </programme>
+  <programme start="20260618042700 -0300" stop="20260618051100 -0300" channel="TLC FHD">
+    <title lang="pt">Cupom Mania</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615061500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Representa</title>
+  </programme>
+  <programme start="20260615061500 -0300" stop="20260615063000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pura Connection</title>
+  </programme>
+  <programme start="20260615063000 -0300" stop="20260615070000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Quem é do Mar é do Bem</title>
+  </programme>
+  <programme start="20260615070000 -0300" stop="20260615071500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260615071500 -0300" stop="20260615074500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260615074500 -0300" stop="20260615080000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615081500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woohoo Music</title>
+  </programme>
+  <programme start="20260615081500 -0300" stop="20260615083000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260615083000 -0300" stop="20260615084500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260615084500 -0300" stop="20260615090000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260615090000 -0300" stop="20260615091500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260615091500 -0300" stop="20260615091900 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260615091900 -0300" stop="20260615092100 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Reloaded</title>
+  </programme>
+  <programme start="20260615092100 -0300" stop="20260615092400 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260615092400 -0300" stop="20260615092600 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260615092600 -0300" stop="20260615092800 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260615092800 -0300" stop="20260615093000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615094500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260615094500 -0300" stop="20260615100000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Bit a Bit</title>
+  </programme>
+  <programme start="20260615100000 -0300" stop="20260615101500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260615101500 -0300" stop="20260615103000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260615103000 -0300" stop="20260615110000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Som na Lata</title>
+  </programme>
+  <programme start="20260615110000 -0300" stop="20260615113000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Hootalks</title>
+  </programme>
+  <programme start="20260615113000 -0300" stop="20260615114500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260615114500 -0300" stop="20260615120000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Vanlife</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615123000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260615123000 -0300" stop="20260615123800 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260615123800 -0300" stop="20260615124200 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Reloaded</title>
+  </programme>
+  <programme start="20260615124200 -0300" stop="20260615124800 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260615124800 -0300" stop="20260615125200 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260615125200 -0300" stop="20260615125600 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260615125600 -0300" stop="20260615130000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260615130000 -0300" stop="20260615133000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Resenha Woohoo</title>
+  </programme>
+  <programme start="20260615133000 -0300" stop="20260615134500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260615134500 -0300" stop="20260615140000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260615140000 -0300" stop="20260615143000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Eu Mega Recomendo</title>
+  </programme>
+  <programme start="20260615143000 -0300" stop="20260615144500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260615144500 -0300" stop="20260615150000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260615150000 -0300" stop="20260615151500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260615151500 -0300" stop="20260615153000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Luara e o Mar</title>
+  </programme>
+  <programme start="20260615153000 -0300" stop="20260615160000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free'das</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615163000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260615163000 -0300" stop="20260615164500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260615164500 -0300" stop="20260615170000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260615170000 -0300" stop="20260615173000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Saindo na Trip</title>
+  </programme>
+  <programme start="20260615173000 -0300" stop="20260615174500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260615174500 -0300" stop="20260615180000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615183000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Som na Lata</title>
+  </programme>
+  <programme start="20260615183000 -0300" stop="20260615184500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260615184500 -0300" stop="20260615191500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+  </programme>
+  <programme start="20260615191500 -0300" stop="20260615193000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Bit a Bit</title>
+  </programme>
+  <programme start="20260615193000 -0300" stop="20260615200000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tio Clinas Joga!</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615203000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Eu Mega Recomendo</title>
+  </programme>
+  <programme start="20260615203000 -0300" stop="20260615204500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Locals</title>
+  </programme>
+  <programme start="20260615204500 -0300" stop="20260615211500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woo Tech</title>
+  </programme>
+  <programme start="20260615211500 -0300" stop="20260615213000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Dose Dupla</title>
+  </programme>
+  <programme start="20260615213000 -0300" stop="20260615214500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260615214500 -0300" stop="20260615220000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615224500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Mixtape</title>
+  </programme>
+  <programme start="20260615224500 -0300" stop="20260615230000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tattoodo no Game</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260616030000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">1001 Noites</title>
+  </programme>
+  <programme start="20260616030000 -0300" stop="20260616031000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Do Alto</title>
+  </programme>
+  <programme start="20260616031000 -0300" stop="20260616032000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Giro GG</title>
+  </programme>
+  <programme start="20260616032000 -0300" stop="20260616033000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Short Facts</title>
+  </programme>
+  <programme start="20260616033000 -0300" stop="20260616034000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Games Trailer</title>
+  </programme>
+  <programme start="20260616034000 -0300" stop="20260616035000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Modo História</title>
+  </programme>
+  <programme start="20260616035000 -0300" stop="20260616040000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Game de A a Z</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616041000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Correndo com Woohoo</title>
+  </programme>
+  <programme start="20260616041000 -0300" stop="20260616042000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">X1 Improváveis</title>
+  </programme>
+  <programme start="20260616042000 -0300" stop="20260616043000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Shorts do Tio Clinas</title>
+  </programme>
+  <programme start="20260616043000 -0300" stop="20260616044000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260616044000 -0300" stop="20260616045000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tbt</title>
+  </programme>
+  <programme start="20260616045000 -0300" stop="20260616050000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Projeto Califa</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616053000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+  </programme>
+  <programme start="20260616053000 -0300" stop="20260616060000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Saindo na Trip</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616061500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260616061500 -0300" stop="20260616063000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260616063000 -0300" stop="20260616070000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Resenha Woohoo</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616071500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260616071500 -0300" stop="20260616073000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Bit a Bit</title>
+  </programme>
+  <programme start="20260616073000 -0300" stop="20260616080000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616083000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">D.n.a.</title>
+  </programme>
+  <programme start="20260616083000 -0300" stop="20260616084500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260616084500 -0300" stop="20260616090000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616090400 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260616090400 -0300" stop="20260616093000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Reloaded</title>
+  </programme>
+  <programme start="20260616093000 -0300" stop="20260616100000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Eu Mega Recomendo</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616101500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260616101500 -0300" stop="20260616103000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260616103000 -0300" stop="20260616104500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260616104500 -0300" stop="20260616110000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260616110000 -0300" stop="20260616120000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Streamerland</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616123000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Som na Lata</title>
+  </programme>
+  <programme start="20260616123000 -0300" stop="20260616124500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woohoo Music</title>
+  </programme>
+  <programme start="20260616124500 -0300" stop="20260616130000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Luara e o Mar</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616133000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260616133000 -0300" stop="20260616134500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260616134500 -0300" stop="20260616134900 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260616134900 -0300" stop="20260616135100 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Reloaded</title>
+  </programme>
+  <programme start="20260616135100 -0300" stop="20260616135400 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260616135400 -0300" stop="20260616135600 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260616135600 -0300" stop="20260616135800 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260616135800 -0300" stop="20260616140000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260616143000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Hootalks</title>
+  </programme>
+  <programme start="20260616143000 -0300" stop="20260616144500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260616144500 -0300" stop="20260616150000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260616150000 -0300" stop="20260616153000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260616153000 -0300" stop="20260616154500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260616154500 -0300" stop="20260616160000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616161500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260616161500 -0300" stop="20260616161900 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Surf Kidz</title>
+  </programme>
+  <programme start="20260616161900 -0300" stop="20260616162300 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260616162300 -0300" stop="20260616162700 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260616162700 -0300" stop="20260616163000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Gibigice</title>
+  </programme>
+  <programme start="20260616163000 -0300" stop="20260616170000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Resenha Woohoo</title>
+  </programme>
+  <programme start="20260616170000 -0300" stop="20260616180000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Streamerland</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616183000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">D.n.a.</title>
+  </programme>
+  <programme start="20260616183000 -0300" stop="20260616184500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260616184500 -0300" stop="20260616190000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Bit a Bit</title>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616193000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woo Tech</title>
+  </programme>
+  <programme start="20260616193000 -0300" stop="20260616194500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woohoo Music</title>
+  </programme>
+  <programme start="20260616194500 -0300" stop="20260616200000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616203000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Som na Lata</title>
+  </programme>
+  <programme start="20260616203000 -0300" stop="20260616204500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Vanlife</title>
+  </programme>
+  <programme start="20260616204500 -0300" stop="20260616210000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Dose Dupla</title>
+  </programme>
+  <programme start="20260616210000 -0300" stop="20260616211500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260616211500 -0300" stop="20260616213000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Locals</title>
+  </programme>
+  <programme start="20260616213000 -0300" stop="20260616214500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260616214500 -0300" stop="20260616221500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Viajando pelo Brasil</title>
+  </programme>
+  <programme start="20260616221500 -0300" stop="20260616223000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Luara e o Mar</title>
+  </programme>
+  <programme start="20260616223000 -0300" stop="20260616224500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260616224500 -0300" stop="20260616230000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260616230000 -0300" stop="20260617060600 -0300" channel="WOOHOO FHD">
+    <title lang="pt">1001 Noites</title>
+  </programme>
+  <programme start="20260617060600 -0300" stop="20260617060900 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260617060900 -0300" stop="20260617061100 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260617061100 -0300" stop="20260617061300 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260617061300 -0300" stop="20260617061500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260617061500 -0300" stop="20260617063000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260617063000 -0300" stop="20260617070000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tio Clinas Joga!</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617073000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Viajando pelo Brasil</title>
+  </programme>
+  <programme start="20260617073000 -0300" stop="20260617080000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617083000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Resenha Woohoo</title>
+  </programme>
+  <programme start="20260617083000 -0300" stop="20260617084500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260617084500 -0300" stop="20260617090000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260617090000 -0300" stop="20260617091500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260617091500 -0300" stop="20260617093000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260617093000 -0300" stop="20260617094500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Dose Dupla</title>
+  </programme>
+  <programme start="20260617094500 -0300" stop="20260617100000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Luara e o Mar</title>
+  </programme>
+  <programme start="20260617100000 -0300" stop="20260617101500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Locals</title>
+  </programme>
+  <programme start="20260617101500 -0300" stop="20260617103000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260617103000 -0300" stop="20260617110000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+  </programme>
+  <programme start="20260617110000 -0300" stop="20260617120000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Streamerland</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617123000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Hootalks</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617124500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Check Point</title>
+  </programme>
+  <programme start="20260617124500 -0300" stop="20260617130000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Games</title>
+  </programme>
+  <programme start="20260617130000 -0300" stop="20260617131500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue</title>
+  </programme>
+  <programme start="20260617131500 -0300" stop="20260617133000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Moovies</title>
+  </programme>
+  <programme start="20260617133000 -0300" stop="20260617134500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Olho de Peixe</title>
+  </programme>
+  <programme start="20260617134500 -0300" stop="20260617141500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Eu Mega Recomendo</title>
+  </programme>
+  <programme start="20260617141500 -0300" stop="20260617144500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260617144500 -0300" stop="20260617150000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260617150000 -0300" stop="20260617151500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260617151500 -0300" stop="20260617153000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260617153000 -0300" stop="20260617154500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260617154500 -0300" stop="20260617161500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Resenha Woohoo</title>
+  </programme>
+  <programme start="20260617161500 -0300" stop="20260617161900 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Surf Kidz</title>
+  </programme>
+  <programme start="20260617161900 -0300" stop="20260617162300 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free Surf</title>
+  </programme>
+  <programme start="20260617162300 -0300" stop="20260617162700 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Queue Staff Picks</title>
+  </programme>
+  <programme start="20260617162700 -0300" stop="20260617163000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Gibigice</title>
+  </programme>
+  <programme start="20260617163000 -0300" stop="20260617170000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Papo Reto</title>
+  </programme>
+  <programme start="20260617170000 -0300" stop="20260617180000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Streamerland</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617181500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tattoodo no Game</title>
+  </programme>
+  <programme start="20260617181500 -0300" stop="20260617183000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woohoo Music</title>
+  </programme>
+  <programme start="20260617183000 -0300" stop="20260617184500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Onboarding Tribos</title>
+  </programme>
+  <programme start="20260617184500 -0300" stop="20260617190000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Pipoca no Set</title>
+  </programme>
+  <programme start="20260617190000 -0300" stop="20260617193000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">D.n.a.</title>
+  </programme>
+  <programme start="20260617193000 -0300" stop="20260617194500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Custom</title>
+  </programme>
+  <programme start="20260617194500 -0300" stop="20260617200000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Caminhos da Sol</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617201500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Vanlife</title>
+  </programme>
+  <programme start="20260617201500 -0300" stop="20260617203000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Top Ranking</title>
+  </programme>
+  <programme start="20260617203000 -0300" stop="20260617204500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Bit a Bit</title>
+  </programme>
+  <programme start="20260617204500 -0300" stop="20260617211500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Hootalks</title>
+  </programme>
+  <programme start="20260617211500 -0300" stop="20260617214500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Eu Mega Recomendo</title>
+  </programme>
+  <programme start="20260617214500 -0300" stop="20260617220000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Luara e o Mar</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617223000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Free'das</title>
+  </programme>
+  <programme start="20260617223000 -0300" stop="20260617230000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Som na Lata</title>
+  </programme>
+  <programme start="20260617230000 -0300" stop="20260618030000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">1001 Noites</title>
+  </programme>
+  <programme start="20260618030000 -0300" stop="20260618031000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Do Alto</title>
+  </programme>
+  <programme start="20260618031000 -0300" stop="20260618032000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Giro GG</title>
+  </programme>
+  <programme start="20260618032000 -0300" stop="20260618033000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Short Facts</title>
+  </programme>
+  <programme start="20260618033000 -0300" stop="20260618034000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Games Trailer</title>
+  </programme>
+  <programme start="20260618034000 -0300" stop="20260618035000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Modo História</title>
+  </programme>
+  <programme start="20260618035000 -0300" stop="20260618040000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Game de A a Z</title>
+  </programme>
+  <programme start="20260618040000 -0300" stop="20260618041000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Correndo com Woohoo</title>
+  </programme>
+  <programme start="20260618041000 -0300" stop="20260618042000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">X1 Improváveis</title>
+  </programme>
+  <programme start="20260618042000 -0300" stop="20260618043000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Shorts do Tio Clinas</title>
+  </programme>
+  <programme start="20260618043000 -0300" stop="20260618044000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Snap</title>
+  </programme>
+  <programme start="20260618044000 -0300" stop="20260618045000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tbt</title>
+  </programme>
+  <programme start="20260618045000 -0300" stop="20260618050000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Projeto Califa</title>
+  </programme>
+  <programme start="20260618050000 -0300" stop="20260618051500 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Woohoo Music</title>
+  </programme>
+  <programme start="20260618051500 -0300" stop="20260618053000 -0300" channel="WOOHOO FHD">
+    <title lang="pt">Tattoodo no Game</title>
+  </programme>
+</tv>
