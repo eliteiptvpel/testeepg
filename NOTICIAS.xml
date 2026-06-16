@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BAND NEWS FHD">
+    <display-name lang="pt">BAND NEWS FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0078.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="BLOOMBERG FHD">
+    <display-name lang="pt">BLOOMBERG FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0008.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="CNN FHD">
+    <display-name lang="pt">CNN FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0022.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="CNN 2 FHD">
+    <display-name lang="pt">CNN 2 FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0023.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="GLOBO NEWS FHD">
+    <display-name lang="pt">GLOBO NEWS FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0186.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <channel id="RECORD NEWS FHD">
+    <display-name lang="pt">RECORD NEWS FHD</display-name>
+    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0075.jpg" />
+    <url>http://www.tvinside.com.br</url>
+  </channel>
+  <programme start="20260615060000 -0300" stop="20260615090000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260615090000 -0300" stop="20260615120000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615150000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260615150000 -0300" stop="20260615180000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260616000000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616030000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616030000 -0300" stop="20260616060000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616090000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616120000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616150000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616150000 -0300" stop="20260616180000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260617000000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617030000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617030000 -0300" stop="20260617075900 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617075900 -0300" stop="20260617090000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617090000 -0300" stop="20260617120000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617120000 -0300" stop="20260617150000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617150000 -0300" stop="20260617180000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260618000000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618030000 -0300" channel="BAND NEWS FHD">
+    <title lang="pt">Notícias 24 Horas</title>
+  </programme>
+  <programme start="20260615120000 -0300" stop="20260615123000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Bloomberg Voices</title>
+  </programme>
+  <programme start="20260615123000 -0300" stop="20260616010000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Global News Update</title>
+  </programme>
+  <programme start="20260616010000 -0300" stop="20260616050000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">European Market Countdown</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616080000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">First Word</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616110000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercados Em Ação</title>
+  </programme>
+  <programme start="20260616110000 -0300" stop="20260616140000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercado Agora - 1ª Edição</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260617000000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercado Agora - 3ª Edição</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617010000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Jornal da Bloomberg</title>
+  </programme>
+  <programme start="20260617010000 -0300" stop="20260617050000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">European Market Countdown</title>
+  </programme>
+  <programme start="20260617050000 -0300" stop="20260617080000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">First Word</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617110000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercados Em Ação</title>
+  </programme>
+  <programme start="20260617110000 -0300" stop="20260617140000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercado Agora - 1ª Edição</title>
+  </programme>
+  <programme start="20260617140000 -0300" stop="20260617190000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Mercado Agora - 3ª Edição</title>
+  </programme>
+  <programme start="20260617190000 -0300" stop="20260618010000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">Jornal da Bloomberg</title>
+  </programme>
+  <programme start="20260618010000 -0300" stop="20260618050000 -0300" channel="BLOOMBERG FHD">
+    <title lang="pt">European Market Countdown</title>
+  </programme>
+  <programme start="20260615033000 -0300" stop="20260615063000 -0300" channel="CNN FHD">
+    <title lang="pt">Deportes CNN</title>
+  </programme>
+  <programme start="20260615063000 -0300" stop="20260615093000 -0300" channel="CNN FHD">
+    <title lang="pt">En Familia</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615123000 -0300" channel="CNN FHD">
+    <title lang="pt">En Efectivo</title>
+  </programme>
+  <programme start="20260615123000 -0300" stop="20260615153000 -0300" channel="CNN FHD">
+    <title lang="pt">Deportes CNN</title>
+  </programme>
+  <programme start="20260615153000 -0300" stop="20260616000000 -0300" channel="CNN FHD">
+    <title lang="pt">En Familia</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616030000 -0300" channel="CNN FHD">
+    <title lang="pt">Consulta Médica</title>
+  </programme>
+  <programme start="20260616030000 -0300" stop="20260616060000 -0300" channel="CNN FHD">
+    <title lang="pt">Panorama Mundial</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616090000 -0300" channel="CNN FHD">
+    <title lang="pt">Deportes CNN</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616120000 -0300" channel="CNN FHD">
+    <title lang="pt">Al Día</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616150000 -0300" channel="CNN FHD">
+    <title lang="pt">Al Día</title>
+  </programme>
+  <programme start="20260616150000 -0300" stop="20260616180000 -0300" channel="CNN FHD">
+    <title lang="pt">Nuestro Mundo</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260617000000 -0300" channel="CNN FHD">
+    <title lang="pt">Nuestro Mundo</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617000500 -0300" channel="CNN FHD">
+    <title lang="pt">Nuestro Mundo</title>
+  </programme>
+  <programme start="20260617000500 -0300" stop="20260617033000 -0300" channel="CNN FHD">
+    <title lang="pt">Directo desde EE.UU.</title>
+  </programme>
+  <programme start="20260617033000 -0300" stop="20260617080000 -0300" channel="CNN FHD">
+    <title lang="pt">Deportes CNN</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617093000 -0300" channel="CNN FHD">
+    <title lang="pt">Adelantos</title>
+  </programme>
+  <programme start="20260617093000 -0300" stop="20260617123000 -0300" channel="CNN FHD">
+    <title lang="pt">Economia y Finanzas</title>
+  </programme>
+  <programme start="20260617123000 -0300" stop="20260617153000 -0300" channel="CNN FHD">
+    <title lang="pt">Deportes Cnn - Vive el Golf</title>
+  </programme>
+  <programme start="20260617153000 -0300" stop="20260618000000 -0300" channel="CNN FHD">
+    <title lang="pt">Adelantos</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618003000 -0300" channel="CNN FHD">
+    <title lang="pt">En Efectivo</title>
+  </programme>
+  <programme start="20260618003000 -0300" stop="20260618033000 -0300" channel="CNN FHD">
+    <title lang="pt">Economia y Finanzas</title>
+  </programme>
+  <programme start="20260615050000 -0300" stop="20260615080000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260615080000 -0300" stop="20260615110000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Back Story</title>
+  </programme>
+  <programme start="20260615110000 -0300" stop="20260615140000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Business Today</title>
+  </programme>
+  <programme start="20260615140000 -0300" stop="20260615170000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260615170000 -0300" stop="20260615200000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Amanpour</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260616000000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Piers Morgan Tonight</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616002400 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Quest Means Business</title>
+  </programme>
+  <programme start="20260616002400 -0300" stop="20260616010000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Piers Morgan Tonight</title>
+  </programme>
+  <programme start="20260616010000 -0300" stop="20260616020000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">The Situation Room</title>
+  </programme>
+  <programme start="20260616020000 -0300" stop="20260616023000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260616023000 -0300" stop="20260616030000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">African Voices</title>
+  </programme>
+  <programme start="20260616030000 -0300" stop="20260616050000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">CNN Newsroom</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616053000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260616053000 -0300" stop="20260616060000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Talk Asia</title>
+  </programme>
+  <programme start="20260616060000 -0300" stop="20260616070000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Business Today</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616073000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">CNN Newsroom</title>
+  </programme>
+  <programme start="20260616073000 -0300" stop="20260616080000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Special</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616083000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Amanpour</title>
+  </programme>
+  <programme start="20260616083000 -0300" stop="20260616090000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">CNN Newscenter</title>
+  </programme>
+  <programme start="20260616090000 -0300" stop="20260616100000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Piers Morgan Tonight</title>
+  </programme>
+  <programme start="20260616100000 -0300" stop="20260616110000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">News Stream</title>
+  </programme>
+  <programme start="20260616110000 -0300" stop="20260616120000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Business Today</title>
+  </programme>
+  <programme start="20260616120000 -0300" stop="20260616130000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">International Desk</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616140000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Global Exchange</title>
+  </programme>
+  <programme start="20260616140000 -0300" stop="20260616143000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260616143000 -0300" stop="20260616150000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Special</title>
+  </programme>
+  <programme start="20260616150000 -0300" stop="20260616160000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">International Desk</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616170000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Quest Means Business</title>
+  </programme>
+  <programme start="20260616170000 -0300" stop="20260616173000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Amanpour</title>
+  </programme>
+  <programme start="20260616173000 -0300" stop="20260616180000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">CNN Newscenter</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616200000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Connect The World</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260617000000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Piers Morgan Tonight</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617020000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Anderson Cooper 360</title>
+  </programme>
+  <programme start="20260617020000 -0300" stop="20260617050000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260617050000 -0300" stop="20260617080000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Sport</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617125500 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Amanpour</title>
+  </programme>
+  <programme start="20260617125500 -0300" stop="20260617170000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">World Business Today</title>
+  </programme>
+  <programme start="20260617170000 -0300" stop="20260618000000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Conect The World</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618030000 -0300" channel="CNN 2 FHD">
+    <title lang="pt">Quest Means Business</title>
+  </programme>
+  <programme start="20260615060000 -0300" stop="20260615090000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews em Ponto</title>
+  </programme>
+  <programme start="20260615090000 -0300" stop="20260615093000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Conexão Globonews</title>
+  </programme>
+  <programme start="20260615093000 -0300" stop="20260615130000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Conexão Globonews</title>
+  </programme>
+  <programme start="20260615130000 -0300" stop="20260615160000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20260615160000 -0300" stop="20260615180000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Mais</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615200000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h</title>
+  </programme>
+  <programme start="20260615200000 -0300" stop="20260615220000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615230000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260616000000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Especial</title>
+  </programme>
+  <programme start="20260616000000 -0300" stop="20260616010000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite</title>
+  </programme>
+  <programme start="20260616010000 -0300" stop="20260616030000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260616030000 -0300" stop="20260616040000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Especial</title>
+  </programme>
+  <programme start="20260616040000 -0300" stop="20260616050000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260616050000 -0300" stop="20260616070000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal Globonews</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616093000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews em Ponto</title>
+  </programme>
+  <programme start="20260616093000 -0300" stop="20260616130000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Conexão Globonews</title>
+  </programme>
+  <programme start="20260616130000 -0300" stop="20260616160000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20260616160000 -0300" stop="20260616180000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Mais</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616200000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h</title>
+  </programme>
+  <programme start="20260616200000 -0300" stop="20260616220000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616233000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260616233000 -0300" stop="20260617000000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Variedades/Entrevista</title>
+  </programme>
+  <programme start="20260617000000 -0300" stop="20260617010000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite</title>
+  </programme>
+  <programme start="20260617010000 -0300" stop="20260617030000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260617030000 -0300" stop="20260617033000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Variedades/Entrevista</title>
+  </programme>
+  <programme start="20260617033000 -0300" stop="20260617050000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260617050000 -0300" stop="20260617070000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal Globonews</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617093000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews em Ponto</title>
+  </programme>
+  <programme start="20260617093000 -0300" stop="20260617130000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Conexão Globonews</title>
+  </programme>
+  <programme start="20260617130000 -0300" stop="20260617160000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20260617160000 -0300" stop="20260617180000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Mais</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617200000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição das 18h</title>
+  </programme>
+  <programme start="20260617200000 -0300" stop="20260617220000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260617220000 -0300" stop="20260617233000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260617233000 -0300" stop="20260618000000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Miriam Leitão</title>
+  </programme>
+  <programme start="20260618000000 -0300" stop="20260618010000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal GloboNews Edição da Meia-noite</title>
+  </programme>
+  <programme start="20260618010000 -0300" stop="20260618030000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Em Pauta</title>
+  </programme>
+  <programme start="20260618030000 -0300" stop="20260618033000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Globonews Miriam Leitão</title>
+  </programme>
+  <programme start="20260618033000 -0300" stop="20260618050000 -0300" channel="GLOBO NEWS FHD">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20260615101500 -0300" stop="20260615104500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Mundo Record News</title>
+  </programme>
+  <programme start="20260615104500 -0300" stop="20260615133000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260615133000 -0300" stop="20260615150000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Conexão Record News</title>
+  </programme>
+  <programme start="20260615150000 -0300" stop="20260615153000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Zapping</title>
+  </programme>
+  <programme start="20260615153000 -0300" stop="20260615180000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260615180000 -0300" stop="20260615184500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Link News</title>
+  </programme>
+  <programme start="20260615184500 -0300" stop="20260615190000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Esporte Record News</title>
+  </programme>
+  <programme start="20260615190000 -0300" stop="20260615194500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News 19 Horas</title>
+  </programme>
+  <programme start="20260615194500 -0300" stop="20260615201000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Elas com a Bola</title>
+  </programme>
+  <programme start="20260615201000 -0300" stop="20260615210000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260615210000 -0300" stop="20260615220000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record News</title>
+  </programme>
+  <programme start="20260615220000 -0300" stop="20260615223000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News das 10</title>
+  </programme>
+  <programme start="20260615223000 -0300" stop="20260615230000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Aldeia News</title>
+  </programme>
+  <programme start="20260615230000 -0300" stop="20260616003000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Joga nas 11</title>
+  </programme>
+  <programme start="20260616003000 -0300" stop="20260616010000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260616010000 -0300" stop="20260616013000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20260616013000 -0300" stop="20260616043000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Balanço Geral</title>
+  </programme>
+  <programme start="20260616043000 -0300" stop="20260616054500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260616054500 -0300" stop="20260616063000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Recor  News Rural</title>
+  </programme>
+  <programme start="20260616063000 -0300" stop="20260616070000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20260616070000 -0300" stop="20260616071000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Aldeia News</title>
+  </programme>
+  <programme start="20260616071000 -0300" stop="20260616073000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Inovação &amp; Negócios</title>
+  </programme>
+  <programme start="20260616073000 -0300" stop="20260616080000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Zapping</title>
+  </programme>
+  <programme start="20260616080000 -0300" stop="20260616084500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Record News Rural</title>
+  </programme>
+  <programme start="20260616084500 -0300" stop="20260616101500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Alerta Brasil</title>
+  </programme>
+  <programme start="20260616101500 -0300" stop="20260616104500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Mundo Record News</title>
+  </programme>
+  <programme start="20260616104500 -0300" stop="20260616133000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260616133000 -0300" stop="20260616150000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Conexão Record News</title>
+  </programme>
+  <programme start="20260616150000 -0300" stop="20260616153000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Zapping</title>
+  </programme>
+  <programme start="20260616153000 -0300" stop="20260616180000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260616180000 -0300" stop="20260616184500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Link News</title>
+  </programme>
+  <programme start="20260616184500 -0300" stop="20260616190000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Esporte Record News</title>
+  </programme>
+  <programme start="20260616190000 -0300" stop="20260616194500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News 19 Horas</title>
+  </programme>
+  <programme start="20260616194500 -0300" stop="20260616201000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Elas com a Bola</title>
+  </programme>
+  <programme start="20260616201000 -0300" stop="20260616210000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260616210000 -0300" stop="20260616220000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record News</title>
+  </programme>
+  <programme start="20260616220000 -0300" stop="20260616223000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News das 10</title>
+  </programme>
+  <programme start="20260616223000 -0300" stop="20260616234500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Aldeia News</title>
+  </programme>
+  <programme start="20260616234500 -0300" stop="20260617010000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260617010000 -0300" stop="20260617013000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20260617013000 -0300" stop="20260617043000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Balanço Geral</title>
+  </programme>
+  <programme start="20260617043000 -0300" stop="20260617054500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260617054500 -0300" stop="20260617063000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Record News Rural</title>
+  </programme>
+  <programme start="20260617063000 -0300" stop="20260617070000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20260617070000 -0300" stop="20260617071000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Aldeia News</title>
+  </programme>
+  <programme start="20260617071000 -0300" stop="20260617073000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Inovação &amp; Negócios</title>
+  </programme>
+  <programme start="20260617073000 -0300" stop="20260617080000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Zapping</title>
+  </programme>
+  <programme start="20260617080000 -0300" stop="20260617084500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Record News Rural</title>
+  </programme>
+  <programme start="20260617084500 -0300" stop="20260617101500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Alerta Brasil</title>
+  </programme>
+  <programme start="20260617101500 -0300" stop="20260617104500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Mundo Record News</title>
+  </programme>
+  <programme start="20260617104500 -0300" stop="20260617133000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260617133000 -0300" stop="20260617150000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Conexão Record News</title>
+  </programme>
+  <programme start="20260617150000 -0300" stop="20260617153000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Zapping</title>
+  </programme>
+  <programme start="20260617153000 -0300" stop="20260617180000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+  <programme start="20260617180000 -0300" stop="20260617184500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Link News</title>
+  </programme>
+  <programme start="20260617184500 -0300" stop="20260617190000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Esporte Record News</title>
+  </programme>
+  <programme start="20260617190000 -0300" stop="20260617194500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News 19 Horas</title>
+  </programme>
+  <programme start="20260617194500 -0300" stop="20260617201000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Elas com a Bola</title>
+  </programme>
+  <programme start="20260617201000 -0300" stop="20260617210000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260617210000 -0300" stop="20260617213000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record News</title>
+  </programme>
+  <programme start="20260617213000 -0300" stop="20260617224500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hipercap</title>
+  </programme>
+  <programme start="20260617224500 -0300" stop="20260617231500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">News das 10</title>
+  </programme>
+  <programme start="20260617231500 -0300" stop="20260617234500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Entrevista Record News</title>
+  </programme>
+  <programme start="20260617234500 -0300" stop="20260618010000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260618010000 -0300" stop="20260618013000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Nosso Tempo</title>
+  </programme>
+  <programme start="20260618013000 -0300" stop="20260618043000 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Balanço Geral</title>
+  </programme>
+  <programme start="20260618043000 -0300" stop="20260618054500 -0300" channel="RECORD NEWS FHD">
+    <title lang="pt">Hora News</title>
+  </programme>
+</tv>
